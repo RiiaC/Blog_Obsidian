@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasProperty("image")
+    image: note.image

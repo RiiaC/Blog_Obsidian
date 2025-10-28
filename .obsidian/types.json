@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "animals_seen": "multitext",
+    "location": "multitext",
+    "country": "multitext",
+    "high temp (C)": "number",
+    "low temp (C)": "number",
+    "weight(kg)": "number",
+    "training": "multitext",
+    "acroyoga": "multitext"
+  }
+}
