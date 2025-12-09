@@ -1,5 +1,6 @@
 [
   "multi-properties",
   "dataview",
-  "local-backup"
+  "local-backup",
+  "custom-sort"
 ]

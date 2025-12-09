@@ -10,6 +10,10 @@
     "low temp (C)": "number",
     "weight(kg)": "number",
     "training": "multitext",
-    "acroyoga": "multitext"
+    "acroyoga": "multitext",
+    "date started": "text",
+    "materials used": "multitext",
+    "date acquired": "text",
+    "ingredients": "multitext"
   }
 }

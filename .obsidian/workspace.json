@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "eca2f18fca34e023",
+        "id": "02d1354b894b9edd",
         "type": "tabs",
         "children": [
           {
-            "id": "3d99016862964718",
+            "id": "e84dd1ae4a123db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2011-present Sweden/2025 second half year/2025-10-28.md",
+                "file": "content/Journal/2025 second half year/2025-12-09 it is a plan!.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "2025-12-09 it is a plan!"
             }
           }
         ]
@@ -41,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"photos_pubished\"]",
-                "matchingCase": false,
+                "query": "[\"materials used\"]",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "382a3c4250685d4c",
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2011-present Sweden/2025 second half year/2025-08-25.md",
+                "file": "Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-25"
+              "title": "Outline of Base"
             }
           },
           {
@@ -171,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2011-present Sweden/2025 second half year/2025-10-28.md"
+                "file": "content/Journal/2025 second half year/2025-12-09 it is a plan!.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-10-28"
+              "title": "File properties for 2025-12-09 it is a plan!"
             }
           }
         ],
@@ -182,67 +192,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "local-backup:Run local backup": true
+      "local-backup:Run local backup": true,
+      "daily-notes:Open today's daily note": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3d99016862964718",
+  "active": "e84dd1ae4a123db0",
   "lastOpenFiles": [
-    "2011-present Sweden/2025 second half year/2025-10-27 Successful acroyoga after a long break.md",
-    "2011-present Sweden/2025 second half year/2025-10-28.md",
-    "2011-present Sweden/2025 second half year/2025-10-04 Clara arrives.md",
-    "2011-present Sweden/2025 second half year/2025-10-26 beginnings.md",
-    "2011-present Sweden/Old posts/2020-11-10 Keldor's Tailor's story.md",
-    "Images/2025-10-27 BeReal jag.jpeg",
-    "Images/2025-10-27BeReal Skaði.jpeg",
-    "Images/2025-10-27 plan B.jpeg",
-    "Images/2025-10-27 plan A.jpeg",
-    "Images/2025-10-27 attic.jpeg",
-    "2011-present Sweden/2025 second half year/2025-10-25 Smithy at Grundet.md",
-    "2011-present Sweden/2025 second half year/2025-10-23 Kuba's early Lidar WiP talk.md",
-    "2011-present Sweden/2025 second half year/2025-10-22 talked with a contractor.md",
-    "Images/2025-10-25 BeReal jag.jpeg",
-    "Images/2025-10-25 BeReal forge.jpeg",
-    "Images/2025-10-25 belt hooks.jpg",
-    "Images/2025-10-23 BeReal Kuba.jpeg",
-    "Images/2025-10-22 BeReal Keldor.jpeg",
-    "2011-present Sweden/2025 second half year/2025-10-19 rescue mission phase one.md",
-    "2011-present Sweden/2025 second half year/2025-10-20 driving through the night.md",
-    "2011-present Sweden/2025 second half year/2025-10-18 Boar Hunt.md",
-    "2011-present Sweden/2025 second half year/2025-10-21 Staying at work longer than intended.md",
-    "2011-present Sweden/2025 second half year/2025-10-17 Anundshög etc..md",
-    "2011-present Sweden/2025 second half year/2025-10-16 Skuleberget!.md",
-    "2011-present Sweden/2025 second half year/2025-10-15 that's a nope.md",
-    "2011-present Sweden/2025 second half year/2025-10-08 new computer.md",
-    "2011-present Sweden/2025 second half year/2025-10-14 perhaps I will keep it.md",
-    "2011-present Sweden/2025 second half year/2025-10-13 small progress.md",
-    "2011-present Sweden/2025 second half year/2025-10-11 smithy and games night.md",
-    "2011-present Sweden/2025 second half year/2025-09/2025-09-03 my first housekeeper!.md",
-    "2011-present Sweden/2025 second half year/2025-09/2025-09-01 the Dragon's Cudgels go zoom.md",
-    "2011-present Sweden/2025 first half year/2025-02-21 mysigaste soffa.md",
-    "2011-present Sweden/2025 first half year/2025-03-21 Job offer accepted whilst on adventures.md",
-    "2011-present Sweden/2025 first half year/2025-03-31 sewig plaid.md",
-    "2011-present Sweden/2025 first half year/2025-02-20 doing my own thing.md",
-    "2011-present Sweden/2025 first half year/2025-01-12 painting progress.md",
-    "Base.base",
-    "2011-present Sweden/2025 second half year/2025-10",
-    "2011-present Sweden/2025 second half year/2025-09",
-    "2011-present Sweden/2025 second half year/2025-08",
-    "2011-present Sweden/2025 second half year/2025-08-31",
-    "2011-present Sweden/2025 second half year",
-    "Images/2025-08-10 soapstone carving workshop",
-    "2011-present Sweden/2025 first half year",
-    "Early life/1966-67 epic baby roadtrip",
-    "2011-present Sweden/2025 Lofoten trip"
+    "node_modules/zwitch/package.json",
+    "node_modules/zwitch/readme.md",
+    "node_modules/zwitch/license",
+    "node_modules/zwitch/index.js",
+    "node_modules/zwitch/index.d.ts",
+    "node_modules/zwitch",
+    "node_modules/yoga-layout/dist/src/generated/YGEnums.js.map",
+    "node_modules/yoga-layout/dist/src/generated/YGEnums.d.ts",
+    "node_modules/yoga-layout/dist/src/generated/YGEnums.js",
+    "node_modules/yoga-layout/src/generated/YGEnums.ts",
+    "node_modules/yoga-layout/dist/src/wrapAssembly.js.map",
+    "node_modules/yoga-layout/dist/src/load.js.map",
+    "node_modules/yoga-layout/README.md",
+    "node_modules/yargs-parser/README.md",
+    "node_modules/yargs-parser/CHANGELOG.md",
+    "node_modules/yargs/README.md",
+    "node_modules/y18n/README.md",
+    "node_modules/y18n/CHANGELOG.md",
+    "node_modules/xmldom-sre/readme.md",
+    "node_modules/ws/README.md",
+    "node_modules/wrap-ansi/readme.md",
+    "node_modules/workerpool/README.md",
+    "node_modules/workerpool/HISTORY.md",
+    "node_modules/vfile-location/node_modules/@types/unist/README.md",
+    "node_modules/vfile-location/readme.md",
+    "node_modules/wicked-good-xpath/README.md",
+    "node_modules/web-namespaces/readme.md",
+    "node_modules/varint/README.md",
+    "node_modules/vfile/node_modules/@types/unist/README.md",
+    "node_modules/vfile/node_modules/unist-util-stringify-position/readme.md",
+    "node_modules/vfile/node_modules/vfile-message/readme.md",
+    "node_modules/vfile/readme.md",
+    "node_modules/unist-util-position/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-position/readme.md",
+    "node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-modify-children/readme.md",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "Images/2025-12-08 pound cake.jpg"
   ]
 }

@@ -4,4 +4,35 @@ views:
     filters:
       and:
         - file.hasProperty("image")
+    sort:
+      - property: file.name
+        direction: DESC
     image: note.image
+  - type: table
+    name: table
+    filters:
+      or:
+        - file.folder.startsWith("2011-present (Sweden)")
+        - file.folder.startsWith("Early life")
+    order:
+      - file.name
+      - high_temp(°C)
+      - location
+      - low_temp(°C)
+      - weight(kg)
+      - training
+      - image
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: weight(kg)
+        direction: DESC
+      - property: location
+        direction: ASC
+      - property: high temp (C)
+        direction: ASC
+    columnSize:
+      file.name: 186
+      note.location: 239
+      note.training: 108
+      note.image: 88
