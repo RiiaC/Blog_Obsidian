@@ -186,9 +186,19 @@
               "icon": "lucide-info",
               "title": "File properties for 2025-12-09 it is a plan!"
             }
+          },
+          {
+            "id": "1661972a21173b7f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -204,11 +214,14 @@
       "bases:Create new base": true,
       "local-backup:Run local backup": true,
       "daily-notes:Open today's daily note": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e84dd1ae4a123db0",
   "lastOpenFiles": [
+    "content/Journal/2025 second half year/2025-12-07 helping with a sewing project.md",
+    "content/Journal/2025 second half year/2025-12-09 it is a plan!.md",
     "node_modules/zwitch/package.json",
     "node_modules/zwitch/readme.md",
     "node_modules/zwitch/license",
@@ -220,7 +233,6 @@
     "node_modules/yoga-layout/dist/src/generated/YGEnums.js",
     "node_modules/yoga-layout/src/generated/YGEnums.ts",
     "node_modules/yoga-layout/dist/src/wrapAssembly.js.map",
-    "node_modules/yoga-layout/dist/src/load.js.map",
     "node_modules/yoga-layout/README.md",
     "node_modules/yargs-parser/README.md",
     "node_modules/yargs-parser/CHANGELOG.md",
@@ -244,7 +256,6 @@
     "node_modules/unist-util-position/node_modules/@types/unist/README.md",
     "node_modules/unist-util-position/readme.md",
     "node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
-    "node_modules/unist-util-modify-children/readme.md",
     "node_modules/js-binary-schema-parser/example/horses.gif",
     "node_modules/js-binary-schema-parser/example/box.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",

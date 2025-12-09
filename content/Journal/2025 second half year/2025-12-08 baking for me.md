@@ -31,4 +31,4 @@ Then I mixed up a new batch of  [[Museli]], and even had time to write up notes 
 
 - [ ] Fix this blog, it has duplicate folders
 
-Previous post: [[2025-12-07]]
+Previous post: [[2025-12-07 helping with a sewing project]]
