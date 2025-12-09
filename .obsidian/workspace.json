@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Journal/2025 second half year/2025-12-09 it is a plan!.md",
+                "file": "content/Journal/2025 second half year/how to fix my blogs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-09 it is a plan!"
+              "title": "how to fix my blogs"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 312.5
   },
   "right": {
     "id": "382a3c4250685d4c",
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Journal/2025 second half year/2025-12-09 it is a plan!.md"
+                "file": "content/Journal/2025 second half year/how to fix my blogs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-12-09 it is a plan!"
+              "title": "File properties for how to fix my blogs"
             }
           },
           {
@@ -220,19 +220,36 @@
   },
   "active": "e84dd1ae4a123db0",
   "lastOpenFiles": [
-    "content/Journal/2025 second half year/2025-12-07 helping with a sewing project.md",
+    "public/tags/ChatGPT.html",
+    "public/index-og-image.webp",
+    "public/Recipes/Pound-Cake-og-image.webp",
+    "public/Recipes/Museli-og-image.webp",
+    "public/Places-I-have-lived/Old-posts/2020-11-10-Keldor's-Tailor's-story-og-image.webp",
+    "public/Journal/index-og-image.webp",
+    "public/Journal/2025-second-half-year/how-to-fix-my-blogs-og-image.webp",
+    "public/Journal/2025-second-half-year/2025-12-09-it-is-a-plan!-og-image.webp",
+    "public/Journal/2025-second-half-year/2025-12-07-helping-with-a-sewing-project-og-image.webp",
+    "public/Journal/2025-second-half-year/2025-12-06-a-useful-day-at-home-og-image.webp",
+    "public/Journal/2025-second-half-year/2025-12-05-Reengardas-Lucia-og-image.webp",
+    "README.md",
+    "public/tags/bruises.html",
+    "public/tags/bus.html",
+    "public/tags/Archaeology.html",
+    "public/tags/berries.html",
+    "public/tags/archery.html",
+    "public/Recipes/index.html",
+    "public/Places-I-have-lived/index.html",
+    "public/tags/baking.html",
+    "public/index.html",
+    "public/Recipes/Pound-Cake.html",
+    "content/Crafts/Fabric/blue diamond wool twill.md",
+    "content/Journal/2025 second half year/how to fix my blogs.md",
+    "Dataview.md",
+    "docs/README.md",
+    "docs/CODE_OF_CONDUCT.md",
     "content/Journal/2025 second half year/2025-12-09 it is a plan!.md",
-    "node_modules/zwitch/package.json",
+    "content/Journal/2025 second half year/2025-12-07 helping with a sewing project.md",
     "node_modules/zwitch/readme.md",
-    "node_modules/zwitch/license",
-    "node_modules/zwitch/index.js",
-    "node_modules/zwitch/index.d.ts",
-    "node_modules/zwitch",
-    "node_modules/yoga-layout/dist/src/generated/YGEnums.js.map",
-    "node_modules/yoga-layout/dist/src/generated/YGEnums.d.ts",
-    "node_modules/yoga-layout/dist/src/generated/YGEnums.js",
-    "node_modules/yoga-layout/src/generated/YGEnums.ts",
-    "node_modules/yoga-layout/dist/src/wrapAssembly.js.map",
     "node_modules/yoga-layout/README.md",
     "node_modules/yargs-parser/README.md",
     "node_modules/yargs-parser/CHANGELOG.md",
@@ -248,23 +265,6 @@
     "node_modules/vfile-location/readme.md",
     "node_modules/wicked-good-xpath/README.md",
     "node_modules/web-namespaces/readme.md",
-    "node_modules/varint/README.md",
-    "node_modules/vfile/node_modules/@types/unist/README.md",
-    "node_modules/vfile/node_modules/unist-util-stringify-position/readme.md",
-    "node_modules/vfile/node_modules/vfile-message/readme.md",
-    "node_modules/vfile/readme.md",
-    "node_modules/unist-util-position/node_modules/@types/unist/README.md",
-    "node_modules/unist-util-position/readme.md",
-    "node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
-    "node_modules/js-binary-schema-parser/example/horses.gif",
-    "node_modules/js-binary-schema-parser/example/box.gif",
-    "node_modules/js-binary-schema-parser/example/dog.gif",
-    "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/dog.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/cli-spinner/img/spinner.gif",
-    "quartz/static/og-image.png",
-    "quartz/static/icon.png",
-    "Images/2025-12-08 pound cake.jpg"
+    "node_modules/varint/README.md"
   ]
 }

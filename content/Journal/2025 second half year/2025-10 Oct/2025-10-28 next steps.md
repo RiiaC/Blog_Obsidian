@@ -23,7 +23,7 @@ created my first GitHub repositories today, and filled them with four of my Obsi
 The contractor wrote back, he thinks my preferred location for the attic loo should work, and he will talk with the plumber and get back to me with an estimate. He can't do the work till January at the earliest. 
 
 After work Clara slaughtered us in Qwirkle, and then we did the next few steps on the knife handels in progress. Hers has all the pieces glued and the rough form cut out. Mine has all the pieces glued and clamped so the glue will harden.
-![[Images/2025-10-28 BeReal fram.jpeg]]
+![[2025-10-28 BeReal fram.jpeg]]
 
 ![[2025-10-28 BeReal jag.jpeg]]
 

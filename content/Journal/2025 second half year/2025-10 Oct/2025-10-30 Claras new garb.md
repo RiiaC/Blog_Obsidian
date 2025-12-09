@@ -22,7 +22,7 @@ We finally made time to take photos of all the costumes Clara got from Eva
 ![[2025-10-30 Claras new garb 11.jpg]]
 ![[2025-10-30 Claras new garb 3.jpg]]
 ![[2025-10-30 Claras new garb 4.jpg]]
-![[Images/2025-10-30 Claras new garb.jpg]]
+![[2025-10-30 Claras new garb.jpg]]
 ![[2025-10-30 Claras new garb 7.jpg]]
 ![[2025-10-30 Claras new garb 10.jpg]]
 ![[2025-10-30 Claras new garb 9.jpg]]
