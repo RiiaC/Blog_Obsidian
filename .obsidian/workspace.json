@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/Journal/2025 second half year/2025-12-13 working blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-12-13 working blog"
             }
           }
         ]
@@ -171,24 +171,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Journal/2025 second half year/how to fix my blogs.md"
+                "file": "content/Journal/2025 second half year/2025-12-13 working blog.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for how to fix my blogs"
-            }
-          },
-          {
-            "id": "1661972a21173b7f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "File properties for 2025-12-13 working blog"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,12 +192,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "local-backup:Run local backup": true,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "local-backup:Run local backup": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
   "active": "e84dd1ae4a123db0",
   "lastOpenFiles": [
+    "content/Journal/index.md",
+    "content/Journal/2025 second half year/2025-12-13 working blog.md",
+    "content/Crafts/index.md",
+    "content/Journal/2025 second half year/2025-12 Dec/2025-12-12 Weather still ok.md",
+    "content/Journal/2025 second half year/2025-12 Dec/2025-12-10 birthday snow!.md",
+    "README.md",
     "node_modules/@types/yargs/package.json",
     "node_modules/@types/yargs-parser/package.json",
     "node_modules/@types/ws/package.json",
@@ -218,7 +215,6 @@
     "node_modules/@types/nlcst/package.json",
     "node_modules/@types/ms/package.json",
     "node_modules/@types/mdast/package.json",
-    "node_modules/@types/mathjax/package.json",
     "public/index-og-image.webp",
     "public/Recipes/Pound-Cake-og-image.webp",
     "public/Recipes/Museli-og-image.webp",
@@ -248,11 +244,6 @@
     "node_modules/regex/README.md",
     "node_modules/micromark-util-combine-extensions/readme.md",
     "node_modules/property-information/readme.md",
-    "node_modules/katex/dist/README.md",
-    "node_modules/@pixi/colord/README.md",
-    "node_modules/@isaacs/balanced-match/README.md",
-    "node_modules/sass-embedded/README.md",
-    "node_modules/gray-matter/README.md",
-    "node_modules/immutable/README.md"
+    "node_modules/katex/dist/README.md"
   ]
 }

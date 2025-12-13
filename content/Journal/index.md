@@ -1,1 +1,1 @@
-This should be the index for the folder.
+This is the blog part of my blog, where I keep the actual journal.
