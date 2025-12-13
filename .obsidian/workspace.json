@@ -193,8 +193,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -213,9 +213,7 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "local-backup:Run local backup": true,
-      "daily-notes:Open today's daily note": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-git:Open Git source control": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "e84dd1ae4a123db0",
