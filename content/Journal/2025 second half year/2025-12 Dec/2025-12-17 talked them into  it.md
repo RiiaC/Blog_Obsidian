@@ -1,0 +1,25 @@
+---
+also_on_Dreamwidth: Not yet
+tags:
+  - ow
+country:
+  - Sweden
+location:
+  - Lövånger
+image:
+photos_pubished:
+weight(kg):
+high_temp(°C):
+low_temp(°C):
+training:
+  - Pilates
+  - Yoga
+projects:
+  - "[[silk bliaut short tunic]]"
+---
+My big work news for the day was getting a Yes to my request for department money for Ary to come do an interdisciplinary talk tying logic/philosophy to archaeology.  That will be in April. 
+
+I am sure there was more to the day, but having managed to hit my head on the big screen monitor shortly before yoga,  i didn't write it down.
+
+
+Previous post: 
