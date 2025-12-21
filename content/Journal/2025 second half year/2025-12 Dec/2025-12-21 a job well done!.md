@@ -24,9 +24,12 @@ Of course, I encouraged her to come to [JMBards](https://www.reengarda.se/jmbard
 
 By then Keldor was awake, so we played Qwirkle over breakfast, and then we went to the cellar and continued the great cleaning and organising of the shop. At long last, after at least four work sessions, I have taken all of the screws, nails, rivits, bolts, and other miscellaneous small things and put them into the wall mounted drawers we had installed some time back.
 
-Much to my delight, I managed to get everything in there. All of the screws that had still been in their orginal packaging fit in the little sets of small drawers, and I cliped the labels from the packaging and taped them to the drawers, and I had just enough small drawers left after that to hold the other screws (found in random piles and jars) that had enough of the same type to justify giving them their own drawer (occasionally dividing the drawer in half with a chunk of cardboard and tape)
+Much to my delight, I managed to get everything in there. All of the screws that had still been in their original packaging fit in the little sets of small drawers, and I clipped the labels from the packaging and taped them to the drawers, and I had just enough small drawers left after that to hold the other screws (found in random piles and jars) that had enough of the same type to justify giving them their own drawer (occasionally dividing the drawer in half with a chunk of cardboard and tape). Then I made lots of little open top cardboard boxes to organise all the other categories of things in the larger drawers. I am quite pleased with the result.
 ![[2025-12-21 drawers.jpeg]]
-Then I made lots of little open top cardboard boxes to organise all the other categories of things in the larger drawers. I am quite pleased with the result. 
+
+In between organising stuff, I also helped Keldor hang holiday lights on the house, mount a little roof over the outside electric outlet, and add a hook for wall mounting the spark.
+
+![[2025-12-21 lights.jpg]]
 
 Previous post: [[2025-12-20 Unplanned lazy day]]
 
