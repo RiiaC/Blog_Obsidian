@@ -4,7 +4,7 @@ materials used:
   - Silk
 image: "[[2025-09-20 Blue purple silk short bilaut.jpg]]"
 ---
-- [[2025-12-16 enough woth the meltong already,  just give me wonter, please]] determined which quadrant that had been cut thinking it is a front quadrant has to be a back quadrant, so i opened up the seam that had been sewn wrong, then found a bit of scrap exactly the correct angle to fill the missing triangle to attach the skirt to a back upper body. 
+- [[2025-12-16 enough with the melting already,  just give me winter, please!]] determined which quadrant that had been cut thinking it is a front quadrant has to be a back quadrant, so i opened up the seam that had been sewn wrong, then found a bit of scrap exactly the correct angle to fill the missing triangle to attach the skirt to a back upper body. 
 - [[2025-12-12 Weather still ok]] finished the seam I started a coupleof days ago.
 - [[2025-12-10 birthday snow!]] I picked the project back up, after weeks of beinf too busy to sew, and sewed the front and back of a sleeve together 
 - 2025-10-11 woke to the thought that there is really only one problem with the inside out pieces, the cut of the waist seam. So if I take the pannel intended to be the back purple skirt and make it the front I can simply trim the waist down to the matching slope. Likewise, if i use the one that was cut to be a front purple as a back, ai can just piece in a triangle to be the waist, and, if I use a wrap belt, that seam won't even show.

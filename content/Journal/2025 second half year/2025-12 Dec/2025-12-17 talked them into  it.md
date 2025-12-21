@@ -19,7 +19,7 @@ projects:
 ---
 My big work news for the day was getting a Yes to my request for department money for Ary to come do an interdisciplinary talk tying logic/philosophy to archaeology.  That will be in April. 
 
-I am sure there was more to the day, but having managed to hit my head on the big screen monitor shortly before yoga,  i didn't write it down.
+I am sure there was more to the day, but having managed to hit my head on the big screen monitor shortly before yoga,  I didn't write it down.
 
 
-Previous post: 
+Previous post: [[2025-12-16 enough with the melting already,  just give me winter, please!]]

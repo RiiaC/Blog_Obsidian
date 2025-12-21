@@ -8,7 +8,7 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2025-12-18 Veteprotein-pumpafrön snitsel.jpeg]]"
 photos_pubished:
 weight(kg): 58.2
 high_temp(°C): 4
