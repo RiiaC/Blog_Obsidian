@@ -34,66 +34,70 @@
   --callout-icon-quote: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"></path><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"></path></svg>');
   --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
 
+/* custom colours chosen from https://www.w3schools.com/cssref/css_colors.php */
+
   &[data-callout] {
-    --color: #448aff;
-    --border: #448aff44;
-    --bg: #448aff10;
+    --color: #00008B; /* DarkBlue */
+    --border: #D3D3D3; /* LightGray */
+    --bg: #F8F8FF; /* GhostWhite */
     --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
-    --color: #00b0ff;
-    --border: #00b0ff44;
-    --bg: #00b0ff10;
+    --color: #800000; /* Maroon */
+    --border: #D8BFD8; /* Thistle */
+    --bg: #FFFFFF; /* white */
     --callout-icon: var(--callout-icon-abstract);
   }
 
-  &[data-callout="info"],
-  &[data-callout="todo"] {
-    --color: #00b8d4;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+  &[data-callout="info"] {
+    --color: #0000FF; /* Blue */
+    --border: #00008B; /* DarkBlue */
+    --bg: #F0F8FF; /* AliceBlue */
     --callout-icon: var(--callout-icon-info);
   }
 
   &[data-callout="todo"] {
+    --color: #4B0082; /* Indigo */
+    --border: #9370DB; /* MediumPurple */
+    --bg: #E6E6FA; /* Lavender */
     --callout-icon: var(--callout-icon-todo);
   }
 
   &[data-callout="tip"] {
-    --color: #00bfa5;
-    --border: #00bfa544;
-    --bg: #00bfa510;
+    --color: #663399; /* RebeccaPurple */
+    --border: #6A5ACD; /* SlateBlue */
+    --bg: #F5F5F5; /* WhiteSmoke */
     --callout-icon: var(--callout-icon-tip);
   }
 
   &[data-callout="success"] {
-    --color: #09ad7a;
-    --border: #09ad7144;
-    --bg: #09ad7110;
+    --color: #006400; /* DarkGreen */
+    --border: #90EE90; /* LightGreen */
+    --bg: #F0FFF0; /* HoneyDew */
     --callout-icon: var(--callout-icon-success);
   }
 
   &[data-callout="question"] {
-    --color: #dba642;
-    --border: #dba64244;
-    --bg: #dba64210;
+    --color: #4169E1; /* RoyalBlue */
+    --border: #9370DB; /* MediumPurple */
+    --bg: #FFFAFA; /* snow */
     --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
-    --color: #db8942;
-    --border: #db894244;
-    --bg: #db894210;
+    --color: #C71585; /* MediumVioletRed */
+    --border: #DB7093; /* PaleVioletRed */
+    --bg: #FFF8DC; /* Cornsilk */
     --callout-icon: var(--callout-icon-warning);
   }
 
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: #db4242;
-    --border: #db424244;
-    --bg: #db424210;
+    --color: #FF00FF; /* Fuchsia */
+    --border: #DDA0DD; /* Plum */
+    --bg: #E0FFFF; /* LightCyan */
     --callout-icon: var(--callout-icon-failure);
   }
 
