@@ -25,7 +25,7 @@ Then on to the Swedigarch monthly meeting, where we also had pound cake, berries
 
 By the time I started towards the busstop after the meeting it had atarted to snow.
 
-I took the 12:30 bus home , which should have had me home at 14:00 but there were about 10 minutes of construction delays. But that still gave me plenty of time to relax wirh Keldor,  loose a game of Qwirkle, and work on [[silk bliaut short tunic]].
+I took the 12:30 bus home , which should have had me home at 14:00 but there were about 10 minutes of construction delays. But that still gave me plenty of time to relax wirh Keldor,  loose a game of Qwirkle, and work on [[Silk bliaut short tunic]].
 
 Then it was time for yoga and pilates over zoom wirh friends, after which I kooked outside to see an transformed world the muddy yard is covered with white and beautiful snow.
 

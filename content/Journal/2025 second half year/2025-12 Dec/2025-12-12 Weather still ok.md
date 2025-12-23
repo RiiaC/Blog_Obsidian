@@ -15,11 +15,11 @@ low_temp(°C): -10
 training:
   - Yoga
 projects:
-  - "[[silk bliaut short tunic]]"
+  - "[[Silk bliaut short tunic]]"
 ---
 My birthday snow is still here, and I am quite pleased! Temperatures are much better than last week, when it was above freezing all the time. 
 
-Today was one of those work days when I had two meetings, starting early. I managed to mage good sewing progress on my [[silk bliaut short tunic]] in progress during one if them.  After the meetings I spent the rest of the day sending all the emails that resulted from the meetings. I wound up needing a nap around 13:30. I set an alarm for 14:05, but didn't hear it, as my phone wasn't in contact with me. However, Keldor got home from work while it was was still going off, and woke me for a hug.
+Today was one of those work days when I had two meetings, starting early. I managed to mage good sewing progress on my [[Silk bliaut short tunic]] in progress during one if them.  After the meetings I spent the rest of the day sending all the emails that resulted from the meetings. I wound up needing a nap around 13:30. I set an alarm for 14:05, but didn't hear it, as my phone wasn't in contact with me. However, Keldor got home from work while it was was still going off, and woke me for a hug.
 
 Then we curled up together on the couch with a bowl of popcorn (and a book for me, and FB for him). After that Keldor wound up taking a long bath, so I resumed work while he soaked, and thus did a full day's work despite the long break. 
 

@@ -15,7 +15,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[silk bliaut short tunic]]"
+  - "[[Silk bliaut short tunic]]"
 ---
 My big work news for the day was getting a Yes to my request for department money for Ary to come do an interdisciplinary talk tying logic/philosophy to archaeology.  That will be in April. 
 

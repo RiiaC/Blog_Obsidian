@@ -1,3 +1,13 @@
+---
+date started:
+materials used:
+  - "[[Barbaras handwoven tygg]]"
+  - "[[Silk and copper trim]]"
+  - "[[Plum silk yarn]]"
+image:
+---
+- [[2025-12-23]] made progress on the embroidery on the first sleeve. But I am considering redoing the head, as right now it is upside down
+![[2025-12-23 half a dragon.jpg]]
 • [[2025-12-22]] after work looked at the pieces compared to his kaftan and byzantine tunics, determined:
 	• that the remaining rectangle of fabric marked "to be determined" is exactly long enough to extend the sleeves all the way to his wrist, with a double band of trim, once over each seam
 	• the front left and right pieces are wide enough to cut off an underarm gusset. Either by removing an entire strip from each side, then sew that strip back in, and up the underarm, or (and this is less sewing), just cut as deep as the join with the sleeve, trim that to a point under the arm.

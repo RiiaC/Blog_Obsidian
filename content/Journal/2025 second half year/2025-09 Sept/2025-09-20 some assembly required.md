@@ -36,15 +36,11 @@ I will take a couple pasties with me when I travel on Monday, the rest ate in th
 
 I wish I weren't travelling this coming week, I would have bought some beetroot to make beetloaf. But I knew I wouldn't have time this weekend, with Leif's party tomorrow. Last year I bought beets at the harvest market to do beetloaf, but didn't have time before they got squishy.
 
-Then I took some measurements and started making a paper mockup of a box the chamber pot can live in, and determined that the wooden boxes from Jula that are so popular in the SCA because cheap, and easy to decorate are about the right size to transform into a box seat for the chamber pot.
+Then I took some measurements and started making a paper mock-up of a box the chamber pot can live in, and determined that the wooden boxes from Jula that are so popular in the SCA because cheap, and easy to decorate are about the right size to transform into a box seat for the chamber pot.
 
-This evening I cut out a sewing project from the blue silk I bought at Cudgel, and some purple silk I had bought at an event longer go. I considered the purple I had bought at Cudgel, but it is quite a bit thicker than the blue, while the one i have had longer is a better match for texture.
+This evening I cut out a sewing project, [[Silk bliaut short tunic]] from the blue silk I bought at Cudgel, and some purple silk I had bought at an event longer go. I considered the purple I had bought at Cudgel, but it is quite a bit thicker than the blue, while the one i have had longer is a better match for texture.
 
-I am doing a short bilaut style tunic, parti-coloured, and with angel winged sleeves.
-
-
-
-
+I am doing a short bliaut style tunic, parti-coloured, and with angel winged sleeves.
 
 
 ![[2025-09-20 Blue purple silk short bilaut.jpg]]

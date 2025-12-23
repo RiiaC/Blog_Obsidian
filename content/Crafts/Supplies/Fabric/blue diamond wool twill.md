@@ -6,6 +6,8 @@ weave: diamond twill
 fabric name: berg
 cost: 291€ with thread
 image: "[[blue diamond wool twill (berg).png]]"
+projects:
+  - "[[Ranghilds orange twill dress]]"
 ---
 blue diamond wool twill ordered 2021-04-15 over FB messenger from [Der Stoffdealer](https://www.facebook.com/Der-Stoffdealer-879294075593233/) who has a web page at [Start | Der Stoffdealer](https://www.der-stoffdealer.de/)
 

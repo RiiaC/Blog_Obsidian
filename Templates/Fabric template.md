@@ -5,4 +5,6 @@ colour:
 weave:
 cost:
 image:
+fabric name:
+projects:
 ---
