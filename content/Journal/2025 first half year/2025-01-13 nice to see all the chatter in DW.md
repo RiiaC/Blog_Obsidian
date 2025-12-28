@@ -28,6 +28,7 @@ I am grateful that we had a couple weeks of decent winter weather, but oh I wish
 I am really glad we took time to shovel the driveway to the garage and got Keldor’s car out of there yesterday. There is no way he would have been able to back up that hill today! (His car has "all weather tires, not studded tires, and so doesn't have the same traction as a studded tire would).
 
 Tomorrow morning I will ride with Keldor part way towards Skellefteå and catch the bus at one of the highway bus stops, rather than trying to walk on the ice. Then, for my last two hours of work I will buss from Umeå to Skellefteå so we can help a friend move house.
+
 ![[2025-01-13 livingroom1.jpg]]
 ![[2025-01-13 livingroo2.jpg]]
 

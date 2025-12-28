@@ -4,6 +4,7 @@ materials used:
   - Charlottes_fabric
   - Ranghilds orange twill
 image: "[[2025-12-06 Charolotte neckline.jpg]]"
+catagory: Helping
 ---
 Charlotte and I started cutting out a new dress for her. She has a lovely red wool with a square pattern. We decided to do it with a keyhole neck, so checked my scrap drawer, and found the orange twill scrap left over from [[Ranghilds orange twill dress]] The orange looked good with the red, so we went with that.
 

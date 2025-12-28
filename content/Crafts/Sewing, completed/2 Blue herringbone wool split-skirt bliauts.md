@@ -3,6 +3,7 @@ date started: 2021-07-18
 materials used:
   - "[[blue diamond wool twill]]"
 image: "[[2022-05-13 bliaut getting close to done.png]]"
+catagory: Sewing
 ---
 >[!info]+ A pair of bliauts I made for Keldor and I
 >These were started the first year we were together, to be worn if we win Nordmark Coronet. They achieved wearable already that spring, but could still be improved. We have almost never worn them, in part because they were made "just in case"

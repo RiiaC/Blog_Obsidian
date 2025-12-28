@@ -19,7 +19,5 @@ projects:
 Resumed work on [[Keldor copper trim tunic]]
 
 
-- [ ] Make notes for materials 
-
 Previous post: [[2025-12-21 a job well done!]]
 ![[2025- 12-22 start embroidery.jpg]]

@@ -14,6 +14,6 @@ I saw a post on FB from a friend in Norway suggesting that people with a PhD and
 
 We also applied for a summer job at the Lofotr Viking Museum, because I just plain love it there.
 
-In other news, check out photos on FB for progress photos of my living room ceiling. 
-https://scontent.fgse3-1.fna.fbcdn.net/v/t39.30808-6/475973279_10234104102534925_6422118627561204135_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4mfRHvD6kFoQ7kNvgEPOTZY&_nc_oc=Adg44AQUsx2OFtidaSlXNXtvzOaTBodceQLoCyZnb1S5eEi5cg8pq4JoMrqj-2iPEJcdR25jnvYyi-UIoSS4jfms&_nc_zt=23&_nc_ht=scontent.fgse3-1.fna&_nc_gid=A74ca8UZmYLah2RI927WEFc&oh=00_AYBUDXMT9HagXwyxHeljlJbiBOrtM-GlS2-x_xUU1CICfg&oe=67AC5941
+In other news, I put photos on FB for progress photos of my living room ceiling. 
+
 ![[2025-02-07 ceiling progress.jpg]]

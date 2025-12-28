@@ -13,7 +13,7 @@ Rearranging furniture on the weekend triggered more changes. I have never liked 
 
 Armed with this information I took the bus in town yesterday and met Keldor at the one furniture store that carries what I thought I wanted so we could test sit and recline. They are as wonderful as I thought they would be, and the salesman was delightful company chatting with us about my research and many other things unrelated to recliners, while aslo answering my questions and singing the praises of the [couch I wanted](https://hagagruppen.se/produkt/cinema/), but more in the "singing to the choir" and not "pushing a sale" sort of way. He was impressed with the level of research I had already done. 
 
-When it was time to pay I asked him if he has a discount available for entertaining customers, and he gave me one big enough to feel nice. It will take at least a week before they are delivered, and could takke quite a few. So now we are valking about painting the living room ceiling before it is delivered. We bought midnight blue paint ages ago to cover the smoke marks on the ceiling from the previous owner, and we want to paint stars on that, as one does.
+When it was time to pay I asked him if he has a discount available for entertaining customers, and he gave me one big enough to feel nice. It will take at least a week before they are delivered, and could takke quite a few. So now we are talking about painting the living room ceiling before it is delivered. We bought midnight blue paint ages ago to cover the smoke marks on the ceiling from the previous owner, and we want to paint stars on that, as one does.
 
 We are also making good progress on refinishing the dresser/desk.
 
