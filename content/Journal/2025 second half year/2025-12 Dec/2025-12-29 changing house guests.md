@@ -24,4 +24,6 @@ We had a lovely final morning hanging out with Hjalmar and Sofie, then we loaded
 
 Then home and baked a pizza. Now they are curled up on the couch watching youtube videos on making stuff, and I have updated the event [web page to include a list of registered people](https://www.reengarda.se/anm%C3%A4ldalistan), now that the (soon to be) King has registered.
 
+In other news, there is a [nice article in the local newspaper today about the family who bought the tower house](https://www.norran.se/nyheter/lovanger/artikel/nytt-hus-fran-1913-kopt-av-noak-larsson-i-lovanger/lyvoom7l)., so now I know their names (Noak and Anna-Maria Larsson and their kids Elna, 8 and Ruben, 4 år) and see that[ they have Instagram](https://www.instagram.com/noaklarsson/).
+
 Previous post: [[2025-12-28 socks and hat-racks]]
