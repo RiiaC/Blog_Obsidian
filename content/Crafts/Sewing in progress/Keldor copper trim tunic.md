@@ -7,7 +7,8 @@ materials used:
 image: "[[2025-12-24 right sleeve dragon.jpg]]"
 catagory: Sewing
 ---
-# when it happened 
+# Progress log
+- [[2025-12-29 changing house guests]] got the second sleeve lined and the cuff embroidery done
 - [[2025-12-24 julafton]] finished embroidery of the dragons on the sleeves, and lined the right sleeve
 - [[2025-12-24 right sleeve dragon.jpg]]
 - [[2025-12-23 last work day of the year and embroidery]] 

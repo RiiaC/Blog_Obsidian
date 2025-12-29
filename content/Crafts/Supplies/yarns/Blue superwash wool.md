@@ -11,7 +11,7 @@ image: "[[2025-12-28 blue superwash wool.jpg]]"
 projects:
   - Socks from Hjalmar
 ---
-What was left after Hjalmar made me the beautiful socks to wear with my knee britches, which he gave me on [[2025-12-28 socks and hatracks]]
+What was left after Hjalmar made me the beautiful socks to wear with my knee britches, which he gave me on [[2025-12-28 socks and hat-racks]]
 ![[2025-12-28 blue superwash wool.jpg]]
 
 ![[2025-12-28 yarn label.jpg]]
