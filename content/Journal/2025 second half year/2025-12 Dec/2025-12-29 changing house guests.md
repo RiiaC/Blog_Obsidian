@@ -5,7 +5,7 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2025-12-29 lined sleeves.jpg]]"
 photos_pubished:
 weight(kg): 57.7
 high_temp(°C): 0
@@ -18,7 +18,7 @@ projects:
 ---
 Started the day with a quick 25 minutes pilates session, then I had time to start a bread dough and baste the next sleeve of [[Keldor copper trim tunic]] to the silk lining, cut the lining, and sew the decorative line along the edge of the cuff before the others got up.
 
-![[20251229_174056.jpg]]
+![[2025-12-29 lined sleeves.jpg]]
 
 We had a lovely final morning hanging out with Hjalmar and Sofie, then we loaded their stuff into the car, and Keldor drove up to the bus station to meet Charlotte, and we took a walk to enjoy a little fresh air, stopping at the Saluhall to admire the nice local crafts for sale, and see all the interesting locally produced food (Sofi bought a good quality chocolate) before arriving at the buss top. Charlotte's bus soon arrived, and we four chatted a bit till Hjalmar and Sofie's bus arrived and we sent them on their way. It is always a joy to see them!
 
