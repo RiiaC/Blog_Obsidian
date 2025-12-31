@@ -1,7 +1,7 @@
 ---
 date started:
 materials used:
-  - "[[Barbaras handwoven tygg]]"
+  - "[[handwoven wool from Barbara]]"
   - "[[Silk and copper trim]]"
   - "[[Plum silk yarn]]"
 image: "[[2025-12-24 right sleeve dragon.jpg]]"
@@ -25,5 +25,5 @@ catagory: Sewing
 • 2025-07-19 started assembly of the second seam
 • 2025-05-22 at Rebecca's. decided that it will work to make long sleeves, one each sleeve shaped trapezoid, then the long triangles that had been cut off the main body bits, one wide end to add cuffs covered by trim. two triangles to widen the arms to a better width. see photo of sketch. it will be necessary to add a gore in back between the sleeve and the shoulder, but not the front.
 exactly what will happen with the three body pieces assembled is to be determined
-• 2025-04-11 started at Reengardas 30-årsjubileum from [[Barbaras handwoven tygg]] plus [[Silk and copper trim]] that Keldor got in trade from Arianna and 
+• 2025-04-11 started at Reengardas 30-årsjubileum from [[handwoven wool from Barbara]] plus [[Silk and copper trim]] that Keldor got in trade from Arianna and 
 
