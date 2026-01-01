@@ -13,6 +13,14 @@ I thought should be able to get a reasonable bliaut from the silk I bought at Cu
 ![[2025-09-20 silk bliaut short tunic.jpg]]
 
 # Progress log
+- [[2026-01-01 starting the year off right]] To fix the sleeve problem I opened up the seam between the front and back sides of the seam. Then I spread the side that is primarily blue on the table and used it as the pattern for how the mostly plum side should look. 
+- Since this should have been a left sleeve, and is a right sleeve, it means the colours are in the opposite position than they should be. To solve this I did a diagonal cut (green line in the sketch) to seperate the pendant part of the sleeve (A) from the arm part of the sleeve (B), and unpicked the seam attaching the upper arm three-colours section (C) from the rest of the sleeve.
+- Then I rotated part B and attached it to the other side of A. This piece isn't symmetrical, so rotating it means that it is too big on one edge, and not big enough on the other (but I can't just flip it, as the underside of the fabric is a different colour, which is how this problem came up in the first place). So I trimmed off the extra wide rectangular bit, and then took a scrap of the plum to fill in the missing triangle, before re-attaching part C. 
+![[2026-01-01 sketch.png]]
+- The result is a sleeve half that has the correct colours in the correct position to be a left sleeve. But now it is late, and I am tired, so I have taken notes so I can do this for the other half of the sleeve tomorrow. 
+- Is this pieced sleeve optimal? Nope. It looked better before I cut it up and put it back together.  However, better this than messing up the alternating colour patterns, so I have to cope.
+- [[2025-12-31 nyårsafton]] I finally got the body far enough along to start attaching the sleeves, when I realised that my mistake in cutting it out (where I failed to take into consideration that the fabric has a very different colour on its right side than it has on the wrong), resulted in my winding up with two right sleeves. I managed to fix the problems body with the body with piecing, but working of if this is possible for the sleeves is more thinking than one wants during a party, so I set it asside to deal with later
+- [[2025-12-27 shopping and guests]] sewing while chatting with Hjalmar and Sofie 
 - [[2025-12-26 a little more progress]] center back seam done, front center seam started 
 - [[2025-12-25 a day at home]]I took the pieces and spread them out to figure out which pieces go where, and which one still needs modifications to solve the problem with cutting it wrong, and fixed it. 
 - [[2025-12-16 enough with the melting already,  just give me winter, please!]] determined which quadrant that had been cut thinking it is a front quadrant has to be a back quadrant, so i opened up the seam that had been sewn wrong, then found a bit of scrap exactly the correct angle to fill the missing triangle to attach the skirt to a back upper body. 
@@ -68,10 +76,21 @@ However, if going from a corner, the diagonals will all be 161 cm long, on both 
 - [x] sew the remaining body rectangle to the skirt
 - [x] sew the left and right back sections together 
 - [x] finish that seam
-- [ ] sew the left and right front sections together 
-- [ ] finish that seam
-- [ ] sew the shoulders together 
+- [x] sew the left and right front sections together 
+- [x] finish that seam
+- [x] sew the shoulders together 
+- [x] sew the right sleeves to the body
+- [x] notice that the other sleeve is also a right sleeve 
+- [x] open the seam between the front and back of the second sleeve
+- [x] diagonal cut the plum half of that sleeve into pieces A and B (see [[2026-01-01 sketch.png]])
+- [x] open up the seam between part B and C
+- [x] sew A and B together on their other edges
+- [x] add a diagonal strip of the [[Dusky plum silk]] to make part B big enough on the sloped part.
+- [x] trim away the excess bit of part B on the straight side
+- [x] sew C back to B
+- [x] fill in a small triangle scrap on the back of the sleeve point
+- [ ] fix the blue half of sleeve two in the same manner 
 - [ ] add the neck facings
-- [ ] finish the neckline 
-- [ ] sew the sleeves to the body
+- [ ] finish the neckline
 - [ ] sew the sides shut 
+

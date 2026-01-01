@@ -1,1 +1,1 @@
-This is the blog part of my blog, where I keep the actual journal.
+This is the blog part of my blog, where I keep the actual journal, sorted into folders by years and parts of years, as needed.
