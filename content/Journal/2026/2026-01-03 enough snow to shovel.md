@@ -1,0 +1,31 @@
+---
+also_on_Dreamwidth: Not yet
+tags:
+country:
+  - Sweden
+location:
+  - Lövånger
+image:
+photos_pubished:
+weight(kg): 57.9
+high_temp(°C): -8
+low_temp(°C): -14
+training:
+  - shovel_snow
+  - Yoga
+projects:
+  - "[[Silk bliaut short tunic]]"
+---
+Having stayed up till after almost 02:00, I slept in. I did get up just after 07:00 to pee, feed the cats, and take my morning vitamins with a bite of banana, but then I went back to sleep and slept another three hours.
+
+After breakfast I tided up a little, as the housekeeper was coming, and cleaning is easier without clutter. Then we shoveled snow here at the house, getting both the area in front of the house where we park, and the driveway down to the garage.
+
+Then I had time for lunch before we took Charlotte to the bus stop. Then we took the snowblower over to Bryan's and cleared all of the snow from his driveway and walkway. We hadn't gotten his yard done after the snow yesterday morning, so it was easy to see the full accumulation from both days, around half a meter! 
+
+The world looks so, so, so much better! And it is -11 right now, and predicted to stay nice and cold for at least the next ten days, so I am much happier! I hope we don't have any more above freezing days till it is time for spring.
+
+
+
+
+Previous post: [[2026-01-02 story submitted]]
+![[2026-01-03 BeReal snö.jpeg]]

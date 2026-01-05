@@ -13,6 +13,7 @@ I thought should be able to get a reasonable bliaut from the silk I bought at Cu
 ![[2025-09-20 silk bliaut short tunic.jpg]]
 
 # Progress log
+- [[2026-01-02 story submitted]] started working on the neckline. Got the exterior facing sewn to the neck hole (so I can now try it on) And started doing the embroidery along that edge
 - [[2026-01-01 starting the year off right]] To fix the sleeve problem I opened up the seam between the front and back sides of the seam. Then I spread the side that is primarily blue on the table and used it as the pattern for how the mostly plum side should look. 
 - Since this should have been a left sleeve, and is a right sleeve, it means the colours are in the opposite position than they should be. To solve this I did a diagonal cut (green line in the sketch) to separate the pendant part of the sleeve (A) from the arm part of the sleeve (B), and unpicked the seam attaching the upper arm three-colours section (C) from the rest of the sleeve.
 - Then I rotated part B and attached it to the other side of A. This piece isn't symmetrical, so rotating it means that it is too big on one edge, and not big enough on the other (but I can't just flip it, as the underside of the fabric is a different colour, which is how this problem came up in the first place). So I trimmed off the extra wide rectangular bit, and then took a scrap of the plum to fill in the missing triangle, before re-attaching part C. 
@@ -89,8 +90,9 @@ However, if going from a corner, the diagonals will all be 161 cm long, on both 
 - [x] trim away the excess bit of part B on the straight side
 - [x] sew C back to B
 - [x] fill in a small triangle scrap on the back of the sleeve point
-- [ ] fix the blue half of sleeve two in the same manner 
-- [ ] add the neck facings
+- [ ] fix the blue half of sleeve two in the same manner as above and attach it to the shoulder
+- [x] assemble the scraps for the neck facings
+- [x] sew them to where the neck hole should be, abd then cut it
 - [ ] finish the neckline
 - [ ] sew the sides shut 
 
