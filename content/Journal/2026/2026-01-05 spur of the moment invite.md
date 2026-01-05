@@ -1,19 +1,21 @@
 ---
 also_on_Dreamwidth: Not yet
 tags:
+  - Qwirkle
 country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2026-01-05 naanbröd.jpeg]]"
 photos_pubished:
 weight(kg): 58.3
-high_temp(°C):
-low_temp(°C):
+high_temp(°C): -19
+low_temp(°C): -24
 training:
   - HIT
   - Yoga
 projects:
+  - "[[Silk bliaut short tunic]]"
 ---
 Slept eight hours, thought I should get up, take my morning vitamins, and do some training. Saw a notification that I had a reply from the contractor who will help create a half bathroom in the attic, so looked at that, then looked at other notifications, and suddenly well over an hour had elapsed. Oops.
 
