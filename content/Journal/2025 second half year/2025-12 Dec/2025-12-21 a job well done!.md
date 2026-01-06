@@ -1,5 +1,5 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
   - organising
 country:
@@ -7,7 +7,7 @@ country:
 location:
   - Lövånger
 image: "[[2025-12-21 drawers.jpeg]]"
-photos_pubished:
+photos_pubished: Yes
 weight(kg): 57.6
 high_temp(°C): 1
 low_temp(°C): -1

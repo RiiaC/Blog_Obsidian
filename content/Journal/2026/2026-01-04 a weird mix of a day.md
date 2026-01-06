@@ -1,12 +1,14 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
+  - read_and_eat
+  - winter_holidays
 country:
   - Sweden
 location:
   - Lövånger
 image:
-photos_pubished:
+photos_pubished: Yes
 weight(kg): 58
 high_temp(°C): -11
 low_temp(°C): -21
@@ -16,7 +18,7 @@ training:
 projects:
   - "[[Silk bliaut short tunic]]"
 ---
-Slept in, did an hour of pilates and yoga, andthen curled up with a book and a small batch of popcorn (popped in the popcorn popper, with only a hint of butter with nutritional yeast and the last of the salad (spinach, cucumber, tomato, carrot, avocado).
+Slept in, did an hour of pilates and yoga, and then curled up with a book and a small batch of popcorn (popped in the popcorn popper, with only a hint of butter with nutritional yeast and the last of the salad (spinach, cucumber, tomato, carrot, avocado).
 
 Then I made some progress on my sewing, till Keldor popped a huge batch popcorn on the stove, using a generous amount of both oil and butter, to which he added salt and garlic powder, and sat down next to me. Of course, I packed my sewing away to keep the silk out of reach of the popcorn oils, and then I helped him eat it. This wasn't wise, but sometimes reading and eating is too irresistible, especially when the junk version of the food simply appears within reach, with no effort on my part.
 

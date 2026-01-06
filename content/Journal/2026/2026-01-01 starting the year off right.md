@@ -1,13 +1,15 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
   - Qwirkle
+  - winter_holidays
+  - weather
 country:
   - Sweden
 location:
   - Lövånger
 image: "[[2026-01-01 oss.jpg]]"
-photos_pubished:
+photos_pubished: Yes
 weight(kg): 58.3
 high_temp(°C): -6
 low_temp(°C): -12

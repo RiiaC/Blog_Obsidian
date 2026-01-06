@@ -1,14 +1,15 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: yes
 tags:
   - sewing_project
   - art_projects
+  - winter_holidays
 country:
   - Sweden
 location:
   - Lövånger
 image: "[[2025-12-28 jätte hatrack.jpg]]"
-photos_pubished:
+photos_pubished: Yes
 weight(kg):
 high_temp(°C): 1
 low_temp(°C): -3

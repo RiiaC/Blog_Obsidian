@@ -1,4 +1,5 @@
 import Content from "./pages/Content"
+import FrontmatterPropertiesBox from "./FrontmatterPropertiesBox"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
 import NotFound from "./pages/404"
@@ -28,6 +29,7 @@ export {
   ArticleTitle,
   Content,
   TagContent,
+  FrontmatterPropertiesBox,
   FolderContent,
   Darkmode,
   ReaderMode,

@@ -1,12 +1,13 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
+  - winter_holidays
 country:
   - Sweden
 location:
   - Lövånger
 image: "[[2025-12-29 lined sleeves.jpg]]"
-photos_pubished:
+photos_pubished: Yes
 weight(kg): 57.7
 high_temp(°C): 0
 low_temp(°C): -6

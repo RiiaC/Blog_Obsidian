@@ -1,13 +1,15 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
   - Qwirkle
+  - visitors
+  - winter_holidays
 country:
   - Sweden
 location:
   - Lövånger
 image: "[[2026-01-05 naanbröd.jpeg]]"
-photos_pubished:
+photos_pubished: Yes
 weight(kg): 58.3
 high_temp(°C): -19
 low_temp(°C): -24

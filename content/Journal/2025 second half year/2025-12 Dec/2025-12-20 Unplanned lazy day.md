@@ -9,7 +9,7 @@ country:
 location:
   - Lövånger
 image: "[[2025-12-20 BeReal fram.jpeg]]"
-photos_pubished: No
+photos_pubished: Yes
 weight(kg): 57.6
 high_temp(°C): 3
 low_temp(°C): 0

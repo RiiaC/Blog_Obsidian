@@ -1,6 +1,7 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
+  - winter_holidays
 country:
   - Sweden
 location:
