@@ -1,5 +1,5 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
 tags:
   - winter_holidays
   - programming
@@ -7,8 +7,8 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
+image: "[[2026-01-06 car wash.jpeg]]"
+photos_pubished: Yes
 weight(kg): 58.1
 high_temp(°C): -11
 low_temp(°C): -24
