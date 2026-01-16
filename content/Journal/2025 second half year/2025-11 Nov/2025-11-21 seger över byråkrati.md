@@ -19,8 +19,8 @@ low_temp(°C): -15
 training:
   - Yoga
 ---
-I had looked forward to workingfrom home today, getting thing packed for this weekend and washing the gambesons after yesterday's fighter practice. Then we saw the letter that the bank has finally (10 months after taking office) approved my access to the shire's bank account, and I just need o bring my ID to the bank and they will give me access.
-So I decided instead to head in with Keldor and work at his dad's, and we could go to the bank as soon as he was done with work. So we stayed up later thsn we should to get most things packed and ready, and I got up early today to gather food to take with me to his dads.
+I had looked forward to working from home today, getting thing packed for this weekend and washing the gambesons after yesterday's fighter practice. Then we saw the letter that the bank has finally (10 months after taking office) approved my access to the shire's bank account, and I just need o bring my ID to the bank and they will give me access.
+So I decided instead to head in with Keldor and work at his dad's, and we could go to the bank as soon as he was done with work. So we stayed up later than we should to get most things packed and ready, and I got up early today to gather food to take with me to his dads.
 
 When we drove past Bryan's new house on the way home last night we had noticed that the porch light wasn't on, which was weird, but with the flurry of packing, we didn't investigate further.  But this morning Keldor remembered, and grabbed the keys to that house, and on our way to work we stopped to check, and the power was off. 
  The electric meter had the little red blinking indicator showing that the power had been switched off by Skellefteå Kraft. Several phone calls and a few hours later I had sent 6,500 kr to the Skellefteå Kraft Swish number with his account number as the message and customer service assures me that the electricity will be turned back on today.
