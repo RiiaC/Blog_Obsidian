@@ -1,6 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - Swedish_post
 country:
   - Sweden
 location:

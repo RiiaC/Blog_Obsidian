@@ -1,6 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - work
 country:
   - Sweden
 location:
@@ -21,7 +22,7 @@ So I did the meeting to discuss the funding application for the workshop we want
 
 Then the doc appointment, they said that the weird hard lump on back of my arm that I can't quite see doesn't look concerning  
 
-Then a long lunch break, followed by work,  including a meeting with a colleague in the states to discuss ways to liik at database structure. These meetings may result in a paper. With luck it might even get my colleague's thesis kickstarted back into progress again.
+Then a long lunch break, followed by work,  including a meeting with a colleague in the states to discuss ways to look at database structure. These meetings may result in a paper. With luck it might even get my colleague's thesis kick-started back into progress again.
 
 This evening was the Nordmark members meeting over zoom, and after our zoom training session.
 

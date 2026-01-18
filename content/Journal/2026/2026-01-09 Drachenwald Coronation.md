@@ -1,6 +1,8 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - roadtrip
+  - SCA
 country:
   - Sweden
 location:

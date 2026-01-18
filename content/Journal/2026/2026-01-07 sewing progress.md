@@ -1,6 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
 tags:
+  - sewing_project
 country:
   - Sweden
 location:

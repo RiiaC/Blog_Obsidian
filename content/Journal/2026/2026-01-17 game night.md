@@ -1,6 +1,9 @@
 ---
 also_on_Dreamwidth: Not yet
 tags:
+  - games
+  - cooking
+  - recipe
 country:
   - Sweden
 location:
@@ -17,7 +20,7 @@ training:
 projects:
   - "[[Keldor copper trim tunic]]"
 ---
-It was a sister's zoom call weekend, and I woke enough before the alarm that I could do a 20 minutes Pilates before hand. Of course, then I took time to feed the cats and brush my hair before opening the computer, so I was a little late. But I am usually the first one there, so I guess it was my turn.
+gaIt was a sister's zoom call weekend, and I woke enough before the alarm that I could do a 20 minutes Pilates before hand. Of course, then I took time to feed the cats and brush my hair before opening the computer, so I was a little late. But I am usually the first one there, so I guess it was my turn.
 
 Told them of the 12th Night [[2026-01-09 Drachenwald Coronation]] late night plumbing adventure and that I am looking forward ro Wednesday, when the contractor arrives to start work on the upstairs half-bath.
 
