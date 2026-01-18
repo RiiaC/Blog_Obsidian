@@ -6,7 +6,8 @@ catagory: Home improvement
 ---
 - [ ] Copy checklist from trello 
 # progress notes
-- [[2025-12-26 a little more progress]] more tarpaper up, more insulation up.
+- [[2026-01-18 årsmöte]] we 
+- [[2025-12-26 a little more progress]] more tar paper up, more insulation up.
 - [[2025-12-01 snow and further progress]]
 Today Keldor made some lists to hold the insulation sheets to the attic roof, and they work very well. We put up the first four, and now that he knows they will work, he will make the other type to hold the upper end of the next row down.
 ![[2025-12-01 insulation lists.jpg]]
