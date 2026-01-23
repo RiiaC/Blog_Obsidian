@@ -12,7 +12,7 @@ location:
   - Örnsköldsvik 
   - Timmerå
   - Rockelstad Slott
-image:
+image: "[[2026-01-09 roadtrip.jpg]]"
 photos_pubished:
 weight(kg): 58.1
 high_temp(°C):
@@ -55,3 +55,6 @@ So I sent the event stewards an email letting them know, and went straight back 
 
 
 Previous post: [[2026-01-08 packing for tomorrow]]
+![[2026-01-09 roadtrip.jpg]]
+
+![[2026-01-09 Högakustenbrön.jpg]]

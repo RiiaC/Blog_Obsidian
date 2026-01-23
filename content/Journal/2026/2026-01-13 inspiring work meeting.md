@@ -6,7 +6,7 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2026-01-13 BeReal fram.jpeg]]"
 photos_pubished:
 weight(kg): 58
 high_temp(°C): -9
@@ -30,3 +30,4 @@ Then I stayed  up too late, and ought to go to sleep, as tomorrow I have to go i
 
 
 Previous post: [[2026-01-12 first work day after the holidays]]
+![[2026-01-13 BeReal fram.jpeg]]

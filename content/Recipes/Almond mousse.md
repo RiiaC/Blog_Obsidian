@@ -1,3 +1,12 @@
+---
+ingredients:
+  - Gelatin
+  - almondmeal
+  - mushroom_powder
+  - mascarpone
+  - whipping_cream
+tags:
+---
 I have experimented with a few variations of making an almond mousse over the years, most of which are really good.
 
 

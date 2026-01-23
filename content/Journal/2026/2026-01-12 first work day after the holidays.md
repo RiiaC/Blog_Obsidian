@@ -7,7 +7,7 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2026-01-12 Kali skritches.jpg]]"
 photos_pubished:
 weight(kg):
 high_temp(°C): -16
@@ -22,4 +22,7 @@ I expected to sleep in after yesterday's road trip, but woke at 05:34, so I got 
 
 After work I made  salad, a pear crumble (which I will eat tomorrow  as it was too late to be interested in eating by the time it was done), and did some sewing. Now I have done my yoga and ought to get some sleep. 
 
-Previounch s post: [[2026-01-11 roadtrip home]]
+Previous post: [[2026-01-11 roadtrip home]]
+![[2026-01-12 BeReal fisk.jpeg]]
+
+![[2026-01-12 Kali skritches.jpg]]

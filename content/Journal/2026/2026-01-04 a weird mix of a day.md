@@ -7,7 +7,7 @@ country:
   - Sweden
 location:
   - Lövånger
-image:
+image: "[[2026-01-04 snow at long last.jpg]]"
 photos_pubished: Yes
 weight(kg): 58
 high_temp(°C): -11
@@ -28,3 +28,4 @@ He joined me on the couch for a bit of more scrolling, but this time occasionall
 
 ![[2026-01-04 BeReal rummet.jpeg]]
 Previous post: [[2026-01-03 enough snow to shovel]]
+![[2026-01-04 snow at long last.jpg]]

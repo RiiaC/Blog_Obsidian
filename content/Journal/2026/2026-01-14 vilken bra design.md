@@ -7,7 +7,7 @@ country:
 location:
   - Lövånger
   - Umeå
-image:
+image: "[[2026-01-14 BeRealfram.jpeg]]"
 photos_pubished:
 weight(kg):
 high_temp(°C):
@@ -29,3 +29,4 @@ Min dåtid jag lämnade mig snacks på kontoret! jag har en burk pumpafrön med 
 Jag hade energi under hela jobbdagen, och jobbade utan problem tills bussen var nästan framme i Lövånger.  Då packade upp mina grejer och tog sparken hemma och sätta mig på soffan tills Keldor ringde. Under tiden han körde hem hunn jag äntligen tomma kisten av käader vi tog till eventet, men då var dagens energi slut, och jag var i säng redan kl 20,00 och sov direkt. 
 
 Previous post: [[2026-01-13 inspiring work meeting]]
+![[2026-01-14 BeRealfram.jpeg]]

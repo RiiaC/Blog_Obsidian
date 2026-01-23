@@ -6,7 +6,7 @@ country:
   - Sweden
 location:
   - Rockelstad Slott
-image:
+image: "[[2026-01-10 att sälja.jpg]]"
 photos_pubished:
 weight(kg):
 high_temp(°C):
@@ -30,3 +30,6 @@ projects:
 
 
 Previous post: [[2026-01-09 Drachenwald Coronation]]
+![[2026-01-10 att sälja.jpg]]
+
+![[2026-01-10 Rebeccah's stuff.jpg]]
