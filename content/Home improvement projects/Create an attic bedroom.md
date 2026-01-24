@@ -5,6 +5,16 @@ image: "[[2025-11-25 ready for insulation.jpg]]"
 catagory: Home improvement
 ---
 - [ ] Copy checklist from trello 
+# The vision/motivation 
+Part of the reason to want to create a bedroom in the attic is to have another useable room on the main floor, but, since we are going to the effort of building walls and adding insulation, why not make it pretty  too?
+
+I have wanted a "wall bed" since I was little and saw one in a drawing in a kids book. Just because I have a king sized bed is no reason not to have one! While I am at it, we can even make it a book nook.
+
+So now I have a vision of the east wall of the room comprised of built in drawers for clothes across the width of the room, and up to about hip height. The framing around the drawers can be formed with steps to make climbing into bed easier.
+
+Above the drawers the bed would be centered in the space, with bookshelves on three sides surrounding the bed and framing the window. Perhaps some under bed storage behind the drawers, accessible through hatches.
+
+The opening to the bed area could be framed by decorative wood carved like knotwork dragons or something, covering the sides of the bookshelves, and curtains (dark blue, of course) could hang down and soften the full effect. It will be interesting to see how near to this vision the project comes.
 # progress notes
 - [[2026-01-18 årsmöte]] we 
 - [[2025-12-26 a little more progress]] more tar paper up, more insulation up.

@@ -1,7 +1,6 @@
 [
   "multi-properties",
   "dataview",
-  "local-backup",
   "custom-sort",
-  "obsidian-git"
+  "obsidian-linter"
 ]

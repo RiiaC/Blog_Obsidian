@@ -1,6 +1,21 @@
 views:
+  - type: table
+    name: where I have lived
+    filters:
+      and:
+        - file.path.contains("content/Places")
+    order:
+      - file.name
+      - country
+      - my_legal_age
+      - extra_childhood_age
+      - type_of_home
+      - lived_with
+    sort: []
+    columnSize:
+      note.extra_childhood_age: 192
   - type: cards
-    name: Cards
+    name: Cards with images
     filters:
       and:
         - file.hasProperty("image")

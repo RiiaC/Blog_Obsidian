@@ -1,3 +1,0 @@
-Being a "military brat", I have moved often over the years. When I was little because the military told dad it was time to go, and to where. After my parents split the moves were because mom felt like it, till I was old enough to start moving for University, and then I just kept up the habit of moving regularly, till I got to Sweden and settled down.
-
-This folder will, I hope, eventually, have a note for every place I have ever lived. So far it has the first few:
