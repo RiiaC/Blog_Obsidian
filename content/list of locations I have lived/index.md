@@ -1,7 +1,7 @@
 # Places I Have Lived
 I started life as a "*military brat*". Therefore, I have moved often over the years. When I was little because the military told Dad it was time to go, and to where. After my parents split the moves were because mom felt like it, till I was old enough to start moving for University, and then I just kept up the habit of moving regularly, sometimes for love, sometimes for work, sometimes for University (sometimes more than one reason at once) till I got to Sweden and (mostly) settled down.
 
-The posts in this folder summarise where I have lived (page down for the [[content/list of locations I have lived/index#index|index]]), when, and I have started adding some highlight memories of each location (all of which written on 2026-01-23 or later) 
+The posts in this folder summarise where I have lived (page down for the index), when, and I have started adding some highlight memories of each location (all of which written on 2026-01-23 or later) 
 # What counts as a place I have lived?
 
 It wasn't easy figuring out what to count, or not to count. I eventually decided that I wouldn't count a place I stayed at only a few days after arriving somewhere new to live, but instead lump those days in with the first days at my official address in that town. However, I did count major vacations, especially the ones which were in conjunction with a move. In those cases I record the "type of house" as "between homes". After applying these two rules, the 57 lines in my spreadsheet of places lived condensed to a total of 51 places. Colour coded by colour, the graph of my travels looks like this:
