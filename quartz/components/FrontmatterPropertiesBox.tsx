@@ -16,6 +16,26 @@ const entries = Object.entries(props).filter(([_, value]) => {
 
   if (entries.length === 0) return null
 
+
+  // Helper provided by AI to turn [[Link]] into a clickable string or link
+  const renderValue = (val: any) => {
+    if (Array.isArray(val)) {
+      return val.map(v => renderValue(v)).reduce((prev, curr) => [prev, ", ", curr])
+    }
+    
+    const strVal = String(val)
+    // Check for [[Wikilink]] format
+    const wikiMatch = strVal.match(/^\[\[(.*?)\]\]$/)
+    if (wikiMatch) {
+      const linkText = wikiMatch[1]
+      // Quartz uses lowercase hyphenated slugs for URLs
+      const url = "/" + linkText.toLowerCase().replace(/\s+/g, "-")
+      return <a href={url}>{linkText}</a>
+    }
+    
+    return strVal
+  }
+  // end of the AI Helper code to  to turn [[Link]] into a clickable string or link
   return (
     <div class="frontmatter-box">
       <h3>Properties</h3>
