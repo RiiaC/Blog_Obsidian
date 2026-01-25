@@ -8,7 +8,7 @@ cd "C:\Obsidian files\Kareinas-blog"
 
 npx quartz build --serve
 or
-npx quartz build --serve --watch 
+     
 (if you want it to update)
 
 then open http://localhost:8080/ in your browser
