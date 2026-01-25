@@ -1,59 +1,17 @@
-# Quartz notebook
+# Quartz v4
 
-To run locally, run npm install then:
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-```
-cd "C:\Obsidian files\Kareinas-blog"
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
 
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-npx quartz build --serve
-or
-     
-(if you want it to update)
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-then open http://localhost:8080/ in your browser
-```
+## Sponsors
 
-Otherwise, just push to GitHub and CI will build & deploy the HTML.
-
-Forked from: https://github.com/jackyzha0/quartz
-
-# list of properties as of 2026-01-24, use this order for Linter
-title
-also_on_Dreamwidth
-photos_pubished
-image
-country
-location
-animals_seen
-type_of_home
-lived_with
-high_temp(°C)
-low_temp(°C)
-my_legal_age
-extra_childhood_age
-weight(kg)
-training
-physical therapy
-projects
-catagory
-for who
-date started
-completed
-materials used
-date acquired
-cost
-fabric name
-fiber content
-brand
-weave
-gauge
-colour
-ingredients
-day invented
-book_title
-Author
-copyright
-language
-date_finished
-time_elapsed
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
