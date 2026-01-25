@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 I worked from home today, and had the energy to strip the bed and wash everything. I am really looking forward to going to bed tonight! The housekeeper came today, too, so the house is looking nice, and I am happy with it.
 

@@ -1,16 +1,16 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - Qwirkle
+image: "[[2026-01-21 Qwirkle.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-21 Qwirkle.jpeg]]"
 training:
   - Yoga
   - Pilates
 projects:
+tags:
+  - Qwirkle
 ---
 Wednesday was a work from home day, during which I took time during lunch for some yoga., and then did more that evening for our group training session. Nothing more of note happened.
 

@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - SGNT
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå 
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Spark
   - Yoga
 projects:
+tags:
+  - SGNT
 ---
 Today started with my annual checkup for the https://www.sgnt.se/. The annual checkup is more detailed than the quarterly ones, and hours later my eyes are still dilated. 
 
