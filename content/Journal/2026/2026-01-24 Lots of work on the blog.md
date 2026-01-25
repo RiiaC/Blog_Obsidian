@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-01-24 out on the ice.jpg]]"
 country:
   - Sweden
 location:
