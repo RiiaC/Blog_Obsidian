@@ -1,5 +1,6 @@
 ---
-also_on_Dreamwidth: Not yet
+also_on_Dreamwidth: Yes
+photos_pubished: not yet
 image: "[[2026-01-21 Qwirkle.jpeg]]"
 country:
   - Sweden
@@ -12,7 +13,7 @@ projects:
 tags:
   - Qwirkle
 ---
-Wednesday was a work from home day, during which I took time during lunch for some yoga., and then did more that evening for our group training session. Nothing more of note happened.
+Today was Wednesday, a work from home day, during which I took time during lunch for some yoga., and then did more that evening for our group training session. Nothing more of note happened.
 
 ![[2026-01-21 Qwirkle.jpeg]]
 

@@ -33,4 +33,6 @@ It has been years since I saw her last, but I made a special point of passing th
 
 Today, I heard from my cousin Jim that news we never want to hear, but comes sooner or later for everyone. Rest well Nancy, the world is the richer because you were, and you had such a positive effect on so many people, and we who loved you will long remember you.
 
-Previous post: 
+![[2026-01-19 Aunt Nancy's profile photo from 2018.png]]
+
+Previous post: [[2026-01-18 årsmöte]]

@@ -1,23 +1,23 @@
 ---
-also_on_Dreamwidth: Not yet
-tags:
-  - data_mapping
-  - Qwirkle
+also_on_Dreamwidth: Yes
+photos_pubished: Yes
+image: "[[2026-01-20 BeReal fram.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image: "[[2026-01-20 BeReal fram.jpeg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Pilates
   - Walk
   - Yoga
 projects:
+tags:
+  - data_mapping
+  - Qwirkle
 ---
 I was so tired yesterday I did my yoga early, and was in bed just after 20:00. I
  Slept through to just after 04:00 (not counting the normal middle of the night trips to the toilet, of course), then got up and did 25 minutes Pilates. By then Keldor was waking up, so I kept him company on the phone as he drove to work, and I got ready for work and walked to the bus stop. 
@@ -32,11 +32,11 @@ Home, I lost yet another game of Qwirkle to Keldor,  that is 8 in a row he's won
 
 The rest of the early evening slipped by just looking at social media for a bit. Now it is 21:00, I have done my yoga, and think I will head to bed.
 
+![[2026-01-20 BeReal fram.jpeg]]
 Tonight I get to work from home, but alas, the contractor won't be starting on the attic bathroom due to having come down with a fever. Poor guy. I hope he's better soon.
 
 Friends and strangers the world over are enjoying intense Northern Lights, we have clouds.
+![[2026-01-20 clouds here asothers have northern lights.jpg]]
+
 
 Previous post: [[2026-01-19 My Aunt Nancy]]
-![[2026-01-20 BeReal fram.jpeg]]
-
-![[2026-01-20 clouds here asothers have northern lights.jpg]]
