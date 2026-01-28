@@ -9,6 +9,8 @@ country:
   - Sweden
 location:
   - Lövånger
+projects:
+  - "[[Minor home improvement projects]]"
 ---
 Last night while watching the movie my legs started cramping up. I was also super tired, so I did my yoga, and then lay on the ccouch with my legs on the rotating ball massage tool till it turned itself off. Around that time Keldor came back upstairs to say that he'd returned to the garage to continue what we had started earlier, and now he'd moved the long table that came with the house aeay from the wall, moved the safe into the corner where it had been,  and the secong hand old fashioned carpenter's bench we bought not long before heading to Norway against the wall. 
 I felt bad that I had been too tired to even notice that he'd gone downstairs, let alone help, and super impressed he managed to move that heavy safe.

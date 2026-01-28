@@ -10,6 +10,8 @@ high_temp(°C): 10
 low_temp(°C): 1
 training:
   - Yoga
+projects:
+  - "[[Create an attic bedroom]]"
 ---
 Today's home improvement progress: everything from the left half of the attic to the right, save for some things left from the previous owner, which we took to the local dump/recycling station.
 
