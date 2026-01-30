@@ -1,16 +1,16 @@
 ---
 also_on_Dreamwidth: first paragraph
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
 high_temp(°C): -3
 low_temp(°C): -9
 training:
   - Yoga
+tags:
 ---
 It took a few weeks between first getting [[2025-12-02 a blog version of this journal]] kinda working, and then breaking it, but it is finally fixed again: https://riiac.github.io/Kareinas-blog/
 

@@ -1,13 +1,13 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - home_improvements
+photos_pubished:
+image: "[[2025-11-30 BeReal oss.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2025-11-30 BeReal oss.jpeg]]"
-photos_pubished:
+tags:
+  - home_improvements
 ---
 The plan for today as of last night had been "divide and  conquer". He would go i  to the workshop at work and make lists to hold the insulation to the ceiling,  while I stayed home and cut the insulation to fit the spaces in the wall. 
 

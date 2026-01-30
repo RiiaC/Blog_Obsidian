@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - adventures
-  - runestones
-  - ruins
+photos_pubished: No
+image: "[[2025-11-23 kyrkoruin 3.jpg]]"
 country:
   - Sweden
 location:
   - Gyllengran 
   - Umeå
   - Lövånger
-image: "[[2025-11-23 kyrkoruin 3.jpg]]"
-photos_pubished: No
 training:
   - Yoga
+tags:
+  - adventures
+  - runestones
+  - ruins
 ---
 Having gone to sleep early, I woke nearly eight hours later, at 05:42 with that vauge discomfort in my hips that will turn into an ache if I don't move them, so I got up, took the sheepskins to the feast hall and did a 30 minutes pilates session. 
 

@@ -1,8 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - bureaucracy
-  - roadtrip
+photos_pubished: No
+image: "[[2025-11-21 BeReal oss.jpeg]]"
 country:
   - Sweden
 location:
@@ -11,13 +10,14 @@ location:
   - Skellefteå
   - Umeå
   - Örnsköldsvik 
-image: "[[2025-11-21 BeReal oss.jpeg]]"
-photos_pubished: No
-weight(kg): 57.9
 high_temp(°C): -8
 low_temp(°C): -15
+weight(kg): 57.9
 training:
   - Yoga
+tags:
+  - bureaucracy
+  - roadtrip
 ---
 I had looked forward to working from home today, getting thing packed for this weekend and washing the gambesons after yesterday's fighter practice. Then we saw the letter that the bank has finally (10 months after taking office) approved my access to the shire's bank account, and I just need o bring my ID to the bank and they will give me access.
 So I decided instead to head in with Keldor and work at his dad's, and we could go to the bank as soon as he was done with work. So we stayed up later than we should to get most things packed and ready, and I got up early today to gather food to take with me to his dads.

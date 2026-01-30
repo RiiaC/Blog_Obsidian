@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - Qwirkle
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg): 57.5
 high_temp(°C): 3
 low_temp(°C): -3
+weight(kg): 57.5
 training:
   - HIT
   - Yoga
+tags:
+  - Qwirkle
 ---
 During this morning's Qwirkle game we had a set of five diamonds awaiting the green one to be complete. It didn’t appear, and didn't appear, and the board grew into a circle surrounding them, with just enough room available to complete the Qwirkle. The game focus moved to the outer parts of the board. I had a pair of greens, and set them up on the edge of a double green row for like nine points, and was pleased. 
 

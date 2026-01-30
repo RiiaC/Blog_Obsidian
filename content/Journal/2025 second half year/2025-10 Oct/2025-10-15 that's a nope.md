@@ -1,17 +1,17 @@
 ---
 also_on_Dreamwidth: yes
-tags:
-  - computer
+photos_pubished: No
+image: "[[2025-10-15 BeReal oss.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Skelleftehamn
-weight(kg): 58.5
 high_temp(°C): 9
 low_temp(°C): 0
-image: "[[2025-10-15 BeReal oss.jpeg]]"
-photos_pubished: No
+weight(kg): 58.5
+tags:
+  - computer
 ---
 I decided to work from Skelleftehamn today, so that I will be able to return the new personal computer I had bought as soon as the shop opens (ok, as soon as I finish my meeting, which starts when the shop opens). 
 

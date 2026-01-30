@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - must_have_done_somethinh
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
 weight(kg): 57.9
 training:
   - Yoga
+tags:
+  - must_have_done_somethinh
 ---
-Worked. Had our second zoom training session with friends. Stayed up later thsn I should have after.
+Worked. Had our second zoom training session with friends. Stayed up later than I should have after.
 
 Previous post: [[2025-11-27 starting the day right, but the evening didn't go as planned]]
 

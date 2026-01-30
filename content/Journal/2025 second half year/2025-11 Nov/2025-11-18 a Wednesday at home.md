@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - progress_report
+photos_pubished: No
+image: "[[2025-11-18 BeReal cookies.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2025-11-18 BeReal cookies.jpeg]]"
-photos_pubished: No
-weight(kg): 57.5
 high_temp(°C): -5
 low_temp(°C): -10
+weight(kg): 57.5
 training:
   - Yoga
+tags:
+  - progress_report
 ---
 Work from home days are good for the cats. Kali convinced me to brush her three times before 07:30, which is a lot of fur that won't become hairballs.
 

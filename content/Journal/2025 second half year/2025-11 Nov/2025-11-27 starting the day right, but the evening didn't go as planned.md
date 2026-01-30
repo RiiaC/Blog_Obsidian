@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - bus_accident
+photos_pubished: Yes
+image: "[[2025-11-27 bilolycka.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Broänge
-image: "[[2025-11-27 bilolycka.jpeg]]"
-photos_pubished: Yes
 weight(kg): 58.2
 training:
   - Pilates
   - Yoga
+tags:
+  - bus_accident
 ---
 Woke at 04:10 and did 25 minutes of pilates before his 05:00 alarm went off. 
 

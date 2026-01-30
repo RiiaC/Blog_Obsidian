@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
+tags:
 ---
 Given how late we got home on Sunday Keldor sent his boss a note that he would be late for work,  so we set the alarm for 07:15 instead of 05:00, and I took the bus that leave here at 07:55 instead of 06:20. 
 

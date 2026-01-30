@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image:
-photos_pubished:
-weight(kg): 57.5
 high_temp(°C):
 low_temp(°C):
+weight(kg): 57.5
 training:
   - Spark
   - Yoga
+tags:
 ---
 This morning was the first day I could take the spark to the bus stop this year. Yay! No heavy backpack on my shoulders. The conditions were perfect, the snow was white and lovely everywhere, but on the street it was perfectly compacted, and no gravel had been spread on the road, so that the spark glided smoothly. Ideal early winter weather. If only it could have lasted. But no, it warmed up to +4° C. So even though I got to take the early bus home, by the time it arrived at 16:00 the roads were wet slush, combined with gravel that the city council had put out as they like it when people aren't crashing their cars, or falling over. Luckily, Keldor also finished work at a reasonable time, and got to Lövånger only one minute after me, so we put my spark in the back of the van, and I got a ride home. 
 

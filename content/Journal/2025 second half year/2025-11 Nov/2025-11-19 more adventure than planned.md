@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - adventures
-  - bus
-  - backpack
+photos_pubished: No
+image: "[[2025-11-19 BeReal backpack.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image: "[[2025-11-19 BeReal backpack.jpeg]]"
-photos_pubished: No
-weight(kg): 58.1
 high_temp(°C): -9
 low_temp(°C): -13
+weight(kg): 58.1
 training:
   - Yoga
+tags:
+  - adventures
+  - bus
+  - backpack
 ---
 I got on the bus this morning at the usual time, 06:20. Worked on the bus, as usual. Put in a full productive day, with meetings. Went to my Swedish literature and music class  caught the 17:22 bus home, feeling too tired to get out the computer, so I simply read from the novel we are reading for class (Jävla Karlar). I was in an uncomfortable bit of the chapter, and I was hoping to get to the chapter resolution before the bus got to Lövånger. 
 

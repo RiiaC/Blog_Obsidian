@@ -1,22 +1,22 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - adventures
+photos_pubished:
+image: "[[2025-10-16 selfie.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Roadtrip
   - Realm_of_Krake
-image: "[[2025-10-16 selfie.jpg]]"
-photos_pubished:
-weight(kg): 57.7
 high_temp(°C): 10
 low_temp(°C): 3
+weight(kg): 57.7
 training:
   - Load_unload_car
   - Hike
   - Yoga
+tags:
+  - adventures
 ---
 We are on our way south towards the Boar Hunt event, and we managed to leave the house early enough that we made it to Skuleberget before dark, which meant we had time to go up the hill to the old sea cave, which, ~8000 years ago was right on the coast. I love this hike!
 

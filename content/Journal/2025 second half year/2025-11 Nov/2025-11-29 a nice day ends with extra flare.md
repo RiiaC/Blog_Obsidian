@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - Qwirkle
+photos_pubished:
+image: "[[2025-11-29 Norrsken 2.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2025-11-29 Norrsken 2.jpg]]"
-photos_pubished:
-weight(kg): 57.5
 high_temp(°C):
 low_temp(°C):
+weight(kg): 57.5
 training:
   - Yoga
+tags:
+  - Qwirkle
 ---
 Zoom call with two of my sisters this morning (Amber was at the Opra, and couldn't make it). It was the first time in a while that we've manged to catch up, so that was nice. 
 
