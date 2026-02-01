@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - sewing_project
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg): 58.1
 high_temp(°C): -13
 low_temp(°C): -17
+weight(kg): 58.1
 training:
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
+tags:
+  - sewing_project
 ---
 I had planned to get up early and start laundry. I managed half of these, but the first load didn't get in the machine till almost 09:09. I also planned to do my morning workout while it ran, but the time needed to run that load vanished to writing [[2026-01-06 book review, The King's Dragon]] and scrolling a bit.
 

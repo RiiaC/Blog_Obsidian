@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - SCA
+photos_pubished:
+image: "[[2026-01-10 att sälja.jpg]]"
 country:
   - Sweden
 location:
   - Rockelstad Slott
-image: "[[2026-01-10 att sälja.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
   - "[[Keldor copper trim tunic]]"
+tags:
+  - SCA
 ---
 - breakfast 
 - market

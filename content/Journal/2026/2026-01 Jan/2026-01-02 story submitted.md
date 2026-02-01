@@ -1,22 +1,22 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - writing
-  - winter_holidays
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
   - shovel_snow
   - Walk
 projects:
+tags:
+  - writing
+  - winter_holidays
 ---
 This morning I started my day with an hour of yoga, followed by breakfast and snow shovelling. The snow is fluffy and easy to move. However, it is not at all suited to filling in the low spots where tire tracks in the mud froze because I didn't have the energy to go change into boots and trample the tracks flat on the last warm day before it froze again. I regret this decision.
 

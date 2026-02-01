@@ -1,13 +1,13 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - fantasy
 book_title: The King's Dragon
 Author: Kate Elliott
+copyright: "1997"
 language: English
 date_finished: 2026-01-06
 time_elapsed: "> 1 week"
-copyright: "1997"
+tags:
+  - fantasy
 ---
 In between errands and computer stuff I finished reading The King's Dragon by Kate Elliott. I started it at least a week ago (when I did my first log entry for tracking reading, but was already 200 pages in, so I strongly suspect I just failed to make a note of it). I remember that I bought the book much longer ago than that, but after downloading the app complained that I needed to activate some sort of Adobe security thing, which I had previously activated for another book, and it just didn't work, so I gave up and forgot about it for weeks, till I bought another book for school that had a similar issue, and when i solved it, by getting yet another book app, the new book app worked for this one too.
 

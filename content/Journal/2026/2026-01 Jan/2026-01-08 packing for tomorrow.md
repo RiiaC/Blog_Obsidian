@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - packaging
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C): -7
 low_temp(°C): -16
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Keldor copper trim tunic]]"
+tags:
+  - packaging
 ---
 While we often leave for road trips to southern Sweden already on Thursday evening, this time Keldor decided that we would leave super early Friday instead.  Given that there is some serious snowstorm and winds happening today, especially in the Sundsvall area, where they had thunder and lightning with the snow, but most of the extreme weather warnings are for Thursday and not Friday,  this is likely a good thing.
 

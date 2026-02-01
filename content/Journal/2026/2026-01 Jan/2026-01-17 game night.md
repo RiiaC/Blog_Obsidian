@@ -1,24 +1,24 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - games
-  - cooking
-  - recipe
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Skelleftehamn
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Pilates
   - Yoga
 projects:
   - "[[Keldor copper trim tunic]]"
+tags:
+  - games
+  - cooking
+  - recipe
 ---
 gaIt was a sister's zoom call weekend, and I woke enough before the alarm that I could do a 20 minutes Pilates before hand. Of course, then I took time to feed the cats and brush my hair before opening the computer, so I was a little late. But I am usually the first one there, so I guess it was my turn.
 

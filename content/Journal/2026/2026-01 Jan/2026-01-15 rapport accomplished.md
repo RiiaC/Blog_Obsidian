@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - exchequer_stuff
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg): 57.7
 high_temp(°C):
 low_temp(°C):
+weight(kg): 57.7
 training:
   - Yoga
 projects:
+tags:
+  - exchequer_stuff
 ---
 Oops, I was so sleepy last night that I went to bed at 20:00, and I forgot to plug in my phone, so I woke to a very low battery,  which will complicate my morning phone call.
 

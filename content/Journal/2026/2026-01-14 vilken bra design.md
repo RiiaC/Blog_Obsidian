@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - Swedish_post
+photos_pubished:
+image: "[[2026-01-14 BeRealfram.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image: "[[2026-01-14 BeRealfram.jpeg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
+  - Swedish_post
 ---
 # En kul historia från min morgon...
 

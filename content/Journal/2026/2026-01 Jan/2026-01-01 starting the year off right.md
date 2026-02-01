@@ -1,23 +1,23 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - Qwirkle
-  - winter_holidays
-  - weather
+photos_pubished: Yes
+image: "[[2026-01-01 oss.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-01 oss.jpg]]"
-photos_pubished: Yes
-weight(kg): 58.3
 high_temp(°C): -6
 low_temp(°C): -12
+weight(kg): 58.3
 training:
   - HIT
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
+tags:
+  - Qwirkle
+  - winter_holidays
+  - weather
 ---
 Finally, after weeks of looking out my window at green grass (which shouldn't be possible this far north in December), today I woke to frosted trees, and during breakfast there were a first few tentative snowflakes drifting towards the ground. Please let us have some weeks of winter before the next thaw!
 ![[2026-01-01 still no snow.jpg]]

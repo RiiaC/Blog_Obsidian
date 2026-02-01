@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - Qwirkle
+photos_pubished:
+image: "[[2026-01-16 Qwirkle victory.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-16 Qwirkle victory.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
+  - Qwirkle
 ---
 Having not made it to bed till 04:00 last night, I didn't manage to get up when the 05:00 alarm went off and keep Keldor company as he drove to work. Instead I slept till 09:00, and managed to make it to the computer by 10:00, but then I put in a full 8 hours of work (of the 7.95 I am supposed to work).
 

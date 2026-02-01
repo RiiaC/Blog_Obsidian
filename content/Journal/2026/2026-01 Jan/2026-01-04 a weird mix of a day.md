@@ -1,22 +1,22 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - read_and_eat
-  - winter_holidays
+photos_pubished: Yes
+image: "[[2026-01-04 snow at long last.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-04 snow at long last.jpg]]"
-photos_pubished: Yes
-weight(kg): 58
 high_temp(°C): -11
 low_temp(°C): -21
+weight(kg): 58
 training:
   - Pilates
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
+tags:
+  - read_and_eat
+  - winter_holidays
 ---
 Slept in, did an hour of pilates and yoga, and then curled up with a book and a small batch of popcorn (popped in the popcorn popper, with only a hint of butter with nutritional yeast and the last of the salad (spinach, cucumber, tomato, carrot, avocado).
 

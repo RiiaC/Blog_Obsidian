@@ -1,8 +1,7 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - roadtrip
-  - SCA
+photos_pubished:
+image: "[[2026-01-09 roadtrip.jpg]]"
 country:
   - Sweden
 location:
@@ -12,17 +11,18 @@ location:
   - Örnsköldsvik 
   - Timmerå
   - Rockelstad Slott
-image: "[[2026-01-09 roadtrip.jpg]]"
-photos_pubished:
-weight(kg): 58.1
 high_temp(°C):
 low_temp(°C):
+weight(kg): 58.1
 training:
   - Pilates
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
   - "[[Mending]]"
+tags:
+  - roadtrip
+  - SCA
 ---
 
 We had planned to leave at 05:00, and Keldor figured that he would need only his normal 15 minutes to go from the alarm rings to out the door. So I set the dawn light to 05:40, and hoped I would wake early enough for a quick pilates, so my hips wouldn't hurt later.

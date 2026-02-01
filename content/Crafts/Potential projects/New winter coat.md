@@ -16,11 +16,12 @@ But what to make the outer layer from? I still have the [[Narrow heavy black woo
 - inner cargo pockets at thigh height
 # improvements to make
 - better neckline with more overlap for warmth 
+- lower the front cargo pockets to a more comfortable position with respect to my arms
 - add a band of elastic to the top edge of the cargo pockets so they hold things in better, even if the magnets get separates and the  flap opens 
 - outer breast pocket for telephone 
 - add reflex trim even to arms, and make the cuffs longer
 - re-use current belt, but take off the reflex trim, and sew it down again covering the central seam.
 -  reuse current buttons, but do better buttonholes 
-- do I want a built on shoulder cape? Or is my separate hood and mantel olus mittens on reflex straps fine?
+- do I want a built on shoulder cape? Or is my separate hood and mantel plus mittens on reflex straps fine?
 
 

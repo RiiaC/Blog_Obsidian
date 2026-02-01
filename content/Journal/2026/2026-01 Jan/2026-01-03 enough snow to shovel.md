@@ -1,22 +1,22 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - winter_holidays
-  - weather
+photos_pubished:
+image: "[[2026-01-03 BeReal snö.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-03 BeReal snö.jpeg]]"
-photos_pubished:
-weight(kg): 57.9
 high_temp(°C): -8
 low_temp(°C): -14
+weight(kg): 57.9
 training:
   - shovel_snow
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
+tags:
+  - winter_holidays
+  - weather
 ---
 Having stayed up till after almost 02:00, I slept in. I did get up just after 07:00 to pee, feed the cats, and take my morning vitamins with a bite of banana, but then I went back to sleep and slept another three hours.
 

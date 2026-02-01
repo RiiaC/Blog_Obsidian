@@ -1,11 +1,11 @@
 ---
+image: "[[2025-12-15 Þórólfr.jpg]]"
+catagory: Helping
 date started: 2025-11-22
+completed:
 materials used:
   - Wool
   - Silk
-image: "[[2025-12-15 Þórólfr.jpg]]"
-catagory: Helping
-completed:
 ---
 At [[2025-11-22 Gyllengrans event]] I helped  Þórólfr cut out a new tunic from a pale lilac coloured wool.  
 
