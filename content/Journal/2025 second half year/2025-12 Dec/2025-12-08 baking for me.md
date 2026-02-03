@@ -27,7 +27,7 @@ After work Keldor and I walked up to the store and picked up a few things (after
 
 ![[2025-12-08 pound cake.jpg]]
 
-Then I mixed up a new batch of  [[Museli]], and even had time to write up notes of how to assemble the [[content/Crafts/Things I help others with/Charlotte's red with white squares dress|Charlotte's red with white squares dress]] and sent them to her before time for our zoom training session, which saw four people zooming in for it.
+Then I mixed up a new batch of  [[Muesli]], and even had time to write up notes of how to assemble the [[content/Crafts/Things I help others with/Charlotte's red with white squares dress|Charlotte's red with white squares dress]] and sent them to her before time for our zoom training session, which saw four people zooming in for it.
 
 - [ ] Fix this blog, it has duplicate folders
 folders
