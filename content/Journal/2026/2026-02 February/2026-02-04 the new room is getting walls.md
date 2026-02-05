@@ -27,4 +27,4 @@ This evening I was busy. Keldor has a gift in progress that needs runes, so I sp
 
 Since Charlotte wasn't feeling well last weekend and didn't get to come up for the bardic, she opted to come up this weekend instead, so we have company again, and so I should put down the computer and get ready for training tonight.
 
-Previous post: [[2026-02-03 sleepy day]]
+Previous post: [[2026-02-03 another sleepy day]]

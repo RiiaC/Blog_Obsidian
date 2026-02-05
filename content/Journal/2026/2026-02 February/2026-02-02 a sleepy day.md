@@ -28,4 +28,4 @@ After that meeting it was time for our zoom training meeting, and then I took a 
 
 
 
-Previous post: 
+Previous post: [[2026-02-01 Reengardas hantverkträff]]
