@@ -27,14 +27,13 @@ views:
     name: table
     filters:
       or:
-        - file.folder.startsWith("2011-present (Sweden)")
-        - file.folder.startsWith("Early life")
+        - file.folder.contains("Journal")
     order:
       - file.name
+      - weight(kg)
       - high_temp(°C)
       - location
       - low_temp(°C)
-      - weight(kg)
       - training
       - image
     sort:

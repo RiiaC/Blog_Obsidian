@@ -26,4 +26,4 @@ The meeting ended early enough to swing buy the store to get some salad from the
 
 Since my flight to Uppsala tomorrow leaves early, we went to bed at a reasonable hour.
 
-Previous post: [[2026-01-25 a good effect for the effort]]
+Previous post: [[2026-01-25 another minor home improvement]]

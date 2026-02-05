@@ -8,7 +8,7 @@ location:
   - Lövånger
 high_temp(°C):
 low_temp(°C):
-weight(kg):
+weight(kg): 58.8
 training:
   - Yoga
 projects:
