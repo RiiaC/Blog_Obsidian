@@ -1,23 +1,23 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - Qwirkle
-  - visitors
-  - winter_holidays
+photos_pubished: Yes
+image: "[[2026-01-05 naanbröd.jpeg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-01-05 naanbröd.jpeg]]"
-photos_pubished: Yes
-weight(kg): 58.3
 high_temp(°C): -19
 low_temp(°C): -24
+weight(kg): 58.3
 training:
   - HIT
   - Yoga
 projects:
   - "[[Silk bliaut short tunic]]"
+tags:
+  - Qwirkle
+  - visitors
+  - winter_holidays
 ---
 Slept eight hours, thought I should get up, take my morning vitamins, and do some training. Saw a notification that I had a reply from the contractor who will help create a half bathroom in the attic, so looked at that, then looked at other notifications, and suddenly well over an hour had elapsed. Oops.
 

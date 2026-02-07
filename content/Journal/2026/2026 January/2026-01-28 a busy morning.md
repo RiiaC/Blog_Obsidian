@@ -12,6 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
+  - "[[Create extra bathrooms]]"
 tags:
 ---
 One would think that today would be a smart day to sleep in, since the plane didn't land last night till 22:45, which meant that it was just before midnight before we were home, the cats had had treats, the litter box emptied, and a quick shower taken so I could get to bed (yay pre-flight airport yoga, which meant I could go nearly straight to bed) just before midnight. But no, I hopped up with Keldor just after 05:00, and while we talked during his drive to work I managed to:

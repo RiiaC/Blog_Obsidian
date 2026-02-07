@@ -12,6 +12,7 @@ weight(kg): 58.8
 training:
   - Yoga
 projects:
+  - "[[Create extra bathrooms]]"
 tags:
 ---
 Niklas returned and started putting in the drainage pipes to the attic. He replaced the old metal vertical pipe to the attic with a plastic pipe, and added a split that runs off towards the new loo. In order to accomplish this he needed to drill holes in the floor jousts, each a little lower than the next (counting from the end by the loo), so that there is enough of a slope in the line that flushing the toilet will actually send the water etc. moving that direction. Then he added another split, to a decreasing sized drain for the sink.

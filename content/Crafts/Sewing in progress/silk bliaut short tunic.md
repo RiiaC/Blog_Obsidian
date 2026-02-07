@@ -1,11 +1,11 @@
 ---
+image: "[[2025-09-20 Blue purple silk short bilaut.jpg]]"
+catagory: Sewing
 date started: 2025-12-10
 materials used:
   - "[[Bright plum silk]]"
   - "[[Midnight blue silk]]"
   - "[[Blue silk thread rolls]]"
-image: "[[2025-09-20 Blue purple silk short bilaut.jpg]]"
-catagory: Sewing
 ---
 # Initial plan
 I thought should be able to get a reasonable bliaut from the silk I bought at Cudgel, the [[Midnight blue silk]] and the [[Dusky plum silk]]. However, when I looked at them later, I realised that the [[Bright plum silk]] is a much better texture and match for the [[Midnight blue silk]], and the brighter tone to its colour also works better.
@@ -13,6 +13,13 @@ I thought should be able to get a reasonable bliaut from the silk I bought at Cu
 ![[2025-09-20 silk bliaut short tunic.jpg]]
 
 # Progress log
+- [2026-01-27](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-27%20a%20long%20day) embroidery along the parts of the sleeve I hadn't finished yet
+- [2026-01-10](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-10%2012th%20Night%20Saturday%20bullet%20points) got it wearable at the event (12th Night)
+- [2026-01-09 ](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-09%20Drachenwald%20Coronation) road trip sewing
+- [2026-01-07](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-07%20sewing%20progress) I got the last of the small final pieces cut out
+- [2026-01-05](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-05%20spur%20of%20the%20moment%20invite)fixing problems caused by cutting mistakes
+- [ 2026-01-04](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-04%20a%20weird%20mix%20of%20a%20day) more seams
+- [2026-01-03](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-03%20enough%20snow%20to%20shovel) a little progress
 - [[2026-01-02 story submitted]] started working on the neckline. Got the exterior facing sewn to the neck hole (so I can now try it on) And started doing the embroidery along that edge
 - [[2026-01-01 starting the year off right]] To fix the sleeve problem I opened up the seam between the front and back sides of the seam. Then I spread the side that is primarily blue on the table and used it as the pattern for how the mostly plum side should look. 
 - Since this should have been a left sleeve, and is a right sleeve, it means the colours are in the opposite position than they should be. To solve this I did a diagonal cut (green line in the sketch) to separate the pendant part of the sleeve (A) from the arm part of the sleeve (B), and unpicked the seam attaching the upper arm three-colours section (C) from the rest of the sleeve.

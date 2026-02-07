@@ -12,6 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
+  - "[[Create extra bathrooms]]"
 tags:
 ---
 Having gone to bed early, I woke for the early stages of the dawn light, and decided to get up for a quick pilates session, as my hips were aching a little.  Then I returned to bed and curled up with Keldor, who decided that today is a day where sleeping in is more important than getting to work on time, so I got a 35 minute nap before waking again. 

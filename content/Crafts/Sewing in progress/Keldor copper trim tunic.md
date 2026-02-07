@@ -1,14 +1,18 @@
 ---
+image: "[[2025-12-24 right sleeve dragon.jpg]]"
+catagory: Sewing
 date started:
 materials used:
   - "[[handwoven wool from Barbara]]"
   - "[[Silk and copper trim]]"
   - "[[Plum silk yarn]]"
-image: "[[2025-12-24 right sleeve dragon.jpg]]"
-catagory: Sewing
 ---
 # Progress log
-- [[2025-12-29 changing house guests]] got the second sleeve lined and the cuff embroidery done
+- [2026-02-07](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-07%20errands%20and%20more) most of the final seam done
+- [2026-02-01](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-01%20Reengardas%20hantverktr%C3%A4ff) working on the first of the long wrist to sleeve seams
+- [2026-01-31 ](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-31%20Bardic!) bardic = good sewing time!
+- [2026-01-30](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-30%20visitors!) lots of sewing with company
+- [2025-12-29](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2025%20second%20half%20year%2F2025-12%20Dec%2F2025-12-29%20changing%20house%20guests) got the second sleeve lined and the cuff embroidery done
 - [[2025-12-24 julafton]] finished embroidery of the dragons on the sleeves, and lined the right sleeve
 - [[2025-12-24 right sleeve dragon.jpg]]
 - [[2025-12-23 last work day of the year and embroidery]] 

@@ -30,6 +30,7 @@ views:
         - file.folder.contains("Journal")
     order:
       - file.name
+      - projects
       - weight(kg)
       - high_temp(°C)
       - location
@@ -39,6 +40,8 @@ views:
     sort:
       - property: file.name
         direction: DESC
+      - property: projects
+        direction: ASC
       - property: weight(kg)
         direction: DESC
       - property: location
@@ -47,6 +50,6 @@ views:
         direction: ASC
     columnSize:
       file.name: 186
-      note.location: 239
+      note.location: 88
       note.training: 108
       note.image: 88

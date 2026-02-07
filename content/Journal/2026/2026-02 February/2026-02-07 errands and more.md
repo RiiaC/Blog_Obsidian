@@ -13,9 +13,10 @@ training:
   - Pilates
 projects:
   - "[[Keldor copper trim tunic]]"
+  - "[[Create extra bathrooms]]"
 tags:
 ---
-Woke thinking of the [[Create an attic bedroom]] project. The plan has been to make the bed area a reading nook, with bookshelves on three sides, and drawers under that open to the room. I had thought of a trap door to get to the under bed area behind the drawers, but now I realise that I want instead slightly dloped padded walls below the bottom bookshelves that serve as backrest, and have a hinge, so we can get to storage under the bed.
+Woke thinking of the [[Create an attic bedroom]] project. The plan has been to make the bed area a reading nook, with bookshelves on three sides, and drawers under that open to the room. I had thought of a trap door to get to the under bed area behind the drawers, but now I realise that I want instead slightly sloped padded walls below the bottom bookshelves that serve as backrest, and have a hinge, so we can get to storage under the bed.
 
 In other news, I got a note from Heather letting me know that my story isn't one she will be publishing and wishing me luck finding it a home.  This didn't particularly surprise me, as I knew she had received far more stories than she can buy for this year's collection, and my story reads more like a blog post than a story. (I have lots of practice writing blog posts, and none writing stories with plots, dialogue and character development.)
 
