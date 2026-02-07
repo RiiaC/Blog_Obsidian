@@ -3,7 +3,7 @@ views:
     name: where I have lived
     filters:
       and:
-        - file.path.contains("content/Places")
+        - file.path.startsWith("content/list of locations I have lived")
     order:
       - file.name
       - country
