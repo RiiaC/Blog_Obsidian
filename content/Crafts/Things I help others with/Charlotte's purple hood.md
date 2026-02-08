@@ -17,10 +17,13 @@ This sort of hood is a simple rectangle/triangle construction, where the rectang
 This style of hood has four gores, one each centred on front and back, and one each centred on each shoulder. I often do these by starting with a square, cutting it into three triangles, one full width, and two others half width, which I then sew together to make a a wider triangle. However, Charlotte is new to sewing, so to make this one easier we just made the triangles 33 cm tall and 30 cm wide, 
 
 ![[2026-02-07 hood gores.png]]
-# The Osenstitch done with the same fabric and yarn as she will use
+# The Osenstitch done with the same fabric and yarn as the project
 Because this fabric is dense and doesn't fray easily, we decided to simply sew the hood using the Osenstich with narrow arms, just over the edge of the fabric. By placing the stitches a couple of mm from the cut edge it is far enough in to hold the fabric together without pulling out, yet near enough to the edge to allow it to open up pretty flat. 
 
-<video controls src="quartz/static/videos/2026-02-08_osenstitch.mp4"></video>
+<video controls>
+  <source src="static/videos/2026-02-08_osenstitch.mp4">
+  <source src="/videos/2026-02-08_osenstitch.mp4">
+</video>
 
 Another alternative would have been to do a straight seam further from the edge, and then turn the cut edges down and finish them with the Osenstitch. Since Charlotte would like the hood to wear at Double Wars, we decided to do this version, which only requires sewing each seam once.
 # Closeup of the Ösenstitch
