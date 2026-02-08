@@ -1,9 +1,9 @@
 ---
-date started:
-materials used:
 image:
 catagory: Sewing
+date started:
 completed:
+materials used:
 ---
 See also [Keldor laurel trim](https://trello.com/c/aYVcbWKF)
 

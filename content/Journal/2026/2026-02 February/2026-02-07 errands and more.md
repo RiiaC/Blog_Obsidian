@@ -14,6 +14,7 @@ training:
 projects:
   - "[[Keldor copper trim tunic]]"
   - "[[Create extra bathrooms]]"
+  - "[[Charlotte's purple hood]]"
 tags:
 ---
 Woke thinking of the [[Create an attic bedroom]] project. The plan has been to make the bed area a reading nook, with bookshelves on three sides, and drawers under that open to the room. I had thought of a trap door to get to the under bed area behind the drawers, but now I realise that I want instead slightly sloped padded walls below the bottom bookshelves that serve as backrest, and have a hinge, so we can get to storage under the bed.
@@ -28,10 +29,12 @@ But then we put the computer down and went into town to get more wet room spacke
 
 While we were out we stopped by the second hand store, where we found a cheap Dawn Light and a few glasses and a tea mug that he thought worth bringing home. We also stopped by the Dollar Store store to get more cat treats.
 
-After we were home I lost a game of Qwirkle, did some sewing, and finished the spackeling in the attic loo, followed by washing a load of laundry, as the clothes I had worn in the attic were dusty and full of sawdust. 
+After we were home I lost a game of Qwirkle, did some sewing, including helping Charlotte cut out her [[Charlotte's purple hood|purple hood]] and finished the spackeling in the attic loo, followed by washing a load of laundry, as the clothes I had worn in the attic were dusty and full of sawdust. 
 
-That took long enough that I got most of the final seam on [[Keldor copper trim tunic]] done. Then I did you yoga, and now I wonder how it is 22:22 already, and thinking I should get some sleep.
+That took long enough that I got most of the final seam on [[Keldor copper trim tunic]] done. Then I did you yoga, and now I wonder how it is 22:22 already, and I am thinking I should get some sleep.
 
 ![[2026-02-07 Be Real.jpeg|500]]
+
+But then I stayed up much later cleaning up some things on the blog...
 
 Previous post: [[2026-02-06 the cats are happy we are home today]]
