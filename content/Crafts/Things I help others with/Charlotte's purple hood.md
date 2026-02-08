@@ -21,8 +21,8 @@ This style of hood has four gores, one each centred on front and back, and one e
 Because this fabric is dense and doesn't fray easily, we decided to simply sew the hood using the Osenstich with narrow arms, just over the edge of the fabric. By placing the stitches a couple of mm from the cut edge it is far enough in to hold the fabric together without pulling out, yet near enough to the edge to allow it to open up pretty flat. 
 
 <video controls>
-  <source src="static/videos/2026-02-08_osenstitch.mp4">
-  <source src="/videos/2026-02-08_osenstitch.mp4">
+  <source src="quartz/static/videos/2026-02-08_osenstitch.mp4">
+  <source src="/Kareinas-blog/videos/2026-02-08_osenstitch.mp4">
 </video>
 
 Another alternative would have been to do a straight seam further from the edge, and then turn the cut edges down and finish them with the Osenstitch. Since Charlotte would like the hood to wear at Double Wars, we decided to do this version, which only requires sewing each seam once.
