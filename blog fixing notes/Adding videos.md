@@ -1,3 +1,6 @@
+# 2026-02-10
+Tried again to make things work. Learned an important lesson. If the new push doesn't yet show in GitHub actions, do not changing anything and push again! It is likely that there is only a slight time delay. If it arrives and starts the build and deploy in GitHub actions, and a new push arrives before it finishes, the process will cancel out, with an error message saying that it stops to deal with the new request.
+# 2026-02-08 adding videos
 I tried making a video and putting it in the blog. It works directly in obsidian using the same sort of link to the file with a leading exclamation point as for photos.  
 
 # CoPilot's summary:
