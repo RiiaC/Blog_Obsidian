@@ -9,9 +9,14 @@ permissions:
   pages: write
   id-token: write
 
+# Change suggested by CoPilot 2026-02-10: set cancel-in-progress: false
+# when troubleshooting why videos fail to appear on the blog
+# Avoid canceling a build midway if you push again quickly.
+# If you prefer auto-cancel, set cancel-in-progress: true
+
 concurrency:
   group: "quartz-deploy"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -30,6 +35,19 @@ jobs:
 
       - name: Build Quartz site
         run: npx quartz build
+        
+        
+# Optional: list the public folder for debugging on CI
+      - name: Show public dir
+        run: |
+          echo "Top-level public/"
+          ls -lah public || true
+          echo "public/static/"
+          ls -lah public/static || true
+          echo "public/media/"
+          ls -lah public/media || true
+# end optional list
+        
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
