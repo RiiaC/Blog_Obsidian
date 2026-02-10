@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image: "[[2026-02-09 downstairs loo.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-02-09 downstairs loo.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 Keldor’s foot/ankel is still hurting, so he stayed home from work. My first meeting on the calendar wasn't till 10:00, and I had stayed up too late last night, so I decided to sleep in. Instead of the 06:20 bus I could take the 07:00 or even the 07:55 would still be early enough to town.
 
@@ -34,7 +34,7 @@ It turns out that he'd also put up some of the glass fibre wallpaper in the atti
 
 After I got home we hung the mirror in the cellar bathroom,  which looks much better with it.
 
-![[2026-02-09 downstairs loo.jpg]]
+![[2026-02-09 downstairs loo.jpg|500]]
 
 When he drilled the holes in the concrete wall for mounting the mirror it broke around the hole edges,  so I filled it in with spackel,  and then, since the spackel was out I also spackeled the holes from when David had re-wired the laundry room months ago so we would be able to plug in the washer in its new location when we got to the renovation we have now done.
 

@@ -26,7 +26,11 @@ Alas, the video isn't yet working n the blog, but it is too late to fight with i
   <source src="quartz/static/videos/2026-02-08_osenstitch.mp4">
 </video> 
 
+An attempt to fix the video:
 
+<video controls>
+  <source src="/2026-02-08_osenstitch.mp4" type="video/mp4" />
+</video>
 Another alternative would have been to do a straight seam further from the edge, and then turn the cut edges down and finish them with the Osenstitch. Since Charlotte would like the hood to wear at Double Wars, we decided to do this version, which only requires sewing each seam once.
 # Closeup of the Ösenstitch
 Here is a closeup of the stitch after the fabric opens up.

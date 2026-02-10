@@ -7,7 +7,13 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet inn the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
-- [2026-02-07](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-07%20errands%20and%20more) we bought more spackel, brought home the linoleum for the floor, and bought the glue to put it into place. I finished spackeling the rest of the attic look 
+- [[2026-02-10 nice to work from home]] Simon came back and installed the door on the attic loo:
+![[2026-02-10 loo door.png|500]]
+- Simon pointed out that if we also close off the front of what will become a closet next to the loo, where the plumbing pipes run through what will be floor, after the project is done, then we could heat that space and the loo itself, and have the plumbers back to install the toilet even before we finish the full bedroom. I think this is a plan.
+- [[2026-02-09 lots of little progress]] Keldor got much of the fibreglass wallpaper hung in the attic loo, and I started spackeling the places where the electrician damaged the ceiling around where his drill holes came out in the cellar to pass wires through. While at it I also did some other needed spackeling in the basement. We also hung the mirror in the cellar loo:
+![[2026-02-09 downstairs loo.jpg|500]]
+- [[2026-02-08 really deep sleep]] Keldor sanded yesterday's spackel smooth, and we painted the wet room wall sealer on the walls in the attic loo, so it is ready for the glass fiber wallpaper
+- [2026-02-07](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-07%20errands%20and%20more) we bought more spackel, brought home the linoleum for the floor, and bought the glue to put it into place. I finished spackeling the rest of the attic loo
 - [2026-02-06](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02-06%20the%20cats%20are%20happy%20we%20are%20home%20today) Simon finished up most of the closet and later emailed:
 > Hej.  Tänker att antingen får man göra en dörr av [denna skiva](https://www.xlbyggstenvalls.se/umea/sortiment/skivmaterial/plywood/konstruktionsplywood-k20-70-c-c-15x900x2500mm-swe-fin-2137917) alt [denna dörr](https://www.xlbyggstenvalls.se/umea/sortiment/dorrar/innerdorrar/innerdorr-easy-s0502-y-200-gw-08x20-189720) (men då kommer man måsta kapa till hörnet på den samt ev. botten för att kunna få plats med den) samt [detta beslag](https://www.xlbyggstenvalls.se/umea/sortiment/fonster/fonstertillbehor/skjutdorrsbeslag-k-40-efz-2m-40kg-145934), passar både till skivan samt dörren. blir en liten list runt plywooden för att kunna skruva fast beslaget. vilket alt tycker ni passar er bäst? mvh Simon
 - We chose the plain plywood for a door, knowing we will decorate it. Then I started on the spackeling of the upstairs loo, till I ran out of spackel. I also shoved insulation into the corner cracks where the drywall doesn't quite meet, and then taped over it with the open mesh tape one uses for covering such openings
@@ -17,7 +23,11 @@ Create a small room in the attic with a toilet and sink, running the plumbing do
 ![[2026-02-04 loo wall insulation.png|500]]
 ![[2026-02-04 walls in progress.jpg|500]]
 - [2026-01-29](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-29%20two%20contractors%20today) the electricity ran to the attic loo, and the plumbers modified the plumbing ventilation pipe to the attic to also become a plumbing drainage pipe
-- [2026-01-28](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-28%20a%20busy%20morning) The plumbers put in the toilet and sink in the cellar!!!! I opened up the closet to give access to the plumbing ventilation pipe to the attic
+- [2026-01-28](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-28%20a%20busy%20morning) The plumbers put in the toilet and sink in the cellar!!!! 
+![[2026-01-28 new loo in progress.png|500]]
+![[2026-01-28 new loo.png|500]]
+- I opened up the closet to give access to the plumbing ventilation pipe to the attic. This wasn't easy, as that is very solid wood under the Masonite, and the shelves were a very good fit, making them hard to extract.
+![[2026-01-28 corner where the pipes are hiding.png|500]]
 - [[2026-01-26 The project we have been eagerly waiting for has begun!]] Simon did  *regelverken* and took up the old floor. He will come back after the plumbing and electricity are in place.
 ![[2026-01-26 regelverk.png|500]]
 - The work to start week four of 2026, with [Robertsfors byggkonsult ](https://www.robertsforsbyggkonsult.se/) doing all of the prep work to make the room ready, and [BVS Rör](https://www.bvsror.se/) doing all the plumbing and installation of toilets and sinks. therefore, [2026-01-18](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-18%20%C3%A5rsm%C3%B6te) we got the tools we had upstairs for the [[Create an attic bedroom]] project in progress put away, and removed the last of the things that were stored near where the new attic loo will be.

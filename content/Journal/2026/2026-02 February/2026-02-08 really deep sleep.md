@@ -27,8 +27,7 @@ I was nearly done writing that when Keldor walked into the room, still wet from 
 Since I had done the last of the spackeling in the soon to be upstairs loo yesterday, Keldor went up after breakfast and sanded it all smooth. An hour or three later I went up and swept up the dust and debris from the project so far, and we painted a coat of wet room sealer over the walls and roof. It is supposed to cure at least 7 hours, so we can't put up the Fiberglas wallpaper till after 20:00 tonight, which isn't going to happen that late, as tomorrow is a work day, so it will have to wait.
 
 Yesterday I helped Charlotte cut out a hood, and today taught her the Ösenstitch, and then [[Charlotte's purple hood#The Ösenstitch done with the same fabric and yarn as she will use|made a video she can look at later]].
-
+![[2026-02-08 Ösenstich_closeup.png|500]]
 After we took Charlotte to catch her bus towards home I baked a [[Quick Breads#Oat bread>oat quick bread]], which was tasty still warm with a little extra butter, and I think I will enjoy it cold tomorrow as well.
-
 
 Previous post: [[2026-02-07 errands and more]]
