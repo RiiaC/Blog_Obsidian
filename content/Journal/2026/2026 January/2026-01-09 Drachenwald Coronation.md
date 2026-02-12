@@ -18,7 +18,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
   - "[[Mending]]"
 tags:
   - roadtrip

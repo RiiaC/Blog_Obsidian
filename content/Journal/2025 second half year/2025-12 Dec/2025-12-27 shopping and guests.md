@@ -14,7 +14,7 @@ training:
   - HIT
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 Started the day with a 25 minute HIT DownDog workout, then a quick breakfast with Keldor and we went into town. He said that he wanted to go early, as it was going to be crazy busy later in the day, and he wated to avoid that "total chaos".
 

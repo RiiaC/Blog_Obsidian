@@ -1,5 +1,5 @@
 ---
-image: "[[Norrskensbard Mantel]]"
+image: "[[2015 Norrskensbard Mantel]]"
 catagory: Sewing
 date started: 2015-08-24
 completed: 2015-11-08

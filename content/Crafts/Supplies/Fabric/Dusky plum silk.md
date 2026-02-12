@@ -8,7 +8,7 @@ cost: 40 €
 image: "[[2025-07-17 dusky plum silk.jpg]]"
 fabric name: Dusky
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 3 meters
 Bought at Cudgel War 2025-07-10 for 40€

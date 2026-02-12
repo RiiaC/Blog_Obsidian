@@ -13,6 +13,7 @@ I thought should be able to get a reasonable bliaut from the silk I bought at Cu
 ![[2025-09-20 silk bliaut short tunic.jpg]]
 
 # Progress log
+- [[2026-02-11 packing for this weekend]] ironed it, and noticed two places where the back side of the seam had caught an extracfold of the fabric,  so I freed them and re-stitxhed those bits of the seam 
 - [2026-01-27](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-27%20a%20long%20day) embroidery along the parts of the sleeve I hadn't finished yet
 - [2026-01-10](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-10%2012th%20Night%20Saturday%20bullet%20points) got it wearable at the event (12th Night)
 - [2026-01-09 ](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-09%20Drachenwald%20Coronation) road trip sewing
@@ -43,7 +44,7 @@ I decided that I need to use the https://trello.com/c/K6WJRFm7 I bought from Sof
 ---
 # Notes/calculations to decide how to cut it 
 My nearly-full full circle skirt (
-[[2 Blue herringbone wool split-skirt bliauts]] ) measures:
+[[2021 Two Blue herringbone wool split-skirt bliauts]] ) measures:
 -  632 cm circumference at 155 cm from shoulders
 - 490 cm circumference At 20 cm from bottom hem
 - 384 cm at 40 cm from bottom hem

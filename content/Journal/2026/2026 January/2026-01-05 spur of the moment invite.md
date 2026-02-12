@@ -13,7 +13,7 @@ training:
   - HIT
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 tags:
   - Qwirkle
   - visitors
@@ -27,7 +27,7 @@ So I got up, fed the cats, ate a banana with my morning vitamins and did a 25 mi
 
 While we were cooking, I suddenly decided to post a photo to the Lövånger SCA chat group, asking if anyone wanted to drop by to help us eat them, and Bröder Suk thought it sounded like a good idea, and did. This is the first time since creating the chat some weeks back that it has been used for a spur of the moment invite, and it worked! If I keep doing this now and then, when I am making something in quantity to share, perhaps it will begin to seem normal, and others might decide to do the same. One never knows...
 
-Then we spent the rest of the day working on projects. I am slowly getting my [[Silk bliaut short tunic]] together, and solving the last of the problems caused by cutting it wrong in teh first place. Now I have a couple of minutes before our evening zoom yoga session, though several people have checked in to say they can't make it today.
+Then we spent the rest of the day working on projects. I am slowly getting my [[2025 Silk bliaut short tunic]] together, and solving the last of the problems caused by cutting it wrong in teh first place. Now I have a couple of minutes before our evening zoom yoga session, though several people have checked in to say they can't make it today.
 
 
 

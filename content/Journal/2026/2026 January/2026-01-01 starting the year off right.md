@@ -13,7 +13,7 @@ training:
   - HIT
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 tags:
   - Qwirkle
   - winter_holidays
@@ -38,7 +38,7 @@ After the walk Keldor decided that we should do the traditional Swedish New Year
 
 My assessment of the film: I don't care if the plot punishes the bad guys at the end of the film, I really don't like witnessing that level of unpleasantness, and I doubt that I will make an effort to see it again. Also, the film totally ignored the obvious romance that should have happened, between Rebecca and Rowena.
 
-Then I sat down to see if I could do something about turning the extra right sleeve of my [[Silk bliaut short tunic]] in progress into a left sleeve. It worked. To fix the problem I opened up the seam between the front and back sides of the seam. Then I spread the side that is primarily blue on the table and used it as the pattern for how the mostly plum side should look. 
+Then I sat down to see if I could do something about turning the extra right sleeve of my [[2025 Silk bliaut short tunic]] in progress into a left sleeve. It worked. To fix the problem I opened up the seam between the front and back sides of the seam. Then I spread the side that is primarily blue on the table and used it as the pattern for how the mostly plum side should look. 
 Since this should have been a left sleeve, and is a right sleeve, it means the colours are in the opposite position than they should be. To solve this I did a diagonal cut (green line in the sketch) to seperate the pendant part of the sleeve (A) from the arm part of the sleeve (B), and unpicked the seam attaching the upper arm three-colours section (C) from the rest of the sleeve.
 Then I rotated part B and attached it to the other side of A. This piece isn't symmetrical, so rotating it means that it is too big on one edge, and not big enough on the other (but I can't just flip it, as the underside of the fabric is a different colour, which is how this problem came up in the first place). So I trimmed off the extra wide rectangular bit, and then took a scrap of the plum to fill in the missing triangle, before re-attaching part C. 
 ![[2026-01-01 sketch.png]]

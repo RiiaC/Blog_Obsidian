@@ -5,7 +5,7 @@ date started: 2026-01-31
 materials used:
   - Wool
 ---
-[[2026-01-31 Bardic!]] Daniel brought a large piece of a nice thick green wool that he wanted help transforming into a cloak. I had him try on the [[Norrskensbard Mantel]], to see if that style would suit. His shoulders are so broad we decided that his cloak would need to be a little wider, and slightly shaped over the shoulders.
+[[2026-01-31 Bardic!]] Daniel brought a large piece of a nice thick green wool that he wanted help transforming into a cloak. I had him try on the [[2015 Norrskensbard Mantel]], to see if that style would suit. His shoulders are so broad we decided that his cloak would need to be a little wider, and slightly shaped over the shoulders.
 
 So first I traced the left half of the Norrskensbard Mantel onto his fabric, then slid it nine centimeters to the side, and traced it again, to get an approximate shape for the cloak. (His fabric piece was pretty much exactly large enough for this.) then I cut out the curve of the neckline and put the cloak onto Daniel to fit it over his shoulders, by pinching triangles on each side of the neck.
 

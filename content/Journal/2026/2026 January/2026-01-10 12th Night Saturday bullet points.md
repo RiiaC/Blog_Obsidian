@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
   - "[[Keldor copper trim tunic]]"
 tags:
   - SCA

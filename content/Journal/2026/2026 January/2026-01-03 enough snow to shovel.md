@@ -13,7 +13,7 @@ training:
   - shovel_snow
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 tags:
   - winter_holidays
   - weather

@@ -15,7 +15,7 @@ training:
   - shovel_snow
   - Yoga
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 I started the day early, with a 1 hour pliaties workout, then went back to bed and slept another hour and 40 minutes. If Keldor hadn't woken then, I likely would have slept longer. 
 

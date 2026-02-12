@@ -7,6 +7,6 @@ colour:
 cost: Unknown
 image:
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 Bright royal blue silk thread on cardboard rolls that I think may have come second hand, or been a gift? No idea how long ago, but I never recorded them on the Trello crafts supplies board

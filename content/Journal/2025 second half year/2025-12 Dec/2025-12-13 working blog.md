@@ -34,7 +34,7 @@ I am doing one hard task: sorting and organising all the screws, nails, bolts, e
 
 He is doing the showier job, cleaning and organising the workshop itself, and mounting the new drill press we got from Torunn. 
 
-Then we spent the evening on the sofa, me working on my [[Silk bliaut short tunic]], while a cartoon (Rapunzel), played.
+Then we spent the evening on the sofa, me working on my [[2025 Silk bliaut short tunic]], while a cartoon (Rapunzel), played.
 
 Eventually I realised it was getting late and did my yoga and we came to bed. Now he's already asleep, and I feel like I could join him.
 

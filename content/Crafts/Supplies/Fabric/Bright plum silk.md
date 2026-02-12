@@ -8,7 +8,7 @@ cost: 150 kr
 image: "[[2022-09-25 bright plum silk.jpg]]"
 fabric name: wine
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 Description
 Edit

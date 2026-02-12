@@ -9,7 +9,7 @@ cost: 60 €
 image: "[[2025-16-07 midnight blue silk.jpg]]"
 fabric name: Midnight
 projects:
-  - "[[Silk bliaut short tunic]]"
+  - "[[2025 Silk bliaut short tunic]]"
 ---
 2 meters x 114 cm
 Bought at Cudgel War 2025-07-10 for 60 €
