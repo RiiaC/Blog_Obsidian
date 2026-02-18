@@ -13,7 +13,7 @@ I thought should be able to get a reasonable bliaut from the silk I bought at Cu
 ![[2025-09-20 silk bliaut short tunic.jpg]]
 
 # Progress log
-- [[2026-02-11 packing for this weekend]] ironed it, and noticed two places where the back side of the seam had caught an extracfold of the fabric,  so I freed them and re-stitxhed those bits of the seam 
+- [[2026-02-11 packing for this weekend 1]] ironed it, and noticed two places where the back side of the seam had caught an extracfold of the fabric,  so I freed them and re-stitxhed those bits of the seam 
 - [2026-01-27](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-27%20a%20long%20day) embroidery along the parts of the sleeve I hadn't finished yet
 - [2026-01-10](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-10%2012th%20Night%20Saturday%20bullet%20points) got it wearable at the event (12th Night)
 - [2026-01-09 ](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-09%20Drachenwald%20Coronation) road trip sewing

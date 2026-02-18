@@ -30,13 +30,13 @@ views:
         - file.folder.contains("Journal")
     order:
       - file.name
+      - image
       - projects
       - weight(kg)
       - high_temp(°C)
       - location
       - low_temp(°C)
       - training
-      - image
     sort:
       - property: file.name
         direction: DESC

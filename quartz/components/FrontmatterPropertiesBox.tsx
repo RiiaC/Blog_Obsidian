@@ -6,6 +6,8 @@ const FrontmatterPropertiesBox: QuartzComponent = ({ fileData }: QuartzComponent
 
   const props = fileData.frontmatter
 const entries = Object.entries(props).filter(([_, value]) => {
+ // --- New line added 2026-02-18 to skip the "date created" property---
+  if (key.toLowerCase() === "date created") return false
 // this section deletes properties with null values
   if (value === null) return false
   if (value === undefined) return false
