@@ -6,8 +6,7 @@ const FrontmatterPropertiesBox: QuartzComponent = ({ fileData }: QuartzComponent
 
   const props = fileData.frontmatter
 const entries = Object.entries(props).filter(([_, value]) => {
- // --- New line added 2026-02-18 to skip the "date created" property---
-  if (key.toLowerCase() === "date created") return false
+
 // this section deletes properties with null values
   if (value === null) return false
   if (value === undefined) return false
@@ -19,7 +18,7 @@ const entries = Object.entries(props).filter(([_, value]) => {
   if (entries.length === 0) return null
 
 
-  // Helper provided by AI to turn [[Link]] into a clickable string or link
+  // Helper provided by AI intended to turn [[Link]] into a clickable string or link
   const renderValue = (val: any) => {
     if (Array.isArray(val)) {
       return val.map(v => renderValue(v)).reduce((prev, curr) => [prev, ", ", curr])
