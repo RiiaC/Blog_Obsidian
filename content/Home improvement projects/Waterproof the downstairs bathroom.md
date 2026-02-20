@@ -5,7 +5,7 @@ date started: 2022-01-29
 completed:
 materials used:
 ---
-# the problem with the walls 
+# The problem with the walls 
 When we bought this house many of the tiles next to the bathtub were falling off. Here is the photo we took on the day we first looked at the house:
 ![[bathroom 2.jpg|300]]
 Upon examination we discovered that when the house was built in 1956 the wallpaper above the tiles was placed directly on the Masonite of the walls, as were the tiles themselves. This probably wasn't a problem the first few decades, as the first owners bathed in the bathtub.
