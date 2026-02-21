@@ -1,9 +1,11 @@
 ---
 image:
-catagory:
+catagory: Home improvement
 date started: 2022-01-29
-completed:
+completed: 2024-08-12
 materials used:
+  - Paint
+  - fiberglass_wallpaper
 ---
 # The problem with the walls 
 When we bought this house many of the tiles next to the bathtub were falling off. Here is the photo we took on the day we first looked at the house:
@@ -21,5 +23,30 @@ We put the tiles back into place reasonably soon after buying the house. We then
 - 2022-04-23 install a new faucet in the bathroom sink so that we actually have both hot and cold running water in the sink!
 - 2022-06-10 built and installed a screen window on hinges for the bathroom window, so we can open the bathroom window in the summer.
 # Major waterproof project log
-- 2024-07-07 picked up the paint that was left over from renovations of the toilet room at Keldor’s work. Peeled off the loose wallpaper in the bathroom, sanded, spackled, and cleaned up the mess, ready to add "wet room paint" to the walls
-- 
+- 2024-07-07 picked up the paint that was left over from renovations of the toilet room at Keldor’s work. Peeled off the loose wallpaper in the bathroom, sanded, added spackel, and cleaned up the mess, ready to add "wet room paint" to the walls.
+- 2024-08-05 I took "before" photos, showing how it looked after the little work mentioned for 2024-07-07, and then pained the wallpaper sealer layer over all the wallpaper
+![[2024-08-05 bathroom before.jpg|500]]
+![[2024-08-05 wallpaper sealer.jpg|500]]
+- 2024-08-06 wet-room paint applied
+![[2024-08-06 wetroom paint.jpg|500]]
+- 2024-08-07 second coat wet-room paint applied
+![[2024-08-07 more wetroom paint.jpg|500]]
+- 2024-08-09 black trim around edge of ceiling
+![[2024-08-09 black trim.jpg|500]]
+- 2024-08-10 added purple trim
+![[2024-08-10 start purple trim.jpg|400]]
+![[2024-08-10 more purple trim.jpg|400]]
+- 2024-08-10 after the trim, we added the fiber glass wet-room wallpaper over the walls, with generous layers of glue over. 
+![[2024-08-10 fiberglass wall paper.jpg|400]]
+- 2024-08-11 a layer of wet-room primer over the wallpaper
+![[2024-08-11 primer.jpg|400]]
+- 2024-08-12 We decided to keep using the wet room paint we got for free, because free. First coat painted. One more and we can put the towel racks and toilet paper holders back up. Seriously looking forward to that part.
+![[2024-08-12 first top coat paint.jpg|400]]
+
+
+
+
+
+
+
+
