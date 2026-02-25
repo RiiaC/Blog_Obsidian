@@ -6,6 +6,9 @@ country:
   - Sweden
 location:
   - Lövånger
+  - Umeå
+  - Örnsköldsvik 
+  - Högakuaten
 high_temp(°C):
 low_temp(°C):
 weight(kg):
@@ -34,10 +37,10 @@ I was doing my yoga for the day when Þórólfr arrived, and we left as soon as 
 - 01:40 Tönnebro toilet pause
 - 03:11 pee on the side of the road at a random bus stop
 - 03:47 pee on the side of the road
-- 0417
+- 04:17 arrive at the Realm of Krake
 
 
-I love my hobboes, really I do, but the long roadtrips are rough
+I love my hobbies, really I do, but the long road trips are rough
 
 
 

@@ -5,7 +5,11 @@ image:
 country:
   - Sweden
 location:
-  - Lövånger
+  - Tönnebro
+  - Västerås
+  - Realm_of_Krake
+  - Sala
+  - Torsö
 animals_seen:
   - Deer
 high_temp(°C):

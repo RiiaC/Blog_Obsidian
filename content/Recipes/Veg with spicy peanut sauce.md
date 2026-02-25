@@ -1,10 +1,30 @@
 This is one of those dishes that is never quite the same from one time to the next, but usually follows the same pattern. I got the ifea from my friend Josie when she visited in 2018. She would make a single serving at a time using a little cabbage and sweet potato and avocado, and just keep cooking more each day till she had used up the rest of the veg. I prefer to make a much bigger batch at once, with a larger variety of vegetables and then either eat the leftovers cold, or reheat in the microwave. 
 
-The batch I made on [[2025-12-24 julafton]] contained:
-
+# the batch I made on [[2026-02-22 unplanned errands]] contained
 - 5 cloves of garlic
 - 1 sweet potato 
-- 1 head of broccli 
+- 1 small head of cauliflower
+-  1/8 of a head of cabbage
+- 1 zucchini 
+- 1 small bag of kale
+- 1/4 chili pepper
+- fresh grated ginger
+- 50 g butter
+- 0.5 c chunky peanut butter
+- 1 tablespoon soy sauce
+- mushroom powder
+- curry powder 
+- roasted garlic pepper
+- coriander powder
+- nutmeg powder 
+- onion powder 
+- garlic powder
+- rosemary
+- probably some other spices I am forgetting, just add whatever sounds good.
+# The batch I made on [[2025-12-24 julafton|2025-12-24]] contained:
+- 5 cloves of garlic
+- 1 sweet potato 
+- 1 head of broccoli 
 -  1/4 bag of Brussels sprouts
 - 1 zucchini 
 - 1 small bag of snap peas

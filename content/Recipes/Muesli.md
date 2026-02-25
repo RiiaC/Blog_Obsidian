@@ -31,7 +31,7 @@ tags:
 > I used to use milk, but when I lived in [[24. Fairbanks, Alaska, Student Housing 1995 -1996]] my roommate was allergic to dairy, so she ate her cereal with orange juice instead. At first this sounded like a terrible idea. Then one day I was out of milk, so I tried it, and actually, it was quite good. But I like apple juice even better, so tried that. Also good. So I used that as an occasional option, until I moved to [[42. South Hobart, Tasmania 2006 - 2008]], where I started buying 1.5 liters of an apple-pear juice blend, and then pouring half the bottle into an empty bottle and filling both with water. This, much less sweet option became my preferred liquid to have on my muesli. Then I switched to splitting it into three bottles and filling them with water the rest of the way, for an even less sweet option. Till I got tired of the bother (and the amount of space the extra bottles took in the fridge), and just switched to using plain cold water.  
 > This is much more convenient for travelling, as one can usually obtain cold water anywhere, so I always keep a plastic container with single serving of muesli and a small spoon in my backpack in case I get hungry.
 
-In recent years I hav taken notes of the amount of each ingredient used, to make it easier to update my [[content/Food Log/Index|Index# My Food Log]], so going forward I will copy that information here, and, perhaps, fill past versions.
+In recent years I hav taken notes of the amount of each ingredient used, to make it easier to update my [[Food Log/Index|My Food Log]], so going forward I will copy that information here, and, perhaps, fill past versions.
 # Muesli mix [[2026-02-02 a sleepy day]]
 -  1.5 kg rolled oats
 - 0.75 c rye flakes

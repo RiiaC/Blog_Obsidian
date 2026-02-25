@@ -13,3 +13,8 @@
 1 shake curry powder
 1 shake coriander powder 
 1 shake powdered ginger
+
+Comes to
+0.57 protein
+0.40 veg
+0.03	fruit

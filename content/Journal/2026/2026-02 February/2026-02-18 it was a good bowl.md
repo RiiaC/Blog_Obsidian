@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
   - Pilates
 projects:
   - "[[Mending]]"
+tags:
 ---
 Woke around 01:00 thinking of how to use SEAD Shape Shifter to do mapping of my LA-ICP-MS masters data. Jotted down notes so I wouldn't forget,  and tried to go back to sleep. 
 Then remembered the replies in the Quartz Discord channel to my question about how to set things up to be able to publish my blog from my phone, and the one of them had mentioned having separate Obsidian vault and Quartz. So I [asked a follow up question](https://discord.com/channels/927628110009098281/927628110009098284/1473475618812461239) and then spent time copying the full conversation i to my blog fixing notes folder for easier looking things up later.

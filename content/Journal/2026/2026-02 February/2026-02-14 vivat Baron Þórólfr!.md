@@ -5,7 +5,7 @@ image:
 country:
   - Sweden
 location:
-  - Lövånger
+  - Torsö
 high_temp(°C):
 low_temp(°C):
 weight(kg):
@@ -14,7 +14,7 @@ training:
 projects:
 tags:
 ---
-Tournament Round Robin, 9 fighters. There had been 11 who had registered to fight, but Stigot couldn't due to modern world responsibilities, and I didn't due to no time before the event to even check if my armor was ok, so we didn't bring it.
+Tournament Round Robin, 9 fighters. There had been 11 who had registered to fight, but Stigot couldn't due to modern world responsibilities, and I didn't due to no time before the event to even check if my armour was ok, so we didn't bring it.
 Everyone fought everyone else, a single bout each, winner gets a point. 
 
 | Fighter              | Points | From        |     |

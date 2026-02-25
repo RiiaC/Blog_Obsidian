@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image: "[[2026-02-16 Skaði.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-02-16 Skaði.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 We made it to bed just after 23:00, and, much to my surprise, Keldor, who drove the entire way yesterday, woke feeling good enough to go to work when the alarm went off just after 05:00. So, of course, I got up with him and manged to get a fair bit of event stuff put away as we spoke on the phone as he drove to work. 
 

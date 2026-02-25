@@ -8,7 +8,7 @@ On [[2026-02-10 nice to work from home|2026-02-10]] I finished the last of my ba
 - 210 g canned artichoke bottoms (~ 1.25 c)
 - spices, including roasted garlic pepper, onion powder, coriander powder, nutmeg, chili, wasabi, Aromat salt blend
 
-I called this 20% protein and 80% vegetable for my [[content/Food Log/Index#My Food Log|my food log]], where it is called *grönsaksmousse*.
+I called this 20% protein and 80% vegetable for my [[Food Log/Index|my food log]], where it is called *grönsaksmousse*.
 
 ![[2026-02-10_garden_mousse.jpg]]# subsequent batches
 - [[2026-02-17 selmor!|2026-02-17 selmor!]] I used 4 cups of veg to one package of tofu, including
