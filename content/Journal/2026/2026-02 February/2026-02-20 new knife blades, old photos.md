@@ -19,7 +19,7 @@ During our morning phone call, I did some test painting in the moring to see if 
 
 Keldor stayed after work to make some more knife blanks, getting home barely on time for our evening zoom training session with friends
 ![[2026-02-20 knife blades.jpg|500]]
-Since he was in town, I spent the evening happily copying over blog posts from when I bought the house, in [[content/Journal/2021/index|December of 2021]], and making a gallery of [[Photos of the house before we bought it]]. I had forgotten just how bad it had been!
+Since he was in town, I spent the evening happily copying over blog posts from when I bought the house, in [[content/Journal/2021/2021-12 Dec/index|December of 2021]], and making a gallery of [[Photos of the house before we bought it]]. I had forgotten just how bad it had been!
 
 
 Previous post: [[2026-02-19 quiet day]]
