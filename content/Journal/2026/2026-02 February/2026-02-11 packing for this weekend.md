@@ -22,7 +22,7 @@ Just now I saw a friend doing pistol squats, and I was impressed. So I tried it,
 
 That wake up was a little disorienting, as I truly had no idea I was asleep till he woke me, but I managed to get out the door on time nonetheless. 
 
-The fact thst my first meeting of the day was fika with my colleagues at the library, who had baked a roll cake filled with strawberries and whipped cream may had helped with motivation for that.
+The fact that my first meeting of the day was fika with my colleagues at the library, who had baked a roll cake filled with strawberries and whipped cream may had helped with motivation for that.
 
 The second meeting of the day was only an hour, when it had been scheduled for two, so I managed to take an early bus home, and made time to shovel a little snow at Bryan's house on the way home (in part to make it look occasionally occupied, in part to make certain the postie can get to the mailbox, and in part because we may need the space for people to sleep there during our event next month, so it is good to keep the path cleared).
 
@@ -30,7 +30,7 @@ The second meeting of the day was only an hour, when it had been scheduled for t
  
 Then we cleaned away all of the various supplies for the renovations in progress out of the main floor of the house, so it won't be in the way when our housekeeper comes this weekend.
 
-Then Keldor checked his armour and retaped his sword for the weekend while I ironed the [[2025 Silk bliaut short tunic]] I finished on the trip to Stockholm (and fixed two problem seams) and started a load of laundry and also started packing for this weekend. 
+Then Keldor checked his armour and re-taped his sword for the weekend while I ironed the [[2025 Silk bliaut short tunic]] I finished on the trip to Stockholm (and fixed two problem seams) and started a load of laundry and also started packing for this weekend. 
 
 Just before 20:00 I realised that I wasn't going to get as far as dealing with my  armour and sword,  and was feeling stressed about it. The armour is packed in its chest where it lives, and I am certain it is fine, but after the sixth time Keldor said that I really need to actually check it, I decided that no, this is for fun, and I don't need that stress, so I wrote their Highnesses to explain that I won't be fighting after all this weekend, and my stress levels felt instantly better.
 
