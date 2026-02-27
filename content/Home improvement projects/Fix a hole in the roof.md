@@ -1,8 +1,8 @@
 ---
-date started: 2026-10-16
-completed: 2026-10-16
 image: "[[2025-10-16 fixed.jpeg]]"
 catagory: Home improvement
+date started: 2026-10-16
+completed: 2026-10-16
 ---
 - [[2025-10-16 Skuleberget!]] Keldor took the morning off work and fixed the hole and put back the tiles before we left for the weekend 
 ![[2025-10-16 fixed.jpeg]]

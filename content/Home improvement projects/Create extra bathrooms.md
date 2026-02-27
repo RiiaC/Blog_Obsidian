@@ -7,6 +7,10 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet inn the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
+- [[2026-02-26]] Painted second coat and did a concept sketch for decoration
+![[attic loo.bmp]]
+- [[2026-02-25 and the evening's projects]] paid 100 kr to add some colour to the free 5 l of wet room paint that used to be an orangeish brown. Now it is a nice, chocolate brown. painted first coat of the brown onto the walls of the upstairs loo.
+![[2026-02-25 painting it chocolate brown.jpeg]]
 - [[2026-02-10 nice to work from home]] Simon came back and installed the door on the attic loo:
 ![[2026-02-10 loo door.png|500]]
 - Simon pointed out that if we also close off the front of what will become a closet next to the loo, where the plumbing pipes run through what will be floor, after the project is done, then we could heat that space and the loo itself, and have the plumbers back to install the toilet even before we finish the full bedroom. I think this is a plan.
@@ -25,10 +29,42 @@ Create a small room in the attic with a toilet and sink, running the plumbing do
 - [2026-01-29](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-29%20two%20contractors%20today) the electricity ran to the attic loo, and the plumbers modified the plumbing ventilation pipe to the attic to also become a plumbing drainage pipe
 - [2026-01-28](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-28%20a%20busy%20morning) The plumbers put in the toilet and sink in the cellar!!!! 
 ![[2026-01-28 new loo in progress.png|500]]
+![[2026-02-26_sink.jpg]]
+![[2026-02-26 toilet.jpg]]
+
+
 ![[2026-01-28 new loo.png|500]]
 - I opened up the closet to give access to the plumbing ventilation pipe to the attic. This wasn't easy, as that is very solid wood under the Masonite, and the shelves were a very good fit, making them hard to extract.
 ![[2026-01-28 corner where the pipes are hiding.png|500]]
 - [[2026-01-26 The project we have been eagerly waiting for has begun!]] Simon did  *regelverken* and took up the old floor. He will come back after the plumbing and electricity are in place.
 ![[2026-01-26 regelverk.png|500]]
 - The work to start week four of 2026, with [Robertsfors byggkonsult ](https://www.robertsforsbyggkonsult.se/) doing all of the prep work to make the room ready, and [BVS Rör](https://www.bvsror.se/) doing all the plumbing and installation of toilets and sinks. therefore, [2026-01-18](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-18%20%C3%A5rsm%C3%B6te) we got the tools we had upstairs for the [[Create an attic bedroom]] project in progress put away, and removed the last of the things that were stored near where the new attic loo will be.
+# Measurements attic loo
+Floor 
+1.556 m along far wall
+1.550 m along wall by door
+Door 0.74 wide
+Door 1.673 tall short end
+1.889 tall end, 0.4 flat top
+triangle above door 26.5 at tallest
+Tall wall 2.173
+
+1.275 along wall by chimney, starting at tröskel (1.376 starting from door)
+1.275 starting from tröskel on the end by the toilet 
+1.245 from wall right by door
+1.245 along wall behind toilet 
+
+Avlop
+0.31 and 0.44 from wall with door
+0.815 and 0.945 from long wall
+3 cm and 16 cm from back wall
+
+Sink drain 
+1.107 and 1.155 from back wall
+0.405 and 0.455 from wall by chimney 
+6.6 and 11.9 cm from long wall
+
+Short wall 1.24 tall
+
+Roof 182 long
 
