@@ -1,14 +1,7 @@
----
-image: "[[2025-11-25 ready for insulation.jpg]]"
-catagory: Home improvement
-date started: 2025-10-09
-completed:
----
-- [ ] Copy checklist from trello 
-# The vision/motivation 
-Part of the reason to want to create a bedroom in the attic is to have another useable room on the main floor, but, since we are going to the effort of building walls and adding insulation, why not make it pretty  too?
+# The vision/motivation
+Part of the reason to want to create a bedroom in the attic is to have another useable room on the main floor, but, since we are going to the effort of building walls and adding insulation, why not make it pretty too?
 
-I have wanted a "wall bed" since I was little and saw one in a drawing in a kids book. Just because I have a king sized bed is no reason not to have one! While I am at it, we can even make it a book nook.
+I have wanted a “wall bed” since I was little and saw one in a drawing in a kids book. Just because I have a king sized bed is no reason not to have one! While I am at it, we can even make it a book nook.
 
 So now I have a vision of the east wall of the room comprised of built in drawers for clothes across the width of the room, and up to about hip height. The framing around the drawers can be formed with steps to make climbing into bed easier.
 
@@ -29,7 +22,42 @@ Today Keldor made some lists to hold the insulation sheets to the attic roof, an
 - [[2025-10-09 tiny progress on the attic room]] we cleaned out an emptied the left side of the attic in preparation for insulating it. We also noticed a small hole in the roof that needs to be dealt with: trello_icontillfällig fixa litet hål i taket
 - [[2025-10-08 new computer]] we went to the hardware store and bought some *vindpapp* (no idea what the English word might be), which will be used for step one in insulating one end of the attic
 - 2025-10-06 we discussed a relatively simple attic renovation: insulate the portion nearest the stairs to make an upstairs bedroom, freein up the large downstairs room for training and another guestroom space for parties.
-- 
+
+# quotes
+## the really expensive one
+- [[2026-02-27 a mental health day]] i emailed bjorn.bernstav@mockfjards.se
+> Hej!
+> Jag håller på att isolera en del av vinden för att göra ett sovrum däruppe. Det vore klokt att även byta fönster tills något lite mer moderna, med glas som isolera, persienner inuti, och ventiler.
+> Huset är tegel, och nuvarande fönster sitter i ett 90 x 90 cm ram. (Se bifogad bilder). Nuvarande fönster ram är vitt, men jag vill helst har svart.
+> Hur mycket skulle det kostar att byta den? När kunde ni installera det?
+- Björn replied
+> Hej!
+> Jag har räknat på ett Ultimat vridfönster som har en utsida i underhållsfri aluminium, svart på både insidan och utsidan, en förspänd mörkläggande plisségardin, svart klickventil för ventilation, svart handtag, smygar och foder invändigt, samt integrerad fönsterbräda. Monterat och klart, med bortforsling av gammalt fönster och plåtning inkl. Fönsterbleck på utsidan, kostar det dig 33 452,00:- inkl. Moms, efter ROT-avdrag.
+> Vi kan montera tidigast v. 16
+> När man bara byter ett fönster på det här sättet, så blir det mycket startkostnader som läggs på bara ett enda fönster. Det är inte så att du behöver byta fler fönster när du ändå håller på? Priset per fönster går då ner eftersom du inte betalar bilersättning, restid och etablering mer än en gång.
+> Med vänlig hälsning / Kind regards
+## Simons
+- [[2026-02-27 a mental health day]] after seeing the first quote I wrote to Simon at Roberförs Byggkonsult, who has done other work on this project:
+> Hej Simon!
+> Byter du även fönster? Jag tror att rumet vi håller på med i vinden kommer vara värmare om vi även byta utt fönstret tills något med bättre isolering osv. 
+> Jag kollade med ett företag i Skellefteå som göra fönster, och deras kostnadsförslag var så dyrt att Keldors reaktion var "låter som blåsning ". 
+> Så nu undrar om det är verkligen så dyrt, och kanske du vet.
+> Med vänliga hälsningar, --Riia
+- Simon replied promptly:
+> Hej. Absolut. Har du möjlighet att mäta bredden samt höjden på fönstret så kan jag se vad jag kan räkna på. 
+> Kan räkna på färdig utsida men att det inte är färdig insida ännu?
+- I replied promptly 
+> Ramen fönstret sitter i är ungefär 90 cm x 90 cm. Nuvarande fönster är betydligt mindre. Se bifogad bilderfrån idag, inklusive mätsticka i två.
+- he replied:
+> Toppen! Ska undersöka detta. Dock är jag borta på sportlov början på nästa vecka men borde kunna komma med något i slutet på nästa vecka
+> Hej! Här kommer en offert. Dock verkar leverans av fönster ske tidigast ve 18 från fabrik.
+> Offert vridfönster 1ruta 9x9 vit 2glas med spaltventil. 
+> Fönster: 5800kr
+> Arbete: 3850kr efter rot
+> Servicebil: 562.5 kr
+> Hyra skylift: 1800kr
+> Underbleck samt skruv 500kr
+   Summa: 12 512.50kr ink moms
 # measurements 
 South wall 6000 x 1700 cm but 6.3 m to chiminey
 North wall 4000 x 1700 cm

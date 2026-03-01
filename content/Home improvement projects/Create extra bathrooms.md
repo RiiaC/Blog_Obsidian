@@ -5,9 +5,9 @@ date started: 2026-01-26
 completed:
 ---
 # Plan: 
-Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet inn the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
+Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
-- [[2026-02-26]] Painted second coat and did a concept sketch for decoration
+- [[2026-02-26 took the day off]] Painted second coat and did a concept sketch for decoration
 ![[attic loo.bmp]]
 - [[2026-02-25 and the evening's projects]] paid 100 kr to add some colour to the free 5 l of wet room paint that used to be an orangeish brown. Now it is a nice, chocolate brown. painted first coat of the brown onto the walls of the upstairs loo.
 ![[2026-02-25 painting it chocolate brown.jpeg]]
@@ -54,14 +54,15 @@ Tall wall 2.173
 1.245 from wall right by door
 1.245 along wall behind toilet 
 
-Avlop
-0.31 and 0.44 from wall with door
+Avlop 12.5 cm diameter 
+31.2 cm and 44.0 cm from wall with door
 0.815 and 0.945 from long wall
-3 cm and 16 cm from back wall
+3 cm and 15.6 cm from back wall
 
-Sink drain 
-1.107 and 1.155 from back wall
-0.405 and 0.455 from wall by chimney 
+Sink drain 5 cm diameter 
+11 8 cm and 6.6 cm from back wall
+40.5 cm and 45.5 cm
+from wall by chimney 
 6.6 and 11.9 cm from long wall
 
 Short wall 1.24 tall
