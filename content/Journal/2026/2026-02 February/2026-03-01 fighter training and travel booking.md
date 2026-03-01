@@ -1,20 +1,36 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
+  - Armoured_combat
 projects:
   - "[[Yoga blocks]]"
+tags:
 ---
+I started a new project this morning. I am sewing myself some yoga blocks. Yes, this is a sewing project!
+
+I didn't have yoga blocks when [[49. Rutviksreveln, Sweden 2012 - 2021|living with David]], so we cut a couple of pieces of thick wood that, while no where near as thick as a normal yoga block, was better than nothing. This morning I did a [strength and flexibility hip stretching video](https://youtu.be/wqngK66i4qA?si=RCo_2DavhyjvJbM4) that suggested holding a yoga block between the knees and squeezing hard. I cannot recommend doing this with a solid block of wood instead of a yoga block. 
+
+So I decided to take some of the adhesive foam Keldor has and add padding to the sides of the blocks, which made them as thick as a yoga block.
+
+![[2026-03-01 as thick as a yoga block.jpg|500]]
+![[2026-03-01 with padding.jpg|500]]
+
+But that texture wouldn't be pleasant to touch, so I took some of the scrap leather from the couch that came with the couch and cover the blocks. This adds some stability to the foam, but I could see that they wouldn't stand well on end, so I cut even more foam for the ends, and that seems to help, though now they are longer than a traditional yoga block.
+
+![[2026-03-01 yoga block sewing in progress .jpg|500]]
+
+I managed to get that project well started before Aeirin arrived, and then made some good progress sewing on it while we talked and before armouring up. My first time in armour in weeks!
+
 We took Aeirin's armour home after Coronet two weeks ago, as she was travelling by train, and while it is possible to take the armour that way, it isn't pleasant. We had planed to do a fighter practice last weekend weekend she came to pick it up, but she came down with a cold, so we rescheduled to today.
 
 I learned that yes, my armour would have been ok to fight in the tournament, while it has plenty of problems that need upgrading for comfort, there are no broken bits that would have failed inspection. 
