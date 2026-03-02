@@ -25,7 +25,7 @@ So I decided to take some of the adhesive foam Keldor has and add padding to the
 ![[2026-03-01 as thick as a yoga block.jpg|500]]
 ![[2026-03-01 with padding.jpg|500]]
 
-But that texture wouldn't be pleasant to touch, so I took some of the scrap leather from the couch that came with the couch and cover the blocks. This adds some stability to the foam, but I could see that they wouldn't stand well on end, so I cut even more foam for the ends, and that seems to help, though now they are longer than a traditional yoga block.
+But that texture wouldn't be pleasant to touch, so I took some of the scrap leather from the couch that came with the house and covered the blocks. This adds some stability to the foam, but I could see that they wouldn't stand well on end, so I cut even more foam for the ends, and that seems to help, though now they are longer than a traditional yoga block.
 
 ![[2026-03-01 yoga block sewing in progress .jpg|500]]
 
@@ -45,3 +45,4 @@ Hours later... I have attended Nordmark's annual meeting over zoom, updated my f
 
 
 Previous post: [[2026-02-28 Not the adventure we had hoped for]]
+![[facebook_1772449973769_7434194014781224567.jpg]]
