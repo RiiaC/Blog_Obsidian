@@ -19,6 +19,8 @@ Started the morning with our fortnightly sister's call. Amber couldn't make it, 
 
 Then I went back to sleep for a much needed 2 hour nap, getting up on time to zoom in to Frostheim's annual meeting. Then I lost a fun game of Qwirkle to Keldor, one in which I twice managed to get double quirkles, but he still came out 13 points ahead.
 
+During the day I mixed up my first batch of [[Instant soup blend]], which turns out to be a very easy way to make a quick meal.
+
 I painted the foam that holds my chamber pot in place in my new camping toilet in progress. 
 
 ![[2026-02-21_painting portaloo.jpg]]

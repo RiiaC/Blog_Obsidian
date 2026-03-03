@@ -53,3 +53,14 @@ views:
       note.location: 88
       note.training: 108
       note.image: 88
+  - type: table
+    name: recipies
+    filters:
+      and:
+        - file.path.contains("Recipes")
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
