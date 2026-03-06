@@ -10,7 +10,7 @@ total hours: 210.3 (of which I did 145)
 ---
 Of all the projects I have led, I am most proud of the Norrskensbardsmanteln. It was a group project that employed a total of 23 people for 210 hours of sewing and embroidery on the mantle and about 20 hours of work for the coat clasps. On Monday, August 24, 2015, I started cutting the first piece of fabric and just two months later the mantle was ready to be presented to the first [Norrskensbard](https://frostheim.se/norrskensbard/).
 
-![[Norrskensbard Mantel.png]]
+![[2015-11-14 Norrskensbard Mantel.png]]
 The inspiration for the mantle itself comes from the 11th century: the coronation mantle of Roger II of Sicily which is embroidered in gold on red silk. 
 
 The inspiration for the northern lights on the mantle comes from a woodcut engraving from 1521 in the book *Flack-Ytter, Das Polarlicht: Nordlicht und Südlicht in myth., naturwiss. und apokalypt. Sicht*, which has been republished by Freies Geistesleben, Stuttgart, 1999, 

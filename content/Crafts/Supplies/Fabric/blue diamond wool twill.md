@@ -1,13 +1,13 @@
 ---
-fiber content: wool
-date acquired: 2025-12-07
-colour: blue
-weave: diamond twill
-fabric name: berg
-cost: 291€ with thread
-image: "[[blue diamond wool twill (berg).png]]"
+image: "[[2025-12-07 blue diamond wool twill (berg).png]]"
 projects:
   - "[[Ranghilds orange twill dress]]"
+date acquired: 2025-12-07
+cost: 291€ with thread
+fabric name: berg
+fiber content: wool
+weave: diamond twill
+colour: blue
 ---
 blue diamond wool twill ordered 2021-04-15 over FB messenger from [Der Stoffdealer](https://www.facebook.com/Der-Stoffdealer-879294075593233/) who has a web page at [Start | Der Stoffdealer](https://www.der-stoffdealer.de/)
 
@@ -18,4 +18,4 @@ blue diamond wool twill ordered 2021-04-15 over FB messenger from [Der Stoffdeal
 
 Photo from Joachim included both a spool of dark blue silk thread and a spool of lighter blue linen thread. I choose the silk.
 
-![[blue diamond wool twill (berg).png]]
+![[2025-12-07 blue diamond wool twill (berg).png]]

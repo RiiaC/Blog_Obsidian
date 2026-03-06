@@ -1,17 +1,17 @@
 ---
-fiber content:
-  - silk
-date acquired: 2025-12-23
-colour:
-  - plum
-cost: trade
 image:
 projects:
   - "[[Keldor copper trim tunic]]"
+date acquired: 2025-12-23
+cost: trade
+fiber content:
+  - silk
 brand: Jaipur Silk Fino
 gauge: 50 g = ca 300 m
+colour:
+  - plum
 ---
-The 100% morbärsilke left over yarn from when Arianna Weidseckerin in Aarnimetsä wove the [[Silk and copper trim]] for Keldor.![[Plum silk yarn.png]]
+The 100% morbärsilke left over yarn from when Arianna Weidseckerin in Aarnimetsä wove the [[Silk and copper trim]] for Keldor.![[2025-12-23 Plum silk yarn.png]]
 
 Used pretty much all of it sewing the [[Keldor copper trim tunic]], so on [[2026-02-25 a catch-up post]] I ordered more, as I would like to do even more embroidery on it. 
 

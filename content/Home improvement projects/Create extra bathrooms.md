@@ -8,7 +8,7 @@ completed:
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
 - [[2026-02-26 took the day off]] Painted second coat and did a concept sketch for decoration
-![[attic loo.bmp]]
+![[2026-02-23 attic loo plan.bmp]]
 - [[2026-02-25 and the evening's projects]] paid 100 kr to add some colour to the free 5 l of wet room paint that used to be an orangeish brown. Now it is a nice, chocolate brown. painted first coat of the brown onto the walls of the upstairs loo.
 ![[2026-02-25 painting it chocolate brown.jpeg]]
 - [[2026-02-10 nice to work from home]] Simon came back and installed the door on the attic loo:

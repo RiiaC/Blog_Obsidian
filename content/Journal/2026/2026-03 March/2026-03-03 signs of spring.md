@@ -13,6 +13,8 @@ low_temp(°C):
 training:
   - Yoga
 projects:
+  - "[[Mending]]"
+  - "[[welcome animals banner]]"
 ---
 Spring is certainly already here--when I got on the bus this morning, the entire front window upstairs was covered in a thick sheet of ice, from melting snow hitting the window and freezing again, as temps were just under freezing.
 
@@ -35,6 +37,10 @@ That took up all of my available time, so I ran part of the way to the Busstatio
 I had had Keldor in my hearing aids for the full in town adventure, so we kept chatting for most of the bus ride, too, and I just made more progress on my [[Mending#nålbinding new cuffs for sweater|mending a sweater with nålbindning]] as we continued to chat.
 
 He got home about 20 minutes before me, so spent a bit of time trying to dig through the snow berm at Bryan's 
+
+Then we worked on what will be the new banner for Camp Northern Lights 
+![[2026-03-03 ready to paint.jpg]]
+
 
 
 

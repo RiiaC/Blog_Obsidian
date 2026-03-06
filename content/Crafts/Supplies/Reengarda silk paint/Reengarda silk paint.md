@@ -14,7 +14,7 @@
 ## Bleu Danube 21
 ![[2026-03-04 bleu danube 21.jpg|100]]
 ![[2026-03-04 bleu danube spot.jpg|100]]
-## Kongeblå
+## Kongeblå 8821
 ![[2026-03-04 kongablå 8821.jpg|100]]
 ![[2026-03-04 kongeblå 8821 spot.jpg|100]]
 # blacks
@@ -27,6 +27,10 @@
 ## Schwarz 073
 ![[2026-03-04 schwarz 073.jpg|100]]
 ![[2026-03-04 schwarz 073 spot.jpg|100]]
+## Black 251226
+(A thicker paint)
+![[2026-03-05 black 251226.jpg|100]]
+![[2026-03-05 black 251226 spot.jpg|100]]
 # purples
 ## Violet 8819
 ![[2026-03-04 violet 8819.jpg|100]]
@@ -55,7 +59,7 @@
 ![[2026-03-04 karminrot 032 spot.jpg|100]]
 ## Karminrød 8815
 ![[2026-03-04 karminrød 8815.jpg|100]]
-![[2026-03-04 katminrød 8815 spot.jpg|100]]
+![[2026-03-04 karminrød 8815 spot.jpg|100]]
 # Oranges
 ## Orange 8810
 ![[2026-03-04 orange 8810.jpg|100]]
@@ -89,6 +93,10 @@
 ## Ireland 27
 ![[2026-03-04 Irlande 27.jpg|100]]
 ![[2026-03-04 Irelande 27 spot.jpg|100]]
+# White
+![[2026-03-04 hvid 8801.jpg|100]]
+![[2026-03-04 hvid 8801 spot.jpg|100]]
+
 
 
 

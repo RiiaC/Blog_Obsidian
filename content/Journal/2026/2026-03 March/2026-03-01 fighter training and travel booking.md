@@ -45,4 +45,4 @@ Hours later... I have attended Nordmark's annual meeting over zoom, updated my f
 
 
 Previous post: [[2026-02-28 Not the adventure we had hoped for]]
-![[facebook_1772449973769_7434194014781224567.jpg]]
+![[2026-03-01 fighter training.jpg]]

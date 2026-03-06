@@ -1,12 +1,12 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
+photos_pubished: No
+image: "[[2025-08-29 SEAD structure draft.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[SEAD structure draft.jpg]]"
-photos_pubished: No
+tags:
 ---
 Today was a good work day as I started the day reading in the Obsidian discord channel and learned of a few things that will be useful later, and others that are already useful. This inspired me to start working on my proof of concept SEAD database structure Obsidian vault.
 
@@ -15,7 +15,7 @@ In the long run I want to be able to export the entire database structure and im
 But that is going to take time and lots of learning and experiments. So for today I have started a database structure vault that has a few folders for thing like Location, Sample, Analysis, etc, and put at least a couple notes under each, and created properties for links between them (as daughter or parent, so that the graph view connection lines show the arrows going in the same direction as in the pdf we have that shows the database structure). Then I applied colour coding to the folders so that each will have the same colour as in that pdf, and applied groups in the graph view based on the folders, with colour coding to match.
 
 So far it is a tiny hint of the full database structure, but it is working exactly how I want it to.
-![[SEAD structure draft.jpg]]
+![[2025-08-29 SEAD structure draft.jpg]]
 So I sent a message to my colleague, Roger, who also uses Obsidian and showed him the photo, and he pointed out that to get the full structure I can use 
 Visio, and provided a link. He also commented that he has been looking for a good way to graphically present the database structure, and agrees that Obsidian may be the tool to accomplish this.
 
