@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[welcome animals banner]]"
+  - "[[Camp Northern Lights Mascot Banner]]"
 tags:
 ---
 
