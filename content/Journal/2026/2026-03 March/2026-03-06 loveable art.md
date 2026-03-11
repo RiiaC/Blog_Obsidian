@@ -15,7 +15,7 @@ projects:
   - "[[Camp Northern Lights Mascot Banner]]"
 tags:
 ---
-I stayed up too late lady night. Keldor was smart enough to go to bed at a (mostly) reasonable hour with respect to when we get up. I didn't start my daily yoga till after that.
+I stayed up too late last night. Keldor was smart enough to go to bed at a (mostly) reasonable hour with respect to when we get up. I didn't start my daily yoga till after that.
 So, there I was, 22:45 at night. Yoga finished, but still sitting on the living room floor, idly scrolling fb, ignoring the part where our alarm goes off at 05:00, when suddenly, a reel comes up, with two cute, fuzzy, vaguely anthropomorphic critters. One says to the other:
 	"*Dude, I am so tired, I would give anything for eight hours of sleep*",
 

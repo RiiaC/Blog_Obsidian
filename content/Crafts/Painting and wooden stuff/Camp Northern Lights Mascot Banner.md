@@ -1,5 +1,5 @@
 # painting progress 
-- [[2026-03-06 making loveabe art|2026-03-06]] In the morning I started the top of the sky. around yesterday's northern lights in the morning 
+- [[2026-03-06 loveable art|2026-03-06]] In the morning I started the top of the sky. around yesterday's northern lights in the morning 
 ![[2026-03-06 morning progress.jpg|500]]
 After work we did the rest of the background, and I added a bit more pale green to the Lights.
 ![[2026-03-06 Camp Northern Lights mascot banner.jpg|500]]

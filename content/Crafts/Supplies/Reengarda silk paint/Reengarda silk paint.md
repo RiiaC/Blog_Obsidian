@@ -1,6 +1,7 @@
 # All the colours
 ![[2026-03-04 silk paint spots.jpg|300]]
 ![[2026-03-04 silk paint.jpg|300]]
+![[2026-03-06 Reengarda brushes.jpg|200]]
 # Blues
 ## Blau 30
 ![[2026-03-04 blau 30.jpg|100]]
