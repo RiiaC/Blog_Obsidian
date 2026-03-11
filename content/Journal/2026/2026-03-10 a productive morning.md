@@ -20,5 +20,9 @@ This morning, I not only remembered to start the laundry, but also took photos a
 
 I also rinsed and refilled the cat water fountain in the bedroom, put away some of the clean laundry that has been waiting in the laundry room, and got the half laurel wreath pattern from yesterday's [[Nordmark banner]] project traced onto the back side of the paper so I can draw the other half of the banner.
 
+After work I finshed drawing the leaves, and did all of the gutta outline. I even went over thevfull mid line he had drawn yesterday, includig the part that seperates the left and right sides of the white part if the field division. Oops. 
+
+![[2026-03-10 outlined.jpg|500]]
+
 
 Previous post: 
