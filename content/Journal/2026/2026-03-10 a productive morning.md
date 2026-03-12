@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-03-10 painting background.jpg]]"
 country:
   - Sweden
 location:
@@ -20,9 +20,14 @@ This morning, I not only remembered to start the laundry, but also took photos a
 
 I also rinsed and refilled the cat water fountain in the bedroom, put away some of the clean laundry that has been waiting in the laundry room, and got the half laurel wreath pattern from yesterday's [[Nordmark banner]] project traced onto the back side of the paper so I can draw the other half of the banner.
 
-After work I finshed drawing the leaves, and did all of the gutta outline. I even went over thevfull mid line he had drawn yesterday, includig the part that seperates the left and right sides of the white part if the field division. Oops. 
+After work I fished drawing the leaves, and did all of the gutta outline. I even went over the full mid line he had drawn yesterday, including the part that separates the left and right sides of the white part if the field division. Oops. 
 
 ![[2026-03-10 outlined.jpg|500]]
+Then Keldor started painting the leaves while I massaged my hand to release the muscles that had to squeeze the gutta bottle for so long to draw that.
+![[2026-03-10 painting leaves.jpg|500]]
+As soon as my hand was ready to hold a paint brush I joined him in painting, and we managed to get it mostly done before I had to go open zoom for our evening group training session. 
+![[2026-03-10 painting background.jpg|500]]
+He finished the painting, only a little late to join us 
 
 
 Previous post: 

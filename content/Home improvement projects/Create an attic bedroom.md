@@ -9,9 +9,13 @@ Above the drawers the bed would be centred in the space, with bookshelves on thr
 
 The opening to the bed area could be framed by decorative wood carved like knotwork dragons or something, covering the sides of the bookshelves, and curtains (dark blue, of course) could hang down and soften the full effect. It will be interesting to see how near to this vision the project comes.
 # progress notes
-- [[2026-01-18 årsmöte]] we cleaned away our tools from this project and storage things near where the [attic loo will go.](obsidian://open?vault=Kareinas-blog&file=content%2FHome%20improvement%20projects%2FCreate%20extra%20bathrooms)
-- [[2025-12-26 a little more progress]] more tar paper up, more insulation up.
-- [[2025-12-01 snow and further progress]]
+- [[2026-03-08 lots of progress|2026-03-08]] we finally resumed adding insulation to the roof of the bedroom area, and got it mostly covered before we used up the last of the metal lists he had prepared to hold it in place.
+![[2026-03-08 insulation.jpg|500]]
+![[2026-03-08 room insulation.jpg]]
+- [[2026-01-18 årsmöte|2026-01-18]]
+- we cleaned away our tools from this project and storage things near where the [attic loo will go.](obsidian://open?vault=Kareinas-blog&file=content%2FHome%20improvement%20projects%2FCreate%20extra%20bathrooms)
+- [[2025-12-26 a little more progress|2025-12-16]] more tar paper up, more insulation up.
+- [[2025-12-01 snow and further progress|2025-12-01]]
 Today Keldor made some lists to hold the insulation sheets to the attic roof, and they work very well. We put up the first four, and now that he knows they will work, he will make the other type to hold the upper end of the next row down.
 ![[2025-12-01 insulation lists.jpg]]
 - [[2025-11-29 a nice day ends with extra flare]] bought two packages of 30 mm thick Styrofoam house insulation for 1,843.20 kr from Beijer Byggmaterial [[2025-11-29 receipt,  insulation.jpg]]
