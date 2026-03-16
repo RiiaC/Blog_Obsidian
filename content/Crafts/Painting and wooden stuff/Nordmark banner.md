@@ -1,5 +1,5 @@
 # project idea & motivation
-Reengarda doesn't have their own Nordmark banner for when the Prince and/or Princess come to visit. The Princess is coming to JMBards next weekend, so [[2026-03-09]] Keldor decided that we should use the shire banner painting supplies to make one, and he brought home a big pallet from work to cut up to make a new frame for painting fabric.
+Reengarda doesn't have their own Nordmark banner for when the Prince and/or Princess come to visit. The Princess is coming to JMBards next weekend, so [[2026-03-09 slipping through the day]] Keldor decided that we should use the shire banner painting supplies to make one, and he brought home a big pallet from work to cut up to make a new frame for painting fabric.
 When we went to start the banner, he suggested that instead of doing a normal laurel wreath, that I use the same knot-work leaf design I used for [[2024 Keldor’s laurel caftan|Keldor's laurel kaftan]]
 and my [[Viking Cloak]]
 # project progress
@@ -7,7 +7,7 @@ and my [[Viking Cloak]]
 - [[2026-03-10 a productive morning|2026-03-10]] I did all the gutta outline, then we painted it
 ![[2026-03-10 painting leaves.jpg|500]]
 ![[2026-03-10 painting background.jpg|500]]
-- [[2026-03-09|2026-03-09]] 
+- [[2026-03-09 slipping through the day|2026-03-09]] 
 	- made a frame for the project and mounted the fabric
 	- drew the field division on the fabric
 	- drew out the knot leaf pattern in an appropriate size for the project (9 x 2 cm), covered it with clear tape front and back, and cut out the template, cutting away most of the outline for better tracing

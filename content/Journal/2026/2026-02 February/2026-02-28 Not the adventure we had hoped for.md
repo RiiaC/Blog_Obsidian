@@ -1,23 +1,23 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
-  - car_trouble
+photos_pubished: No
+image: "[[2026-02-28 cuff.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-02-28 cuff.jpg]]"
-photos_pubished: No
-weight(kg): 57.1
 high_temp(°C): 4
 low_temp(°C): -6
+weight(kg): 57.1
 training:
   - Pilates
   - Yoga
 projects:
   - "[[Mending]]"
+tags:
+  - car_trouble
 ---
-We slept in this morning. I woke a bit before 07:00 to pee, and grabbed a small clementine to eat with my morning vitamin, and went right back to bed and slept for another hour, by which time my hips were aching, so I got up and did some pliaties.
+We slept in this morning. I woke a bit before 07:00 to pee, and grabbed a small clementine to eat with my morning vitamin, and went right back to bed and slept for another hour, by which time my hips were aching, so I got up and did some Pilates.
 
 We played a game of Qwirkle over breakfast, and Keldor proposed a plan for the day. He wanted to head to Umeå and pick up some fish for his aquarium, and whilst there we could do other errands.  Second hand store, swing by my office to print a few thing, stock up on stuff at the grocery store. It was a good plan.
 

@@ -27,4 +27,4 @@ After work I tested the black  [Posca pen](https://www.posca.com/en/) for doing 
 Soon thereafter Keldor was home and we cut up a pallet to make the frame for the [[Nordmark banner]] and started working on the knotwork laurel leaves design for it. (because why do a project the easy way when the deadline isn't for another four days?)
 
 
-Previous post: 
+Previous post: [[2026-03-08 lots of progress]]
