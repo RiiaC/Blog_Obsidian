@@ -33,4 +33,4 @@ I stayed up a bit longer talking to people, and did my yoga at 01:48, and made i
 
 
 
-Previous post: 
+Previous post: [[2026-03-12 usch!]]
