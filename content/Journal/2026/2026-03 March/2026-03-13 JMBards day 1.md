@@ -16,7 +16,9 @@ tags:
 ---
 We had the day off of work, because we were running an event. I got up reasonably early, and did a 25 minutes pilates, and then started gathering stuff to take to the event. Not too long later Keldor got up and helped me gather stuff and load the car, so we were ready to go by 12:00, when our booking of the site started. We arrived just as most of the people from the morning's booking were heading out, but a small group of them sat at a table in the main room and continued to talk, so we unloaded into the other room and I started stetting up that room, and our beds, and made the bed for the princess, while Keldor went to Bryan's and picked up the thrones and table clothes that he'd brought here from the storage unit earlier in the week.
 
-The other group finished up their meeting around the time we had finished everything we wanted to do in that half of the house, so as they left I started decorating the hall, and Keldor started cooking. I got the site pretty much done how I wanted it when it was time to go to the bus station to pick up Vandra and Tiffany. I hadn't seen Vandra since 2004, and it was really great to see her! I had never met Tiffany before, but Vandra was certain we'd like one another, and we did.
+The other group finished up their meeting around the time we had finished everything we wanted to do in that half of the house, so as they left I started decorating the hall, and Keldor started cooking. 
+
+I got the site pretty much done how I wanted it when it was time to go to the bus station to pick up Vandra and Tiffany. I hadn't seen Vandra since 2004, and it was really great to see her! I had never met Tiffany before, but Vandra was certain we'd like one another, and we did.
 
 Friday was a typical event night, with conversation, games, and singing well into the night. Each person who hadn't been to this site before commented about how beautiful it is, and it really is.
 

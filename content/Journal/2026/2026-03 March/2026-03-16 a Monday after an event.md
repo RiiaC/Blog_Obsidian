@@ -21,4 +21,4 @@ After they left I made attempts to work, and kinda accomplished a few things, bu
 The workshop called, it will be about 8,000 SEK to fix the car, and they have to order a new driveshaft, so it will take a little more time before they can even start. I asked them to send information by email, so now I have a [[estimate to fix car March 2026.pdf|pdf with the details]].
 
 
-Previous post: [[2026-03-15 JM Bards clean up]]
+Previous post: [[2026-03-15 JMBards clean up]]
