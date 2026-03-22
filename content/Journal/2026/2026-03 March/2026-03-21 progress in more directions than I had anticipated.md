@@ -30,6 +30,7 @@ When he came back he had not only what he needed for the attic, but even frames 
 ![[2026-03-21_loo wall1.jpg|500]]
 ![[2026-03-21 loo wall.jpg|500]]
 In the evening Þórólfr came over for board games. We played Albion Protects Royalty (the Drachenwald version of Cards Against Humanity), using Sven of Reengarda, the toy Sjören, as the 4th player, putting in random cards. The final scores were 28 (Þórólfr), 11 (me), 10 (Sven), and 8 (Keldor).  
+
 Then Keldor and Þórólfr plade Bradw, a complicaded Swedish medieval version of backgammon. During that game I finished the embroidery on the fourth dragon for the [[Keldor copper trim tunic]]
 ![[2026-03-21 fourth dragon.jpg|500]]
 

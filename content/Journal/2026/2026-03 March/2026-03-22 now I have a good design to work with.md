@@ -32,4 +32,6 @@ We don't need it for a full week after I will be able to pick the leather bits u
 
 While I spent the day at the computer working on that Keldor slept in, and then moved to the couch to relax, and then went to the store to buy cat food and orange juice (he is not certain he's 100% healthy today), and then he relaxed some more (hopefully it won't develop into being actually sick). Good thing we made good progress yesterday on the house, but it would have been nice to have come even farther.
 
+After accomplishing the above I chatted briefly with Keldor, who went to bed directly thereafter, and I dealt with taxes. Norway will send me a large tax return, as they withheld most of our paychecks for the month we were there, but one month income doesn't owe much taxes. I have no idea what will happen on the Swedish side, since I told them about my income from Norway, and how much I spent on my bus tickets to get to and from work, which will change the total, but I don't expect to owe any more. Now it is nearly 21:00, so as soon as I post this, I will do my yoga and head to bed.
+
 Previous post: [[2026-03-21 progress in more directions than I had anticipated]]
