@@ -7,6 +7,11 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
+## [[2026-03-21 progress in more directions than I had anticipated|2026-03-21]]
+- outline around the knots in the first corner
+![[2026-03-21 outlined.jpg|500]]
+- yellow layers on the knots of the other three corners
+- 1st gold layer over knots in two of the other corners
 ## [[2026-03-08 lots of progress|2026-03-08]] 
 I made progress on the knotwork in the first corner. I taped the template into place, and then outlined it in chalk:
 ![[2026-03-08 knot chalk.jpg|500]]

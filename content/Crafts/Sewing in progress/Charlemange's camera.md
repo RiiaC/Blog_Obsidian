@@ -1,0 +1,48 @@
+---
+image: "[[2026-03-20 Charlemanges camera.jpg]]"
+catagory:
+date started: "[[2026-03-20 lots of unplanned errands]]"
+completed:
+materials used:
+  - Leather
+  - "[[Blue cotton kabeltvinnat]]"
+---
+# Goal
+A secure headmount for our GoPro camera that looks reasonably period, so that I can film his fights at Crown next month, without harshing anyone's medieval mellow
+# inspiration 
+The Crown of Charlemagne
+![[6_Crown_of_Charlemagne.jpg.jpg|500]]
+# Progress 
+## [[2026-03-20 lots of unplanned errands]] 
+- [x] make a paper pattern consisting of 8 oval plates taped to a narrow band around my head, and two side-running over the top of my head bands, and one perpendicular bacd to connect them ro each other
+![[2026-03-20 Charlemanges camera.jpg|200]]
+- [x] cut the headband in a soft suede
+- [x] cut the over the top of head bands
+- [x] sew perpendicular band to circlet band
+- [x] sew shut circlet bend
+- [x] sew center cross-ways band to front center of circlet
+- [x] sew cross sideways bands to circlet  at both edges, and tack them to the middle band
+# [[2026-03-22 now I have a good design to work with|2026-03-22]]
+It occurred to me last night (when I tried cutting a test piece) that I truly haven't time/energy to cut leather by hand to cut the leather for my [[Charlemange's camera]] the leather circlet to hide my new GoPro camera that I want to make for Crown, so I asked Alfarin if he could do it in his laser cutter. He was willing to give it a go, so I spent the day doing design. The original crown has 8 very different panels. It was faster and easier to make the the two side panels the same as one another, and the four small pieces the same as one another. My panels are differently proportioned than the original, in part because (I assume) my head is smaller than Charlemagne's was, and in part because the height is dictated by the need to cover the GoPro camera. The full design looks like this:
+
+![[2026-03-22 Charlemagene camera holder.png|500]]
+
+The furthest left of the image is the back center panel, and then the panels progress around my head. Note that the colours are likely not what I will go with in the final version, they are just random colours selected to show that the original had lots of different colours gems, and if there was a pattern to the colour placement, it isn't obvious to my eye.
+
+The coloured bits representing jewels, and the larger arches with my arms and the laurel wreath will be painted silk. All the tiny black dots are holes for either sewing the panels together, or sewing the silk to the leather.
+
+The leather will look more like this when it is first cut out (the black bits are holes):
+![[2026-03-22 leather colour.png|500]]
+
+Then "all" I will need to do is to paint the leather gold (or gold leaf it), and sew the silk in place, sew the panels to the headband, and attach the camera.
+
+The sizes of the various panels:
+
+| part         | motief                     | number needed | height (mm) | width (mm) |
+| ------------ | -------------------------- | ------------- | ----------- | ---------- |
+| center front | window for camera + jewels | 1             | 140         | 90         |
+| side         | my arms + jewels           | 2             | 120         | 85         |
+| small        | laurel wreath + jewels     | 4             | 115         | 47.5       |
+| center back  | just jewels                | 2             | 140         | 90         |
+
+
