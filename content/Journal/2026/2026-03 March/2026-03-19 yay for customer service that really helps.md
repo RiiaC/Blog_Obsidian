@@ -32,10 +32,4 @@ He stayed late to work on some projects for the house, one of which was making a
 
 Then we checked the attic and the progress up there. Yay! Now we have a light switch also at the top of the stairs, there is a small wall mounted electric heater in the bathroom, there is a working outlet just outside the bathroom by the door, and one on the other side of the bathroom in the cold side of the attic, so we can have light over there, too. The electrician has also drawn wires and set in the plastic boxes where the outlets will be in the walls we haven't finished building, so now we can finish putting up the last of the insulation and make the walls themselves. The [[Create an attic bedroom]] and [[Create extra bathrooms]] projects are really moving forward!
 
-
-
-
-
-
-
-Previous post: 
+Previous post: [[2026-03-17 a date at a museum]]

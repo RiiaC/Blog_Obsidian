@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Charlemange's camera]]"
+tags:
 ---
 Since I didn’t get the call that the car was done til I was more than an hour into the bus ride home yesterday, we decided to pick up the car today.  The shop closes early on Fridays, so I decided to get the car first.
 

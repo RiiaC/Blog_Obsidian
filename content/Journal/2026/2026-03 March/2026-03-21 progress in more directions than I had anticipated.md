@@ -1,15 +1,14 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
@@ -17,6 +16,7 @@ projects:
   - "[[Create an attic bedroom]]"
   - "[[Keldor copper trim tunic]]"
   - "[[Charlemange's camera]]"
+tags:
 ---
 I knew that Keldor was keen to work on house projects this weekend, but I hadn't realised he was thinking of the not only [[Create an attic bedroom]], but even the downstairs part of [[Create extra bathrooms]] as well as the attic part, 
 
@@ -43,4 +43,4 @@ So I sent an note to a friend in Luleå to ask if there was a possibility to get
 By then it was midnight, so Þórólfr went home, I did my yoga, and we went to bed.
 
 
-Previous post: 
+Previous post: [[2026-03-20 lots of unplanned errands]]

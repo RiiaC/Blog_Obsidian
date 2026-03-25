@@ -28,11 +28,4 @@ But she made it to site sometime after 01:00, so I showed her to her room and th
 
 I stayed up a bit longer talking to people, and did my yoga at 01:48, and made it to bed at 02:37
 
-
-
-
-
-
-
-
 Previous post: [[2026-03-12 usch!]]
