@@ -32,7 +32,7 @@ tags:
 > This is much more convenient for travelling, as one can usually obtain cold water anywhere, so I always keep a plastic container with single serving of muesli and a small spoon in my backpack in case I get hungry.
 
 In recent years I hav taken notes of the amount of each ingredient used, to make it easier to update my [[Food Log/Index|My Food Log]], so going forward I will copy that information here, and, perhaps, fill past versions.
-# Muesli mix [[2026-03-23|2026-03-23]]
+# Muesli mix [[2026-03-23 yup, it is spring|2026-03-23]]
 - 18.52 c oats
 - 4 c almonds
 - 2 c sunflower seeds
