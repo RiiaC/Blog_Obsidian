@@ -13,9 +13,9 @@ low_temp(°C): -9
 training:
   - Yoga
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 ---
-During our morning phone call I made some progress embroidering the sleeve of the [[Keldor copper trim tunic]].
+During our morning phone call I made some progress embroidering the sleeve of the [[Keldor copper trim kaftan]].
 ![[2025-12-23 half a dragon.jpg]]
 While it is cute, its head is upside down, so I may pick that out and redo the head in the next segment over, to make it right side up when his arms are down.
 

@@ -14,7 +14,7 @@ low_temp(°C): -16
 training:
   - Yoga
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 ---
 Today was a work from home day, as I had that doctor's appointment that I should have gone to last week, but lost track of the days of the week, and saw the calendar reminder 20 minutes after I should have been there. 
 

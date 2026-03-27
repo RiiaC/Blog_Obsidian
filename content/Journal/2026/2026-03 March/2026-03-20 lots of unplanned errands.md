@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Charlemange's camera]]"
+  - "[[Charlemange's camera holder]]"
 tags:
 ---
 Since I didn’t get the call that the car was done til I was more than an hour into the bus ride home yesterday, we decided to pick up the car today.  The shop closes early on Fridays, so I decided to get the car first.
@@ -37,7 +37,7 @@ The day's acquisitions included:
 - a cookie jar
 -  two bentwood boxes
 
-Once we were home I started working on [[Charlemange's camera]], and stayed up till 01:00, oops
+Once we were home I started working on [[Charlemange's camera holder]], and stayed up till 01:00, oops
 
 
 Previous post: [[2026-03-19 yay for customer service that really helps]]

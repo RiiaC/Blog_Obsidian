@@ -16,7 +16,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 ---
 I expected to sleep in after yesterday's road trip, but woke at 05:34, so I got up, fed the cats, did a 15 min pilates, took my morning vitamin, and decided that I was awake enough to work for a while, so I put in 4 hours, then took an hour nap, enjoyed lunch and a game of Qwirkle with Keldor,  and then resumed work while he made a new knife handle. 
 

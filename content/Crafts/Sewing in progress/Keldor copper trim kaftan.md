@@ -7,7 +7,12 @@ materials used:
   - "[[Silk and copper trim]]"
   - "[[Plum silk yarn]]"
 ---
+
 # Progress log
+- [[2026-03-26 looking like it will be a wall]] the clasps he ordered atrived. Started sewing them
+![[2026-03-26 clasps ready to add.jpg|500]]
+
+- [[2026-03-19 yay for customer service that really helps]]
 - [2026-02-07](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-07%20errands%20and%20more) most of the final seam done
 - [2026-02-01](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026-02%20February%2F2026-02-01%20Reengardas%20hantverktr%C3%A4ff) working on the first of the long wrist to sleeve seams
 - [2026-01-31 ](obsidian://open?vault=Kareinas-blog&file=content%2FJournal%2F2026%2F2026%20January%2F2026-01-31%20Bardic!) bardic = good sewing time!

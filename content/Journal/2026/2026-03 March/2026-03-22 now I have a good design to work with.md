@@ -12,10 +12,10 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Charlemange's camera]]"
+  - "[[Charlemange's camera holder]]"
 tags:
 ---
-It occurred to me last night that I truly haven't time/energy to cut leather by hand to cut the leather for my [[Charlemange's camera]] the leather circlet to hide my new GoPro camera that I want to make for Crown, so I asked Alfarin if he could do it in his laser cutter. He was willing to give it a go, so I spent the day doing design. The original crown has 8 very different panels. It was faster and easier to make the the two side panels the same as one another, and the four small pieces the same as one another. My panels are differently proportioned than the original, in part because (I assume) my head is smaller than Charlemagne's was, and in part because the height is dictated by the need to cover the GoPro camera. The full design looks like this:
+It occurred to me last night that I truly haven't time/energy to cut leather by hand to cut the leather for my [[Charlemange's camera holder]] the leather circlet to hide my new GoPro camera that I want to make for Crown, so I asked Alfarin if he could do it in his laser cutter. He was willing to give it a go, so I spent the day doing design. The original crown has 8 very different panels. It was faster and easier to make the the two side panels the same as one another, and the four small pieces the same as one another. My panels are differently proportioned than the original, in part because (I assume) my head is smaller than Charlemagne's was, and in part because the height is dictated by the need to cover the GoPro camera. The full design looks like this:
 
 ![[2026-03-22 Charlemagene camera holder.png|500]]
 

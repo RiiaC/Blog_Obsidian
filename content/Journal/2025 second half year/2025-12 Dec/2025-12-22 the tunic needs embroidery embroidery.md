@@ -14,9 +14,9 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 ---
-Resumed work on [[Keldor copper trim tunic]]
+Resumed work on [[Keldor copper trim kaftan]]
 
 
 Previous post: [[2025-12-21 a job well done!]]

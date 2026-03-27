@@ -12,7 +12,7 @@ training:
   - Yoga
   - Pilates
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
   - "[[Create extra bathrooms]]"
   - "[[Charlotte's purple hood]]"
 tags:
@@ -31,7 +31,7 @@ While we were out we stopped by the second hand store, where we found a cheap Da
 
 After we were home I lost a game of Qwirkle, did some sewing, including helping Charlotte cut out her [[Charlotte's purple hood|purple hood]] and finished the spackeling in the attic loo, followed by washing a load of laundry, as the clothes I had worn in the attic were dusty and full of sawdust. 
 
-That took long enough that I got most of the final seam on [[Keldor copper trim tunic]] done. Then I did you yoga, and now I wonder how it is 22:22 already, and I am thinking I should get some sleep.
+That took long enough that I got most of the final seam on [[Keldor copper trim kaftan]] done. Then I did you yoga, and now I wonder how it is 22:22 already, and I am thinking I should get some sleep.
 
 ![[2026-02-07 Be Real.jpeg|500]]
 

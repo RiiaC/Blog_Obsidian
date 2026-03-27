@@ -15,9 +15,9 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 ---
-Started the day with a quick 25 minutes pilates session, then I had time to start a bread dough and baste the next sleeve of [[Keldor copper trim tunic]] to the silk lining, cut the lining, and sew the decorative line along the edge of the cuff before the others got up.
+Started the day with a quick 25 minutes pilates session, then I had time to start a bread dough and baste the next sleeve of [[Keldor copper trim kaftan]] to the silk lining, cut the lining, and sew the decorative line along the edge of the cuff before the others got up.
 
 ![[2025-12-29 lined sleeves.jpg]]
 

@@ -14,8 +14,8 @@ training:
 projects:
   - "[[Create extra bathrooms]]"
   - "[[Create an attic bedroom]]"
-  - "[[Keldor copper trim tunic]]"
-  - "[[Charlemange's camera]]"
+  - "[[Keldor copper trim kaftan]]"
+  - "[[Charlemange's camera holder]]"
 tags:
 ---
 I knew that Keldor was keen to work on house projects this weekend, but I hadn't realised he was thinking of the not only [[Create an attic bedroom]], but even the downstairs part of [[Create extra bathrooms]] as well as the attic part, 
@@ -31,12 +31,12 @@ When he came back he had not only what he needed for the attic, but even frames 
 ![[2026-03-21 loo wall.jpg|500]]
 In the evening Þórólfr came over for board games. We played Albion Protects Royalty (the Drachenwald version of Cards Against Humanity), using Sven of Reengarda, the toy Sjören, as the 4th player, putting in random cards. The final scores were 28 (Þórólfr), 11 (me), 10 (Sven), and 8 (Keldor).  
 
-Then Keldor and Þórólfr plade Bradw, a complicaded Swedish medieval version of backgammon. During that game I finished the embroidery on the fourth dragon for the [[Keldor copper trim tunic]]
+Then Keldor and Þórólfr plade Bradw, a complicaded Swedish medieval version of backgammon. During that game I finished the embroidery on the fourth dragon for the [[Keldor copper trim kaftan]]
 ![[2026-03-21 fourth dragon.jpg|500]]
 
 Then we introduced Þórólfr to Qwirkle, and he won the second game.
 
-After that game I cut a piece of heavy leather to test my calculations for my [[Charlemange's camera]] circlet, and I determined that while it will work as planned to hold the camera, cutting all the pannels by hand in that thickness will take far too long. 
+After that game I cut a piece of heavy leather to test my calculations for my [[Charlemange's camera holder]] circlet, and I determined that while it will work as planned to hold the camera, cutting all the pannels by hand in that thickness will take far too long. 
 
 So I sent an note to a friend in Luleå to ask if there was a possibility to get the pieces cut in their laser cutter and we could pick it up next weekend when we are there. Alternatively, I could do it in painted cardboard, but a leather version would last longer.
 

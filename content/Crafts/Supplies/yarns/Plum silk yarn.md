@@ -1,7 +1,7 @@
 ---
 image:
 projects:
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 date acquired: 2025-12-23
 cost: trade
 fiber content:
@@ -13,7 +13,7 @@ colour:
 ---
 The 100% morbärsilke left over yarn from when Arianna Weidseckerin in Aarnimetsä wove the [[Silk and copper trim]] for Keldor.![[2025-12-23 Plum silk yarn.png]]
 
-Used pretty much all of it sewing the [[Keldor copper trim tunic]], so on [[2026-02-25 a catch-up post]] I ordered more, as I would like to do even more embroidery on it. 
+Used pretty much all of it sewing the [[Keldor copper trim kaftan]], so on [[2026-02-25 a catch-up post]] I ordered more, as I would like to do even more embroidery on it. 
 
 Din beställning har mottagits 2403914 - LindeHobby.se 
 Order nummer:	2403914

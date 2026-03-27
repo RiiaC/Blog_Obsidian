@@ -13,7 +13,7 @@ training:
   - Yoga
 projects:
   - "[[2025 Silk bliaut short tunic]]"
-  - "[[Keldor copper trim tunic]]"
+  - "[[Keldor copper trim kaftan]]"
 tags:
   - SCA
 ---
