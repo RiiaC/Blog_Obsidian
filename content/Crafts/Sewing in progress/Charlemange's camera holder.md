@@ -11,7 +11,7 @@ materials used:
 A secure headmount for our GoPro camera that looks reasonably period, so that I can film his fights at Crown next month, without harshing anyone's medieval mellow
 # inspiration 
 The Crown of Charlemagne
-![[6_Crown_of_Charlemagne.jpg.jpg|500]]
+![[2026-03-20 Crown of Charlemagne.jpg|500]]
 # Progress 
 ## [[2026-03-20 lots of unplanned errands]] 
 - [x] make a paper pattern consisting of 8 oval plates taped to a narrow band around my head, and two side-running over the top of my head bands, and one perpendicular bacd to connect them ro each other

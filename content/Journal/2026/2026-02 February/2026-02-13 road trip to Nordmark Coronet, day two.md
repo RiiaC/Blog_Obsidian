@@ -35,7 +35,7 @@ Antique store in Sala, Keldor bought a pistol so old it is legal to own in Swede
 ![[2026-02-13 Runestone Vs27.jpg]]
 ![[2026-02-13 runestone Vs27 sign.jpg]]
 
-![[2016-02-13 Runsten Vs27 selfie.jpg]]
+![[2026-02-13 Runsten Vs27 selfie.jpg]]
 
 Also stopped at a Systembolaget so Keldor could buy alcohol free beer, and Þórólfr could get something to drink with dinner.
 
