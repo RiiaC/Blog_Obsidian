@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
   - "[[Charlemange's camera holder]]"
   - "[[Keldor copper trim kaftan]]"
+tags:
 ---
 I had energy issues in the middle of the day. I blame the long day yesterday. So I took a nap and then painted the cardboard mock up for my [[Charlemange's camera holder]], black on the inside, gold outside, then painted on "jewels" and "pearls". If we don't get the leather version done on time for Crown, this may do the job.
 

@@ -18,7 +18,7 @@ When the housekeepers were here on Saturday, they found the cat's favourite toy,
 
 ![[2026-03-30 cat chew toy.jpg]]
 
-My work day was spectacularly unproductive, which I will blame on the time change. After work Keldor used the high pressure wash on the tent and hung it up to dry:
+My work day was spectacularly unproductive, which I will blame on the time change. After work Keldor used the high pressure wash on the tent and hung it up to dry (he likes having access to the lifting thing):
 
 ![[2026-03-30 tent drying.jpeg]]
 
