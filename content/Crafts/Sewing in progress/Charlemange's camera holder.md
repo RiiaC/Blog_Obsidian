@@ -36,7 +36,15 @@ The leather will look more like this when it is first cut out (the black bits ar
 
 Then "all" I will need to do is to paint the leather gold (or gold leaf it), and sew the silk in place, sew the panels to the headband, and attach the camera.
 
-The sizes of the various panels:
+# [[2026-03-26 looking like it will be a wall|2026-03-26]] 
+painted the cardboard mock up.
+# [[2026-03-27 working at the office|2026-03-27]]
+I started assembly of the cardboard mock up 
+# [[2026-03-28 a productive Saturday|2026-03-28]]
+Sewed the rest of the cardboard panels of the mockup together 
+# [[2026-03-31 a bit more energy today|2026-03-31]]
+Started sewing a cloth cover for the two plastic coikie boxes that togeter make a carrying case I can transport it in, using some scrap grey wool. 
+# The sizes of the various panels:
 
 | part         | motief                     | number needed | height (mm) | width (mm) |
 | ------------ | -------------------------- | ------------- | ----------- | ---------- |

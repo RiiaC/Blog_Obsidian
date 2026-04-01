@@ -27,7 +27,11 @@ I did try calling a couple of physical therapists, and sent messages to a couple
 
 During full department Work Place Meeting I was having problems hearing the speaker, so I pressed the button my hearing aids, and suddenly I could hear the sound from the microphone piped directly into my hearing aids. This is the first time I have neededthat program, usually a microphone playing in the room iis good enough.
 
-While I was in that meeting, they delivered my office soffa. Yay! After the meeting I met with one of the PhD students who had been involved in digitising a lot of old documents associated with an archaeological excavation back in the 1990's, to find out what they did and get an introduction to the collection. I have volunteered to see if I can make sense out of the information and transform it into an archaeological report to turn into the county in which the excavation happened. Apparently as one of the archaeologists who ran that dig later got a PhD from us, we are responsible to write the report, and if we don't the county may forbid us to ever be involved in another excavation in their county limits. 
+While I was in that meeting, I started assembly of the cardboard mock up of my [[Charlemange's camera holder]].
+
+Afterwards, I returned to the office to see that they had delivered my office soffa. Yay! 
+
+Then I met with one of the PhD students who had been involved in digitising a lot of old documents associated with an archaeological excavation back in the 1990's, to find out what they did and get an introduction to the collection. I have volunteered to see if I can make sense out of the information and transform it into an archaeological report to turn into the county in which the excavation happened. Apparently as one of the archaeologists who ran that dig later got a PhD from us, we are responsible to write the report, and if we don't the county may forbid us to ever be involved in another excavation in their county limits. 
 
 My motivation, on the other hand, is to get a bit more directly archaeology related experience, and I think it will be fun to look at the artefacts and write the report. It will certainly need an introduction that says something to the effect of "for reasons beyond our control some of the information from this excavation is no longer available, but..." 
 
