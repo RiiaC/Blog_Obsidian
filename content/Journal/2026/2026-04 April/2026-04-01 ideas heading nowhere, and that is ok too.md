@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-04-01 katterna.jpg]]"
 country:
   - Sweden
 location:
@@ -25,5 +25,8 @@ So I picked up my phone to make a note of the question, saw that I hadn't plugge
 As a result, by the time I got back to bed, the dawn light had already started slowing waking up, but I got a nap till Keldor's alarm went off. He really didn't like the idea of a sink by the aquarium at all. Not one little bit. Sigh. I still like it, but without him on board there isn't much point in discussing with the plumbers if it is possible. 
 
 During my lunch break I looked a the local real estate page, as one does now and then, and I see a [property not far from here that is a decent size and a great price](https://marklundmakleri.se/selet25093294lovanger) If I had a bit more in savings it would be tempted to just buy it and keep living here while we slowly fixed it up. Do any of you want a cheap fixer-upper with enough room to hold camping events? You could live in our guest room and work on it till it was liveable.
+
+In other news, the cats are still seriously cute.
+![[2026-04-01 katterna.jpg]]
 
 Previous post: [[2026-03-31 a bit more energy today]]
