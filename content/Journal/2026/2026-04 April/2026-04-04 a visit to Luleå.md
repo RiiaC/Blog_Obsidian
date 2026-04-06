@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image: "[[2026-04-04 period needle.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
   - Luleå 
-image: "[[2026-04-04 period needle.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 After my morning zoom call with my sisters I funished and sent my letter, and echoed it to my blog, by which time it was already closing on 10:00, and Keldor was thinking about getting up. 
 
