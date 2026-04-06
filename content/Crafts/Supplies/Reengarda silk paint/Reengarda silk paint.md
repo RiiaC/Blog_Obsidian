@@ -18,7 +18,18 @@
 ## Kongeblå 8821
 ![[2026-03-04 kongablå 8821.jpg|100]]
 ![[2026-03-04 kongeblå 8821 spot.jpg|100]]
-# blacks
+## Somerton blue
+Self mixed from 1 part [[Reengarda silk paint#Ocean 24]] to at least 3, if not 6 psrts [[Reengarda silk paint#Bleu Danube 21]] (no actual measurements were used, this is all guessing, but mixed up once, tested and stopped adding Bleu Danube when I achieved spot A, then painted the botton half of the field for [[Kareina arms silk painting]], ran out, mixed more till it was spot B colour, and did the top half. While wet, and large scale, I see no difference, though the spots differ.)
+![[2026-04-06 Somerton blue .jpg|200]]
+### spot A
+![[2026-04-06 Somerton blue A spot.jpg|200]]
+### spot B
+![[2026-04-06 Somerton blue B spot.jpg|200]]
+
+# Blacks
+## Noir profond 40
+![[2026-04-06 Noir profond 40.jpg|200]]
+![[2026-04-06 noir profond 40 spot.jpg|200]]
 ## Ocean 24
 ![[2026-03-04 ocean 24.jpg|100]]
 ![[2026-03-04 ocean 24 sopt.jpg|100]]
@@ -32,11 +43,11 @@
 (A thicker paint)
 ![[2026-03-05 black 251226.jpg|100]]
 ![[2026-03-05 black 251226 spot.jpg|100]]
-# purples
+# Purples
 ## Violet 8819
 ![[2026-03-04 violet 8819.jpg|100]]
 ![[2026-03-04 violet 8819 spot.jpg|100]]
-# reds
+# Reds
 ## Certosa 14
 ![[2026-03-04 certosa 14.jpg|100]]
 ![[2026-03-04  certosa 14 spot.jpg|100]]
@@ -55,7 +66,7 @@
 ## Karminrot 22
 ![[2026-03-04 karminrot 22.jpg|100]]
 ![[2026-03-04 karninrot 22 spot.jpg|100]]
-## Karminrot 032
+## Karminrot 032q
 ![[2026-03-04 karmintot 032.jpg|100]]
 ![[2026-03-04 karminrot 032 spot.jpg|100]]
 ## Karminrød 8815
@@ -65,7 +76,7 @@
 ## Orange 8810
 ![[2026-03-04 orange 8810.jpg|100]]
 ![[2026-03-04 orange 8810 spot.jpg|100]]
-# yellows
+# Yellows
 ## Miel 04
 ![[2026-03-04 miel 04.jpg|100]]
 ![[2026-03-04 miel 04 spot.jpg|100]]
@@ -81,7 +92,7 @@
 ## Mittelgleb 021
 ![[2026-03-04 mittelgleb 021.jpg|100]]
 ![[2026-03-04 mittelgleb 021 spot.jpg|100]]
-# greens
+# Greens
 ## Brilliant green 8826
 ![[2026-03-04 brilliant green 8826.jpg|100]]
 ![[2026-03-04 brilliant grün spot 8826.jpg|100]]
