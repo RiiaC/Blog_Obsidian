@@ -14,7 +14,7 @@ training:
   - pack-load_car
   - Yoga
 projects:
-  - "[[2025 Silk bliaut short tunic]]"
+  - "[[2025 purple-blue silk bliaut short tunic]]"
 tags:
   - packaging
 ---
@@ -30,13 +30,13 @@ The second meeting of the day was only an hour, when it had been scheduled for t
  
 Then we cleaned away all of the various supplies for the renovations in progress out of the main floor of the house, so it won't be in the way when our housekeeper comes this weekend.
 
-Then Keldor checked his armour and re-taped his sword for the weekend while I ironed the [[2025 Silk bliaut short tunic]] I finished on the trip to Stockholm (and fixed two problem seams) and started a load of laundry and also started packing for this weekend. 
+Then Keldor checked his armour and re-taped his sword for the weekend while I ironed the [[2025 purple-blue silk bliaut short tunic]] I finished on the trip to Stockholm (and fixed two problem seams) and started a load of laundry and also started packing for this weekend. 
 
 Just before 20:00 I realised that I wasn't going to get as far as dealing with my  armour and sword,  and was feeling stressed about it. The armour is packed in its chest where it lives, and I am certain it is fine, but after the sixth time Keldor said that I really need to actually check it, I decided that no, this is for fun, and I don't need that stress, so I wrote their Highnesses to explain that I won't be fighting after all this weekend, and my stress levels felt instantly better.
 
 Now the car is as loaded as it can be tonight, I have done my yoga, and most of the clutter is out of the way. In the morning we both head to work, then home, toss in the last of the stuff, meet Þórólfr, and start on the long drive south. We need only go as far as the Realm of Krake tomorrow night, so Friday will be an easy day.
 
-ironed the [[2025 Silk bliaut short tunic]] before packing it, and noticed two places where the back side of the seam had caught an extracfold of the fabric,  so I freed them anre-stitched those bits of the seam.
+ironed the [[2025 purple-blue silk bliaut short tunic]] before packing it, and noticed two places where the back side of the seam had caught an extracfold of the fabric,  so I freed them anre-stitched those bits of the seam.
 
 
 Previous post: [[2026-02-10 nice to work from home]]

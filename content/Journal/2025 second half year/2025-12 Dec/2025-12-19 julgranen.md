@@ -15,7 +15,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[2025 Silk bliaut short tunic]]"
+  - "[[2025 purple-blue silk bliaut short tunic]]"
 ---
 Today we made a "Jugran" out of some of Keldor's hand forged swords, knives, axes, etc. For good measure we added a few antique items he didn't make, and a couple of modern ones he didn't make.
 

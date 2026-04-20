@@ -12,6 +12,8 @@ weight(kg):
 training:
   - Yoga
 projects:
+  - "[[2026 Keldor copper trim kaftan]]"
+  - "[[Charlemange's camera holder]]"
 tags:
 ---
 While we were in Luleå last weekend Kakwkylla gave me some honey for Astrid, so today, after dropping her small child off at pre-school Astrid came here, and we worked together, with occasional breaks for snacks. It was really nice. I am, of course, trying to convince them that they want to buy one of the houses for sale in Lövånger. Astrid likes the idea, but convincing Josef might take more work.

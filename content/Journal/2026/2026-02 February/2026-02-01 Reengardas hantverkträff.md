@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Keldor copper trim kaftan]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 tags:
 ---
 Despite having stayed up late last night for the bardic, I still managed to get up early enough to say goodbye to Daniel and Cinder, who left at 07:00. I had thought to go back to sleep after that, but before I accomplished that goal Albreda had gotten up, and we got to talking, and then it was time to wake Keldor to get ready to head into town for crafts afternoon, where we celebrated Viriya's birthday and had a pleasant afternoon chatting with folk and working on projects.

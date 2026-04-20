@@ -14,7 +14,7 @@ low_temp(°C): 4
 training:
   - Yoga
 projects:
-  - "[[2025 Silk bliaut short tunic]]"
+  - "[[2025 purple-blue silk bliaut short tunic]]"
 ---
 Other than waking up just long enough to take my morning vitamins with a single bite of a banana (as they are supposed to be taken with food), we slept in. A lovely lazy morning. During breakfast Keldor set the filter he had taken out of the aquarium yesterday into a pot of water and set it on the stove to boil. When I started cleaning up after breakfast he asked me to lower the temperature, so I did.
 
@@ -26,7 +26,7 @@ There is no visible sign of damage, which is good, but he isn't interested in us
 
 This is a shame, as we had planned to work in the attic on the insulation project to [[Create an attic bedroom]].
 
-So, instead, I took the pieces of the [[2025 Silk bliaut short tunic]] and spread them out to figure out which pieces go where, and which one still need modifications to solve the problem with cutting it wrong. 
+So, instead, I took the pieces of the [[2025 purple-blue silk bliaut short tunic]] and spread them out to figure out which pieces go where, and which one still need modifications to solve the problem with cutting it wrong. 
 
 Over the course of the day I have even gone back and filled in notes in the still fairly new crafts section of this Obsidian vault, finding posts about some of this year's projects and linking to them on the project note, and pulling in photos, adding properties like start and completion dates, materials, catagories, etc. So now I know that painting the [[Living room ceiling stars]] took about a month and a half. 
 

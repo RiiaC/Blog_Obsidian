@@ -38,7 +38,7 @@ I wish I weren't travelling this coming week, I would have bought some beetroot 
 
 Then I took some measurements and started making a paper mock-up of a box the chamber pot can live in, and determined that the wooden boxes from Jula that are so popular in the SCA because cheap, and easy to decorate are about the right size to transform into a box seat for the chamber pot.
 
-This evening I cut out a sewing project, [[2025 Silk bliaut short tunic]] from the blue silk I bought at Cudgel, and some purple silk I had bought at an event longer go. I considered the purple I had bought at Cudgel, but it is quite a bit thicker than the blue, while the one i have had longer is a better match for texture.
+This evening I cut out a sewing project, [[2025 purple-blue silk bliaut short tunic]] from the blue silk I bought at Cudgel, and some purple silk I had bought at an event longer go. I considered the purple I had bought at Cudgel, but it is quite a bit thicker than the blue, while the one i have had longer is a better match for texture.
 
 I am doing a short bliaut style tunic, parti-coloured, and with angel winged sleeves.
 

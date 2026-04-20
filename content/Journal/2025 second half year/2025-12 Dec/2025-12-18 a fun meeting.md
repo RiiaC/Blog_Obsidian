@@ -17,7 +17,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[2025 Silk bliaut short tunic]]"
+  - "[[2025 purple-blue silk bliaut short tunic]]"
 ---
 For lunch I experimented and made a [[Veteprotein-pumpafrön snitsel]]. It was good enough I will likely do more in the future. 
 ![[2025-12-18 Veteprotein-pumpafrön snitsel.jpeg]]

@@ -9,6 +9,7 @@ materials used:
 ---
 
 # Progress log
+- [[2026-04-09 a visit from my apprentice]] I added the clasps we bought just on time for our trip to Crown Tournament.
 - [[2026-03-26 looking like it will be a wall]] the clasps he ordered atrived. Started sewing them
 ![[2026-03-26 clasps ready to add.jpg|500]]
 

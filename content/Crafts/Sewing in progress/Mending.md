@@ -2,7 +2,9 @@
 catagory: Mending
 ---
 A list of mending projects that aren't getting their own notes.
-
+## [[2026-04-18 games night]]
+- fixed the fraying neckline on my loose white linen undertunic by adding an extra layer of scrap linen 
+![[2026-04-18 mended.jpg|500]]
 # nålbinding new cuffs for sweater
 started [[2026-02-28 Not the adventure we had hoped for|2026-02-28]], more progress [[2026-03-03 signs of spring|2026-03-03]] (finished the second cuff)
 To fix the worn sleeve cuffs on my blue sweater, 3 nålbindning stitches to one cuff rib. I am using the Finnish stitch varient wirh only two loops on the thumb.

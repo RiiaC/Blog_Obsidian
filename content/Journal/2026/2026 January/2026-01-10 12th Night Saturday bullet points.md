@@ -12,8 +12,8 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[2025 Silk bliaut short tunic]]"
-  - "[[Keldor copper trim kaftan]]"
+  - "[[2025 purple-blue silk bliaut short tunic]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 tags:
   - SCA
 ---

@@ -14,9 +14,9 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Keldor copper trim kaftan]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 ---
-Resumed work on [[Keldor copper trim kaftan]]
+Resumed work on [[2026 Keldor copper trim kaftan]]
 
 
 Previous post: [[2025-12-21 a job well done!]]

@@ -14,7 +14,7 @@ training:
 projects:
   - "[[Create extra bathrooms]]"
   - "[[Charlemange's camera holder]]"
-  - "[[Keldor copper trim kaftan]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 tags:
 ---
 I had energy issues in the middle of the day. I blame the long day yesterday. So I took a nap and then painted the cardboard mock up for my [[Charlemange's camera holder]], black on the inside, gold outside, then painted on "jewels" and "pearls". If we don't get the leather version done on time for Crown, this may do the job.
@@ -23,7 +23,7 @@ But I managed to find energy in the afternoon and so put in a nearly full work d
 
 By the time I managed to put down the computer, he was downstairs doing the next step on installing the wall between the loo and the laundry room.
 
-So I started sewing the first of the clasps to his [[Keldor copper trim kaftan]], with pauses to help when he needed a third hand. 
+So I started sewing the first of the clasps to his [[2026 Keldor copper trim kaftan]], with pauses to help when he needed a third hand. 
 
 Here he is adding the last bit of frame holding the insulation in place (and serving as an attachment point for the wall surfaces).
 

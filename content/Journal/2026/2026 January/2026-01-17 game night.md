@@ -14,7 +14,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Keldor copper trim kaftan]]"
+  - "[[2026 Keldor copper trim kaftan]]"
 tags:
   - games
   - cooking
@@ -35,7 +35,7 @@ While I packed some food for tomorrow Keldor tried offering Skaði some of the s
 
 By the time we started packing I was feeling out of sorts and antisocial, but we had planned to head to Þórólfr's for game night  then sleep at Keldor’s dad's (two blocks away) to make for a shorter drive to Reengarda's annual meeting on Sunday. I figured that going out would improve my mood, so I did.
 
-I was right. It was fun. I made good progress on sewing [[Keldor copper trim kaftan]]. I won Catan, and was second in Svea Rike, earning 11 points for the Eka noble family thanks to good farming.
+I was right. It was fun. I made good progress on sewing [[2026 Keldor copper trim kaftan]]. I won Catan, and was second in Svea Rike, earning 11 points for the Eka noble family thanks to good farming.
 
 ![[2026-01-17 Svea Rike.jpg]]
 
