@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 Before Ary's talk we showed her our runestone 
 ![[2026-04-15 runestone.jpg|500]]
@@ -20,7 +20,7 @@ Before Ary's talk we showed her our runestone
 After the Inspirational lecture we went to:
 second hand store, I got a little grass basket for 19 kr
 ![[2026-04-15 grass basket.jpg|500]]
-And a dark wicker bssket for 29 kr
+And a dark wicker basket for 29 kr
 ![[2026-04-15 wicker basket.jpg|500]]
 
 skepssättning, 

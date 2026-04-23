@@ -24,4 +24,4 @@ And, om the theme of toilets, my portable event toilet is now assembled and read
 ![[2026-02-24 toa.jpg]]
 
 
-Previous post: 
+Previous post: [[2026-03-23 yup, it is spring]]
