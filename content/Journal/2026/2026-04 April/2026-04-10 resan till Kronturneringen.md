@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Stockholm
   - Hamburg
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 Our flight from Skellefteå was set to depart at 06:05, but since that airport is tiny, they don't even open security till an hour before,  and it is only a 35 minute drive. Therefore Keldor set his alarm for 04:00. I woke at 03:27, and decided I may as well do some pliaties, as my hips will cope better with travel if I do.
 
@@ -48,6 +48,10 @@ Keldor and I were the first to check in, and receive our site tokens, keys that 
 
 While visiting with people, I managed to mostly finish an outline of a reindeer head on [[My viking coat]] 
 
+The assembled group of royals at court was pretty impressive:
+![[2026-04-10 court left.jpg|500]]
+![[2026-04-10 court middle.jpg|500]]
+![[2026-04-10 court right.jpg|500]]
 We hung out talking with folk only till just after we got to talk with Duchess Jacquelyna at her Pelican vigil,  and then went to bed around 22:00.
 
 

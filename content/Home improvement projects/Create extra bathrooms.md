@@ -7,9 +7,12 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
-## [[2026-04-18 games night]]
+# [[2026-04-21 garnet beads for the win|2026-04-21]]
+Put up the mirror,  which I had painted with the same gold paint 
+![[2026-04-21 spegel på plats.jpg|500]]
+## [[2026-04-18 games night|2026-04-18]]
 - sanded yesterday's spackel 
-## [[2026-04-17 such a relief]]
+## [[2026-04-17 such a relief|2026-04-17]]
 - second layer of spackel on the drywall.
 ## [[2026-04-06 it doesn't feel like a Monday|2026-04-06]]
 - Keldor finished putting up the last of the drywall between the downstairs loo and laundry room, and installed the ventilation tube between the wall and the ventilation box with the fan.
