@@ -15,7 +15,7 @@ training:
 projects:
 tags:
 ---
-Today we came into town, did some grocery shopping, bought some silk from Sofie, and then went to Keldor’s work workshop,  where he built a spit roast grill, so that we can roast the wild pig his brother in law hunted, on Thursday night at Double Wars.
+Today we came into town, did some grocery shopping, bought some silk from Sofie, and then went to Keldor’s work workshop,  where he started building a spit roast grill, so that we can roast the wild pig his brother in law hunted, on Thursday night at Double Wars.
 
 ![[2026-05-03 spit roast grill.jpg]]
 

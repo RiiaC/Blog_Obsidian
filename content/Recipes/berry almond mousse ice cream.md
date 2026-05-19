@@ -6,6 +6,7 @@ ingredients:
   - Gelatin
 tags:
 ---
+# first try
 I saw a reel while scrolling down FB that showed how a random person on the internet makes vegan blueberry mousse, using tofu and lots of frozen blueberries. The resultant purple mousse looked so good that I thought I should try it.Therefore, on the walk home from the bus stop on [[2026-01-22 blueberry almond mousse ice cream]] I stopped by the store intending to buy tofu and frozen blueberries. However, I couldn't find any tofu, and when I asked they showed me the empty spot on the shelf where it shouldn't have been. They had mascarpone, which features in my [[Almond mousse]], so I got some of that, but forgot the blueberries.
 
 Luckily, we still had some of the blueberries I bought [[2025-08-18 driving home]] this summer, so I used some of them, and supplemented it with some frozen strawberries as well.
@@ -24,4 +25,11 @@ Since the berries were still frozen, it didn't take long before the mixture was 
 This time Keldor was home, so I just put the fluffy part into the silicon muffin cups and put them in the freezer, and then we scraped up the (not quite as thick this time, but just as hard) layer from the bottom and ate it directly.
 
 The flavour is good. Not too sweet, since it has no extra sugar. However, I can't actually recommend running this in my ice cream maker, given the problem with sticking to the bottom.
+
+# tofu version 
+Without recording it here I have made a few variations on the tofu berry mousse, ranging from quite ok to very yummy. 
+The batch I made on [[2026-05-04 it may not be a problem at this time]] involved:
+- 400 g tofu
+- 500 g berry mix (strawberry,   raspberry, black currants, red currants)
+- 0.5 c almond meal
 

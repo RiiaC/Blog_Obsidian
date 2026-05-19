@@ -1,5 +1,5 @@
 # the first version
-On [[2026-02-10 nice to work from home|2026-02-10]] I finished the last of my batch of [[blueberry almond mousse ice cream]] and wasn't feeling inspired to make a salad from the ingredients I bought on my way home on Monday, when I realised that I still had half a box of tofu, and why not try making a green mousse instead? I started with the fresh veg, but the was inspired to add a can of artichoke bottoms, and I love the final result. I bet it would make a great spread on bread, but it is also great to just eat with a spoon as is.
+On [[2026-02-10 nice to work from home|2026-02-10]] I finished the last of my batch of [[berry almond mousse ice cream]] and wasn't feeling inspired to make a salad from the ingredients I bought on my way home on Monday, when I realised that I still had half a box of tofu, and why not try making a green mousse instead? I started with the fresh veg, but the was inspired to add a can of artichoke bottoms, and I love the final result. I bet it would make a great spread on bread, but it is also great to just eat with a spoon as is.
 
 - 65 g spinach (~ 2 c)
 - 1 medium cucumber (1.5 c)

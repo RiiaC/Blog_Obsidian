@@ -21,4 +21,4 @@ Keldor had to run some errands after work, and since he was in that part of town
 After work we sat down to play Qwirkle, and at first I had a good lead, and then he suddenly got a run of Qwirkles, and I lost by a lot. This is 10 games in a row he has won, and it is getting a little old. Even he thinks so.  
 
 
-Previous post: [[blueberry almond mousse ice cream]]
+Previous post: [[berry almond mousse ice cream]]

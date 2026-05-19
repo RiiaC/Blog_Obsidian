@@ -7,7 +7,13 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
-# [[2026-04-21 garnet beads for the win|2026-04-21]]
+## [[2026-05-05 Rörmokaren kommer tillbaka! 1]]
+- Niklas came back to install the attic toilet and sink
+before fika progress:
+![[2026-05-05 before fika.jpg|500]]
+And after he was done:
+![[2026-05-05 installed.jpg|500]]
+## [[2026-04-21 garnet beads for the win|2026-04-21]]
 Put up the mirror,  which I had painted with the same gold paint 
 ![[2026-04-21 spegel på plats.jpg|500]]
 ## [[2026-04-18 games night|2026-04-18]]
