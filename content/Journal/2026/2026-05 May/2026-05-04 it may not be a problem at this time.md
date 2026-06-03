@@ -29,4 +29,6 @@ I had enough energy when I got home to make a batch of [[berry almond mousse ice
 
 Then I filled my various wooden boxes with nuts, seeds, and dried fruit, and I filled the new little wicker basket with some spice jars,  so my event pantry is packed with the basics. Hopefully I will find the energy to bake oatcakes, flatbred, and cookies between now and Thursday when we leave.
 
+
+
 Previous post: [[2026-05-03 double wars prep at the workshop]]

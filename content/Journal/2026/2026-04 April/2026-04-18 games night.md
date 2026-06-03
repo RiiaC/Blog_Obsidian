@@ -13,7 +13,7 @@ training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 tags:
 ---
 Since I went to bed early last night, I woke at 05:30, fed the cats, did some yoga (only needed to modify a couple of poses due to not having fully recovered from a few days of back of hip issues), and took my morning vitamin with a banana. 

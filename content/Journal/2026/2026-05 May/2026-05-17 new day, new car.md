@@ -13,7 +13,7 @@ location:
   - Sundsvall
   - Skulleberget
   - Roadtrip
-image:
+image: "[[2026-05-17 Keldor’s new car.jpg]]"
 photos_pubished:
 weight(kg):
 high_temp(°C):
@@ -34,7 +34,7 @@ Runsten Nä11, L1980:4067, Stora Mellösa 80:1, Örebro, is a cute runestone bui
 
 ![[2026-05-11 Runsten Nä11.jpeg|500]]
 But I think I will need to trace it to figure out what the art is.
-![[2026-05-26 Runsten Nä11__Close_.jpeg|500]]
+![[2026-05-16 Runsten Nä11__Close_.jpeg|500]]
 I was doing a video call with the person who will stay with the cats when I am in Ireland just as we arrived, so Aliçia got to be included in the selfie.
 ![[2026-05-17Runsten Nä11__Selfie.jpeg|500]]
 # Second runestone stop
@@ -42,7 +42,7 @@ Runsten Nä12, L1981:8316, Stora Mellösa 32:1, Örebro
 Is a lovely pink granite stone. There is another runestone inside the church, but it wasn't open, so we missed that one.
 ![[2026-05-17 Runsten Nä12_.jpeg]]
 
-![[2926-05-17 runestone Nä12 selfie.jpeg|500]]
+![[2026-05-17 runestone Nä12 selfie.jpeg|500]]
 
 # and a treuddan 
 L1980:3563 Stora Mellösa 14:2

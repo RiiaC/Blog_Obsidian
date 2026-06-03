@@ -16,7 +16,7 @@ low_temp(°C): 0
 training:
   - Yoga
 projects:
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 ---
 We had planned to head to Luleå today to help Nils and Barbara celebrate their birthdays. A couple of days ago my digestive track had been unhappy with me, in a messy sort of way, but had gotten better. This morning it was again unhappy with me, so I went back to bed for a couple of hours.
 

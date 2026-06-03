@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Hamburg
   - Copenhagen
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 Woke at 06:35 with the memory that I had seen yesterday  a "you can now check in" notification for today's flight, but hadn't done it at the time, so I decided to do that straight away this morning before getting up.
 
@@ -25,7 +25,7 @@ Then we found a place to charge my phone, and Tyndall and  Ellise von Styra join
 
 Then we went upstairs found some comfy chairs and settled in for hours of chatting before first Tyndall's flight time, and then Ellisa's. We each of us in turn got ice cream, because a flight is as good as a roadtrip. 
 
-![[Airport ice-cream.jpg]]
+![[2026-04-12 Airport ice-cream.jpg]]
 
 The flight started normally, but less than an hour into a 1.5 hour flight the captain called for a cabin crew person to come to the cockpit, after which the crew quit serving coffee, the seatbelt sign was lit, and we were instructed to prepare for landing. 
 

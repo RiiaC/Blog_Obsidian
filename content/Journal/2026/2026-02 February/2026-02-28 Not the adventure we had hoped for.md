@@ -13,7 +13,7 @@ training:
   - Pilates
   - Yoga
 projects:
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 tags:
   - car_trouble
 ---
@@ -33,7 +33,7 @@ One car driving by paused to ask if we needed help. That was nice of them. Event
 
 So, no errands for us today. The shop isn't open till Monday, so I won't know anything about prognosis before then. 
 
-The project I took with me is a bit of [[Mending#2026-02-28 nålbinding new cuffs for sweater|mending]], fixing sleeves on my blue sweater with the worn out cuffs, using 3 nålbindning stitches to one cuff rib. 
+The project I took with me is a bit of [[Mending and altering#2026-02-28 nålbinding new cuffs for sweater|mending]], fixing sleeves on my blue sweater with the worn out cuffs, using 3 nålbindning stitches to one cuff rib. 
 ![[2026-02-28 nålbindning on cuffs.jpg|500]]
 Between stitching as we travelled and then curling up on the couch at home, I managed to finish one cuff, and make a good start on the next.
 ![[2026-02-28 cuff.jpg|500]]

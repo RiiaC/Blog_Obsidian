@@ -14,7 +14,8 @@ training:
 projects:
 tags:
 ---
-Went in to Reengarda's crafts day, where I took in my pavilion inner roof
+Went in to Reengarda's crafts day, where I took in my [[Pavilion inner roof]]
+
 ![[2026-04-26 take in inner pavilion roof.jpg|500]]
 And helped pin bias tape around necklines of children's tabards for Medeltidsdagar.
 

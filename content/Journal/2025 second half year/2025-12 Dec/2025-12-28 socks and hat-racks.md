@@ -16,7 +16,7 @@ low_temp(°C): -3
 training:
   - Yoga
 projects:
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 ---
 In addition to being SCA, Hjalmar is also a member of a Karoliner reenactment group (late 1600's, early 1700's, during Sweden's "stormakt" time). Therefore, last year he taught himself knitting to make appropriate socks to wear with his knee breeches. Keldor saw that, and suggested he make me a pair, in dark blue, to go with my brown linen knee trousers.
 

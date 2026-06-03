@@ -12,7 +12,7 @@ weight(kg):
 training:
   - Yoga
 projects:
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
   - "[[Camp Northern Lights Mascot Banner]]"
 tags:
 ---
@@ -34,7 +34,7 @@ Eventually, I found it (just as I was feeling ready to gove up), and, to save ti
 
 That took up all of my available time, so I ran part of the way to the Busstation, and just got there on time to get on board before it departed.
 
-I had had Keldor in my hearing aids for the full in town adventure, so we kept chatting for most of the bus ride, too, and I just made more progress on my [[Mending#nålbinding new cuffs for sweater|mending a sweater with nålbindning]] as we continued to chat.
+I had had Keldor in my hearing aids for the full in town adventure, so we kept chatting for most of the bus ride, too, and I just made more progress on my [[Mending and altering#nålbinding new cuffs for sweater|mending a sweater with nålbindning]] as we continued to chat.
 
 He got home about 20 minutes before me, so spent a bit of time trying to dig through the snow berm at Bryan's 
 

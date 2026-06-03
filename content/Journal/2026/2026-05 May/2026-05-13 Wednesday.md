@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Double Wars
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 After yesterday's nice weather all day yesterday, it felt a little disappointing to wake to rain, though it was nice to sleep in. Keldor went into town to buy more ice for the ice box with the now thawing wild boar for tomorrow's grill party, and I had breakfast before heading over to the cabins so I could give a massage in payment for yesterday. 
 
@@ -24,7 +24,7 @@ Keldor was one of the artists to make the prize. He forged a steel cup/chalice, 
 
 I watched some of the fighting, and chatted with some people. At one point Attli had a problem with one of the strips of extra fabric on his fighting trousers breaking loose and the Marshall needing to tie them out of the way. 
 
-Therefore,  after the tournament I took Attli's trousers to mend as my sew during court project for which I received many thanks.
+Therefore,  after the tournament I took Attli's trousers to mend as my sew during court project, for which I received many thanks.
 
 
 Previous post: [[2026-05-12 bardic!]]

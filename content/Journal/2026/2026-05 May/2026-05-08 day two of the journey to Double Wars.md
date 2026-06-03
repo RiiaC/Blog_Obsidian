@@ -37,7 +37,7 @@ They decided to bring her into the hospital, and we started driving towards site
 
 As it turned out, we managed to arrive on site at 17:40. After checking in we unloaded the car (with pauses on Keldor’s part to discuss camp laout plans with the others now that the full extent of our land allotment is known, and I kept unloading and sorting stuff into related piles for easier finding later).
 
-By the time the car was empty the plan was complete, so I started putting up my pavilion while Keldor took the car to the parking lot.  He was back by the time I needed help, and then I started moving in while he set up other tents.
+By the time the car was empty the plan was complete, so I started putting up my [[Pavilion]] while Keldor took the car to the parking lot.  He was back by the time I needed help, and then I started moving in while he set up other tents.
 
 It was full dark by the time the tents were done, so the sunshades needed to wait for tomorrow. He sat down and ate something our camp mates fed him, while I finished enough of the moving in and organising of stuff that I was starting to think perhaps it was bed time.
 

@@ -15,8 +15,8 @@ The Crown of Charlemagne
 # Progress 
 # [[2026-04-11 Crown Tournament]]
 Tested the camera holder by filming Keldor’s fights at Crown
-![[Charlemagne camera.jpeg]]
-![[Charlemagne camera holder.jpeg]]
+![[2026-04-11 Charlemagne camera.jpeg]]
+![[2026-04-11 Charlemagne camera holder.jpeg]]
 # [[2026-04-09 a visit from my apprentice|2026-04-09]]
 Finished covering the cookie tubs with vadmal, so now it is possible to put the camera holder and mounted camera inside, padded with nålbinded socks,  and pin the case shut for travel. 
 # [[2026-03-31 a bit more energy today|2026-03-31]]

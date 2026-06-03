@@ -7,6 +7,8 @@ catagory: Other crafts
 completed:
 stitch: Finnish stitch
 ---
-Started at Drachenwald Crown, just because I needed something to figit with that didn't need focus.
+One pair started at Drachenwald Crown, just because I needed something to figit with that didn't need focus.
+
+Another made some ti e before that, but I didn't write down when.
 
 Assuming there is enough yarn to finish a pair, I may make a gift for Tania  when we visit before Strawberry Raid.

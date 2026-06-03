@@ -13,13 +13,13 @@ training:
   - Yoga
   - Pilates
 projects:
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 tags:
 ---
 Woke around 01:00 thinking of how to use SEAD Shape Shifter to do mapping of my LA-ICP-MS masters data. Jotted down notes so I wouldn't forget,  and tried to go back to sleep. 
 Then remembered the replies in the Quartz Discord channel to my question about how to set things up to be able to publish my blog from my phone, and the one of them had mentioned having separate Obsidian vault and Quartz. So I [asked a follow up question](https://discord.com/channels/927628110009098281/927628110009098284/1473475618812461239) and then spent time copying the full conversation i to my blog fixing notes folder for easier looking things up later.
 
-Then I got another almost three hours sleep before Keldor’s alarm went off. Since I am working from home today, I spent the morning phone call plus a few extra minutes [[Mending#2026-02-18 2026-02-18 mending|mending one of my wool five-toe socks]]. I probably should buy some more. The cotton ones are also wearing out, and they are harder to mend.
+Then I got another almost three hours sleep before Keldor’s alarm went off. Since I am working from home today, I spent the morning phone call plus a few extra minutes [[Mending and altering#2026-02-18 2026-02-18 mending|mending one of my wool five-toe socks]]. I probably should buy some more. The cotton ones are also wearing out, and they are harder to mend.
 
 Despite feeling tired, I made slow amd steady progress at work, managing to learn how to get SEAD Shape Shifter to give a unique list of the elements in the dataset and assign the correct element type numbers to each. Now that I am getting the hang of it  I see how this will be a very useful tool.
 

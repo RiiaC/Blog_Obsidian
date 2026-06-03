@@ -14,7 +14,7 @@ training:
 projects:
 tags:
 ---
-A busy day of packing, mending, and relaxing. No notes taken, but lots accomplished.
+A busy day of packing, mending, and relaxing. No notes taken, but lots accomplished, including starting to add black silk channels to the edges of the [[Mending and altering#2026-05-02 Double Wars prep at home|Reengardas silk banners]].
 
 
 Previous post: [[2026-05-01 May day holiday at home]]

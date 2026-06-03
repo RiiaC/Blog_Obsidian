@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Hamburg
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[My viking coat]]"
   - "[[Blue handwarmers]]"
+tags:
 ---
 I finished the outline (started yesterday) of a reindeer head with knotwork antlers on the chest of [[My viking coat]] while Keldor armoured up.
 
@@ -22,14 +22,14 @@ They ran the tournament in a "Canterbury" style, which means each fighter held t
 
 This was my first chance to test [[Charlemange's camera holder]], and it seemed to work well. 
 
-![[Charlemagne camera holder.jpeg]]
+![[2026-04-11 Charlemagne camera holder.jpeg|500]]
 (Thanks Oriane for the cute photos of filming in progress!)
 
 We have no idea how much battery the GoPro has, so I filmed only Keldor’s bouts, and finals.
 
 Turing it on, and starting the filming turned out to be easy to do while wearing it, just reach up and press the button.
 
-![[Charlemagne camera.jpeg]]
+![[2026-04-11 Charlemagne camera.jpeg|500]]
 
 After the tournament I was tired, so after chatting a bit with people I packed away the [[Charlemange's camera holder]] and fishing rods we used as banner poles, and snacks,  and hung the banners back up in the hall. Then I went and took a shower and a 15 minute nap, and then put on my [[2025 purple-blue silk bliaut short tunic]] for the evening and returned to the main hall for a couple hours of social time before court. 
 

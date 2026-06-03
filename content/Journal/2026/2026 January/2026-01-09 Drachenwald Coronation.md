@@ -19,7 +19,7 @@ training:
   - Yoga
 projects:
   - "[[2025 purple-blue silk bliaut short tunic]]"
-  - "[[Mending]]"
+  - "[[Mending and altering]]"
 tags:
   - roadtrip
   - SCA
