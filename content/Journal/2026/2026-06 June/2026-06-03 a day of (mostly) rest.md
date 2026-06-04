@@ -25,7 +25,9 @@ We got some of the tape off before the arrival of his friend, who needed quick h
 
 So Keldor made them a quick metal box and attached it to the back end of the kid's A-traktor, and they were happy. The box is similar in size to a planting box to hang outside a house window, so we suggested that he stick some plastic flowers back there. Keldor suggested also adding death skulls, as he has death skulls between the flowers in our window.
 
-After that was accomplished Keldor quickly attached a temporary metal band to function in place of the missing inside door handel on his car, until he can get around to fixing it properly, after which we picked up some groceries, went home and put away a few things, and suddenly it is already 20:00
+After that was accomplished Keldor quickly attached a temporary metal band to function in place of the missing inside door handel on his car, until he can get around to fixing it properly, after which we picked up some groceries, went home and put away a few things, and suddenly it was already 20:00.
+
+So I sat to the computer to "quickly" update my blogs, but it was well after 22:00 before I finished attaching my photos from the [[2026-05-13 LSPD|Double Wars LSPD]], and I didn't even start the photos from the [[2026-05-31 LSPD Strawberry Raid|Strawberry Raid LSPD]]. But it was feeling late, so I pushed that much through Github to my blog, and started doing before bed chores, including unpacking my backpack so I could pack the computer for tomorrow, and suddenly it is 23:30, and I should do yoga and head to bed (Keldor fell asleep on the couch long ago).
 
 
 Previous post: [[2026-06-02 journey home]]
