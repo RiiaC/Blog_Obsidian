@@ -1,25 +1,25 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Ireland
 location:
   - Sigginstown_Castle
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Red wool and garnet neck and sleeves]]"
+tags:
 ---
 I slept till 09:30, and then updated yesterday's log. Keldor went to the archery range, where he lost the Drachenwald Archery Challenge baldric to Elisa in a game of 21 (Yannik accidentally shot 22, so he was out--it is hard to hit the edge of the target when one is used to aiming at the middle).
 
 Before I knew it, it was already 11:00, and my tummy was demanding breakfast, and my body wishing for better shade than the double walls of this modern tent.
 
-So I got up, nibbled a little breakfast, and spent  some time wandering from one shady area to another, chatting with people.  I chatted (in Swedish) with Maggie. I chattted with Kolskeggr and `__`, who are from Sweden,  but live in Ireland.  Kolskeggr hand-sewed their cute little tent.
+So I got up, nibbled a little breakfast, and spent  some time wandering from one shady area to another, chatting with people.  I chatted (in Swedish) with Maggie. I chatted with Kolskeggr and Kethla, who are from Sweden,  but live in Ireland.  Kolskeggr hand-sewed their cute little tent.
 
 I chatted with Elisabeth de Rossignol and Gera Gangolffin. Gera, who is apprentice to Aryana (to whom I was once apprenticed), showed me photos of their stone house in France.  A chatted with Angharad, setting up dor the Intro to Bilauts class (later, I dropped by the end of that class).
 

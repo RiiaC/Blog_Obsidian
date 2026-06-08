@@ -74,3 +74,6 @@ views:
       - location
       - country
       - projects
+    sort:
+      - property: location
+        direction: ASC

@@ -1,7 +1,7 @@
 My inspiration for this is [Cariadoc's recipe for Hais](https://www.pbm.com/~lindahl/cariadoc/desserts.html#1), which I first tried in the 1990's, but my version became very, very different early on, adding in a much greater variety of nuts, seeds and dried fruits than the original, never using sugar, and, after moving to Sweden, eliminating the breadcrumbs, so that my gluten intolerant friends can eat it. Back when I used breadcrumbs I oiled my hands with butter when rolling them, because I like butter better than oil. These days I use almond oil, since there are almonds in them (and so dairy intolerant friends can eat it, besides anyone with an almond allergy is already avoiding it). I usually make a big batch every year in the spring, and then take them to camping events all summer, and any that are left after camping season I usually keep in my backpack for emergency snacks, and they always are eaten before the end of the year.
 
 Some years I use my food processer, some years the hand crank meat grinder. Either way, I first grind all of the nuts and seeds, one type at a time, then all of the fruit, one type at a time, then a mix it all together in a big bowl, and grind it all again, a bit at a time, before blending it all one more time and rolling balls. I usually use a measuring spoon and make them 1 teaspoon in size.
-![[Pasted image 20260430072040.png|500]]
+![[2026-04-30 hais.png|500]]
 # 2026 batch of hais:
 - 2 c pistachios
 - 0.5 c almonds

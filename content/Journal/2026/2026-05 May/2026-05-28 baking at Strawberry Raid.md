@@ -1,26 +1,26 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image: "[[2026-05-28 baking.jpg]]"
 country:
   - Ireland
 location:
   - Sigginstown_Castle
-image: "[[2026-05-28 baking.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 Slept 8 hours, but part way through the night I needed to move the doona to under me and over the air mattress, so I had only my [[My viking coat]], [[Viking Cloak]], and [[2024 Keldor’s laurel caftan]] for covers, as the cold from the air mattress was too much. Alas, I couldn't convince Keldor to move, so he stayed under the doona as I slept over it.
 
 So I woke with the resolve that I need to get another ride to town today to buy another duvet.  
 
-I started my morning with funishing my notes for yesterday, and typing the above.  In the time it took me to do that Keldor also woke, and decided to go over to the barn to get some tea, as we saw a water kettle there yesterday. 
+I started my morning with finishing my notes for yesterday, and typing the above.  In the time it took me to do that Keldor also woke, and decided to go over to the barn to get some tea, as we saw a water kettle there yesterday. 
 
-So I started making the bed, and he took his new tea mug and wandered off, returning in the depths of dispair before I finished the bed, as the water kettle had disappeared.  Poor thing.
+So I started making the bed, and he took his new tea mug and wandered off, returning in the depths of despair before I finished the bed, as the water kettle had disappeared.  Poor thing.
 
 I paused with bed making, and got him a puffed rice treat, which he took, but was not cheered. So I took his tea cup out into the camp, found folk around the fire, and asked if they had hot water to spare for my fighter. They had a kettle going which would soon be hot, and they, too, were mystified at the disappearance of the watter kettle.
 
@@ -54,15 +54,19 @@ We baked and ate that batch, yum! and I got permission to use Gwerful' mixing bo
 
 So while Gwerful prepared for court, I shaped the second batch of rolls (to empty the mixing bowl), and set them near the oven to rise as I mixed up the oatcakes and rolled them out. I covered them with a cloth as I baked the rolls, and then did the washing up after class as my oatcakes baked, feeding bread rolls to random people passing by.
 
-When I was done I left a a bowl of covered bread rolls by the clean dishes, and hurried to Etienne's clsss on 14th Century Fashions in Armour,  in the castle, which was full of information and photos of effigies, manuscript illuminations, extant armour, reproductions of armour, and a very knowledgeable discussion as to how/where/when/why trends arose across Europe before, during, and after the 14th Century. Etienne explained that the goal is to become good enough at atmour making to produce good examples of these, but in the meantime, here is the research that backs up the practical learning in progress. 
+When I was done I left a a bowl of covered bread rolls by the clean dishes, and hurried to Etienne's class on 14th Century Fashions in Armour,  in the castle, which was full of information and photos of effigies, manuscript illuminations, extant armour, reproductions of armour, and a very knowledgeable discussion as to how/where/when/why trends arose across Europe before, during, and after the 14th Century. Etienne explained that the goal is to become good enough at armour making to produce good examples of these, but in the meantime, here is the research that backs up the practical learning in progress. 
 
 Then it was nearly time for Curia, which went quickly and smoothly, as the proposed changes to Kingdom Law are not controversial, followed by evening Court.
 
-Many joyful awards presented, including an AoA for Juliette, my shopping spree friend from yeasterday,  and an AoA for a guy who has been in the SCA for decades, and never got one.
+Many joyful awards presented, including an AoA for Juliette, my shopping spree friend from yesterday,  and an AoA for a guy who has been in the SCA for decades, and never got one.
+
+Their Highnesses "Brute Squad" were presented with some really nice axes:
+![[2026-05-28 brute squad axes.png|500]]
+*(photo by Agnes)*
 
 Keldor formally took Erin as an apprentice, to much joyful applause/noise, and then the Prince and Princess took her as their armoured combat Champion for their Reign,  which met with more joyful noise!
 
-Of course, the highlght of the evening was sending Aodhan to vigil to contemplate joining the order of the Pelican. 
+Of course, the highlight of the evening was sending Aodhan to vigil to contemplate joining the order of the Pelican. 
 
 We stayed up chatting with folk till nearly 01:00, and Keldor and I may have wound up as a combined Laurel mentor for another friend, who is confident in their abilities to progress in their art, but would love someone to serve as a soundboard, and willingness to give feedback along the lines of "you are being too much".
 
