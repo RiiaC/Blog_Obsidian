@@ -11,7 +11,8 @@ in the threshold of the year.
 
 > And here's a dram to warm the piper,
 > here's a dram to warm the hall,
-> here's a dram to raise the rafters,here's a long life to you all!
+> here's a dram to raise the rafters,
+> here's a long life to you all!
 
 Here we tie the knot as lovers.
 Here we raise the toast as friends.
@@ -20,12 +21,13 @@ in a dance that never ends.
 
 We'll forget about tomorrow,
 we're protected from it here,
-as we drink our fill together 
+as we drink our fill together
 from the tankard of the year.
 
 > And here's a dram to warm the piper,
 > here's a dram to warm the hall,
-> here's a dram to raise the rafters,here's a long life to you all!
+> here's a dram to raise the rafters,
+> here's a long life to you all!
 
 Crack the seal off of the bottle,
 light the fire beneath the still,
@@ -39,8 +41,9 @@ in the cradle of the year.
 
 > And here's a dram to warm the piper,
 > here's a dram to warm the hall,
-> here's a dram to raise the rafters,here's a long life to you all!
+> here's a dram to raise the rafters,
+> here's a long life to you all!
 # Sound File, Dram for the Piper
-This recording was made at one of the Oerthan hosted bardic circles at the SCA 30-year celebration in An Tir. It was recorded by Alessandro Cantori, and digitised many years later by Thorvald Grimsson.
+This recording was made at one of the Oerthan hosted bardic circles at the SCA 30-year celebration in An Tir. It was recorded to tape by Alessandro Cantori, and digitised many years later by Thorvald Grimsson.
 
 ![[Dram_for_the_Piper.mp3]]
