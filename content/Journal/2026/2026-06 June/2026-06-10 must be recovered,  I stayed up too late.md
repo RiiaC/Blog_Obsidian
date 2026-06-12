@@ -1,19 +1,19 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
+tags:
 ---
 # Work
 I went in to work today for the Swedigarch Monthly meeting, and left the meeting inspired and energised about work, so I guess this means that I not only have a fun job, but good colleagues, too.

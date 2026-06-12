@@ -1,20 +1,20 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
   - Umeå
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
+tags:
 ---
 # This morning 
 Despite my late night last night, I managed to get up on time this morning and took the bus to town.
