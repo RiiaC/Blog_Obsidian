@@ -2,7 +2,8 @@ The Laurel Sponsored Prize Display at Strawberry Raid this year was three hours 
 ![[2026-05-31 LSPD Strawberry Raid.png]]
 I didn't manage real notes about the conversations, but I got a photo of most of the people, and jotted a word or three about what they displayed:
 # Lissette de la rose
-Salt display
+Salt display. 
+See also https://sites.google.com/view/the-saltier-salter/home
 ![[2026-05-31 Lissette de la rose.jpg|500]]
 # Maria Harsick
 Fingerloop braid, kuteuchi, and lace
@@ -46,9 +47,7 @@ Scribal
 ![[2026-05-31 Kytte of the Lake.jpg|500]]
 # Reginald van  der Viers
 Re-worked a spoon, knife, and a nail, to make feast gear, and made a case for them.
-- [ ] find out if anyone got a photo, I failed to
-
-
+![[2026-06-08 Reginald.jpg|500]]
 
 
 

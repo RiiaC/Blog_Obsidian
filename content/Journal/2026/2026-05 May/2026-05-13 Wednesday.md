@@ -16,7 +16,7 @@ tags:
 ---
 After yesterday's nice weather all day yesterday, it felt a little disappointing to wake to rain, though it was nice to sleep in. Keldor went into town to buy more ice for the ice box with the now thawing wild boar for tomorrow's grill party, and I had breakfast before heading over to the cabins so I could give a massage in payment for yesterday. 
 
-Then I had time to eat before heading to the [[2026-05-13 LSPD|Laurel Sponsored Prize Display (LSPD)]], after which I was going to head to Choir,  as was Aud, but Tyra had just returned from there saying that they had already given up for the day, as only four people showed up, including the director. I didn't look at my phone, but I assume from this that the LSPD ran late.
+Then I had time to eat before heading to the [[2026-05-13 LSPD Double Wars|Laurel Sponsored Prize Display (LSPD)]], after which I was going to head to Choir,  as was Aud, but Tyra had just returned from there saying that they had already given up for the day, as only four people showed up, including the director. I didn't look at my phone, but I assume from this that the LSPD ran late.
 
 So I wandered over to see some of the *Claw of Drachenwald* tournament. This was a tournament sponsored by some of the squires, who wanted to see their knights fighting their best and showing how it is done, with no consequences of a job if they win. So they invited all knights (and only knights) to a tournament, with a rotating prize, that the winner wll pass on to next year's winner.
 

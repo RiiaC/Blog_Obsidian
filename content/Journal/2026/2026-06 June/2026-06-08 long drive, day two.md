@@ -1,29 +1,29 @@
 ---
 also_on_Dreamwidth: Not yet
+photos_pubished:
+image:
+country:
+  - Sweden
+location:
+  - Sundsvall
+  - Högakuaten
+  - Skuleberget
+  - Örnsköldsvik 
+  - Umeå
+  - Roadtrip
+  - Tönnebro
+high_temp(°C):
+low_temp(°C):
+weight(kg):
+training:
+  - Yoga
+projects:
 tags:
   - roadtrip
   - junk_food
   - yummy_snacks
   - lucky_find
   - second_hand_stores
-country:
-  - Sweden
-location:
-  - Sundsvall
-  - Högakuaten
-  - Skulleberget
-  - Örnsköldsvik 
-  - Umeå
-  - Roadtrip
-  - Tönnebro
-image:
-photos_pubished:
-weight(kg):
-high_temp(°C):
-low_temp(°C):
-training:
-  - Yoga
-projects:
 ---
 I slept at Tönnebro till 02:15, did some yoga, and started driving again at 02:47.
 

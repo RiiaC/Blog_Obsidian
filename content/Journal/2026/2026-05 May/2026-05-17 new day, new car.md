@@ -11,7 +11,7 @@ location:
   - Sala
   - Tönnebro
   - Sundsvall
-  - Skulleberget
+  - Skuleberget
   - Roadtrip
 image: "[[2026-05-17 Keldor’s new car.jpg]]"
 photos_pubished:
