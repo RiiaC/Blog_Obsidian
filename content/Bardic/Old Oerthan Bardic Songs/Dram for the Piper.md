@@ -40,12 +40,7 @@ in the cradle of the year.
 > And here's a dram to warm the piper,
 > here's a dram to warm the hall,
 > here's a dram to raise the rafters,here's a long life to you all!
-# Recording
+# Sound File, Dram for the Piper
 This recording was made at one of the Oerthan hosted bardic circles at the SCA 30-year celebration in An Tir. It was recorded by Alessandro Cantori, and digitised many years later by Thorvald Grimsson.
 
-# sound file using html coding, works in Obsidian
-<audio controls src="content/static/audio/Dram_for_the_Piper.mp3"></audio>
-# sound file using html coding, copilot says this will work in the blog
-<audio controls src="/audio/Dram_for_the_Piper.mp3"></audio>
-# sound file using same Obsidian format that works for images, copilot says that it will work in both places (it does work in Obsidian)
 ![[Dram_for_the_Piper.mp3]]
