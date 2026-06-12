@@ -1,14 +1,14 @@
 ---
-year: "2015"
 title: Prologue to the Canterbury Tales
+image: "[[Prologue to the Canterbury Tales.jpg]]"
+Author: Chaucer
+language:
+  - English
+Norrskens_Bard_contest_year: "2015"
 form:
   - Poem
   - Iambic_pentameter
 round: Period Piece
-language:
-  - English
-Author: Chaucer
-image: "[[Prologue to the Canterbury Tales.jpg]]"
 ---
 > [!info]+ I memorised this back in high school, for my Middle English class.
 > Therefore, I chose it as my period piece for the first year's Norrskensbard contest, as I already knew it, and, as the event steward, I needed time for event prep, and finishing the [[2015 Norrskensbard Mantel|Norrskensbard Mantel]]

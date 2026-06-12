@@ -1,18 +1,19 @@
 ---
-year: "2015"
 title: Winter time it has arrived
+image: "[[Wintertime.jpg]]"
+Norrskens_Bard_contest_year:
+  - "2015"
+  - "2016"
 form:
   - Filk
   - Song
   - Period
 tune: Sumer is a cumin in
 theme: Nature
-round: Piece in a Period Style
-image: "[[Wintertime.jpg]]"
+round:
+  - Piece in a Period Style
+  - Bard's Choice
 ---
-> [!info]+ re-used for 2016's contest for the Bard's Choice round
-> for the theme of Nature, which was selected by Gerdis as outgoing Norrskensbard.
-
 Winter time it has arrived,
 Gladly sing woo-hoo!
 Crystal trees
@@ -50,3 +51,6 @@ the silver and the blue.
 
 
 ![[Wintertime.jpg]]
+
+> [!info]+ re-used for 2016's contest for the Bard's Choice round, for the theme of Nature, which was selected by Gerdis as outgoing Norrskensbard.
+

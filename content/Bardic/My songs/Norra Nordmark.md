@@ -1,15 +1,15 @@
 ---
-year: "2015"
 title: Norra Nordmark
+language:
+  - Swedish
+  - English
+Norrskens_Bard_contest_year: "2015"
 form:
   - Filk
   - Period
   - Song
 tune: Bacce beni venies
 theme: Norrsken or Norra Nordmark
-language:
-  - Swedish
-  - English
 round: Bard's Choice
 ---
 > [!info]+ two themes in one
