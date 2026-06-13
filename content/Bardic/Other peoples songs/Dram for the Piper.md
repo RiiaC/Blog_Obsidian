@@ -51,6 +51,7 @@ In the cradle of the year
 > here's a dram to raise the rafters,
 > here's a long life to you all!
 # Sound File, Dram for the Piper
-This recording was made at one of the Oertha-hosted bardic circles at the SCA 30-year celebration in An Tir. It was recorded to tape by Alessandro Cantori, and digitised many years later by Thorvald Grimsson.
+>[!info] This recording was made at one of the Oertha-hosted bardic circles at the SCA 30-year celebration in An Tir. 
+>It was recorded to tape by Alessandro Cantori, and digitised many years later by Thorvald Grimsson.
 
 ![[Dram_for_the_Piper.mp3]]

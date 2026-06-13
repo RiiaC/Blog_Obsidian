@@ -1,6 +1,6 @@
 # The inspiration 
 On [[2026-06-10 must be recovered,  I stayed up too late|2026-06-10]] I was hungry for the *Burnt smör och röstade mandle kolastång* that I sometimes buy from the local Saluhall, but they were closed, and I had eaten too much junk driving home from Vadstena on Sunday/Monday anyway, so it was good I didn't have any. However, there was a little cream left from the house sitter, so why not try making something from that which has the brown butter and roasted almond flavour I love, but much, much less sugar?
-# The recipe created [[2026-06-10 must be recovered,  I stayed up too late|2026-06-10]] 
+# version 1, [[2026-06-10 must be recovered,  I stayed up too late|2026-06-10]] 
 - 80 g butter
 - 1.5 dl almonds
 - 1 dl cream (35% fat)

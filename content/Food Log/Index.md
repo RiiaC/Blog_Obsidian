@@ -1,3 +1,6 @@
+---
+title: My food log
+---
 # My Food Log
 
 When I enrolled in my PhD program in Tasmania, in 2005, i started keeping detauled logs of how I spent my time, so I would later be able to look it up if I ever wondered "*why isn't my thesis done yet?*"
