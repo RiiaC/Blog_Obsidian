@@ -1,7 +1,7 @@
 ---
 also_on_Dreamwidth: Not yet
 photos_pubished:
-image:
+image: "[[2026-06-13 dancing.jpg]]"
 country:
   - Sweden
 location:
@@ -13,7 +13,9 @@ low_temp(°C):
 weight(kg):
 training:
   - Yoga
+  - Folk_dance
 projects:
+  - "[[Red wool and garnet neck and sleeves]]"
 tags:
 ---
 This morning we drove up to Luleå, arriving to Gammelstad just after 10:00. Keldor dropped me off at the parking area, and I had just time to go to the loo and to change into my folk costume (I didn't see any point in wearing it for a two hour drive), before the day's opening procession began. In all previous years I have attended I have walked with this procession, so it was interesting to watch it coming, instead, and I even remembered that I own a camera, and that it will do films. I have made no attempt at editing it, but if you want a glimpse of that part of my day, here it is.
@@ -28,6 +30,8 @@ This morning we drove up to Luleå, arriving to Gammelstad just after 10:00. Kel
 </iframe>
 
 After filming that, and chatting with a few people, I joined the people in Danskul for a quick rehearsal of our performance, and was delighted to be recruited for two additional dances over and above the one I had planned on. After rehearsal we had a bit of time to relax and chat before it was our turn on the stage. The performance was fun, I love dancing!
+
+![[2026-06-13 dancing.jpg|500]]
 
 Then I chatted with a few more people, till the series of dance workshops started. They were all at beginner level, but all dancing is fun, so I joined them for every set. Each workshop was 30 minutes, and had a different teacher. 
 
