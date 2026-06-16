@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image: "[[2026-06-14 five.jpg]]"
 country:
   - Sweden
 location:
   - Lövånger
-image: "[[2026-06-14 five.jpg]]"
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
   - Manual_labour
 projects:
   - "[[Create extra bathrooms]]"
   - "[[Deck, door, ramp, and hot tub]]"
+tags:
 ---
 # attempt at removing concrete slabs from the lawn
 One if the things that needs doing before we can install the hotbtub and build the deck ([[Deck, door, ramp, and hot tub]]) is removing the concrete slabs that serveds as garden frames that the first owner installed to surround the flower beds. I imagine these once stood up above the adjacent lawn and made a lovely frame. (The neighbours who remember that first owner tell me that this yard had the prettiest garden in Lövånger.) Today, however, the grass/soil goes all the way to the tops of the concrete on both sides.
