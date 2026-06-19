@@ -17,7 +17,7 @@ tags:
 ---
 I started the day with painting a second coat of paint on the new bathroom wall in the cellar while chatting on the phone with Keldor as he drove to work. Next up: the lists.
 
-Then I managed a full, and productive day at work, after which I spend a couple of hours baking a batch of [[Homemade Crackers]] as his birthday week treat of the day. I did, however, make a full batch, which means we have them to take with us to Broken Arrow this weekend.
+Then I managed a full, and productive day at work, after which I spend a couple of hours baking a batch of [[Homemade Crackers]] as his birthday week treat of the day. I did, however, make a full batch, which means we have them to take with us to Broken Arrow at the end of the month.
 
 Then I won a game of Qwirkle, did my yoga, and updated Reengarda's financial records to show the recent payments for people and merchants registering for Medeltidsdagarna, and somehow the day is gone and I should head to bed soon.
 

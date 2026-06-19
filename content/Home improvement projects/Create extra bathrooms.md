@@ -7,7 +7,31 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
-## [[2026-05-05 Rörmokaren kommer tillbaka! 1]]
+## [[2026-06-19 another productive day at home|2026-06-19]]
+Painted ceiling and the windows frame h (and a temporary wall leaning over the window opening has been put up to keep animals and insects out till it is dry enough to put back the window).
+
+![[2026-06-19 celing.jpg|300]]
+
+I also experimented with using the cute dinosaur stencils that Agnes gave us to make some raised spackel critters on the wall. Keldor says that he will later paint a landscape for them to exist in.
+Ready for spackel:
+![[2026-06-19 stencils.jpg|300]]
+With spackle:
+![[2026-06-19 stencilef.jpg|300]]
+## [[2026-06-17 Keldor’s birthday week,  day 3|2026-06-17]]
+found the baseboards we will use in the downstairs bathroom and brought them down from the attic.
+## [[2026-06-16 Keldor's birthday week, day 2|2026-06-16]]
+I started the day with painting a second coat of paint on the new bathroom wall in the cellar. 
+# [[2026-06-15 Keldor's birthday week, day 1|2026-06-15]]
+putting spackel on the bathroom wall in the cellar where the old wiring to the old washer used to be. The electrician disconnected those wires months ago, but we only just got around to taking away the box and the tube the wires ran in. Several layers, some of the spots were deep, and needed to dry in between layers.
+## [[2026-06-14 productive day at home|2026-06-14]]
+I dug out the old concrete slab garden bed dividers.
+![[2026-06-14 betong plattor.jpg|300]]
+
+## [[2026-06-11 a kindred spirit|2026-06-11]]
+I painted a coat of wet room primer paint over the wet room wallpaper on the new wall in the downstairs bathroom. 
+## [[2026-06-10 must be recovered,  I stayed up too late|2026-06-10]]
+ I cut the fibreglass wallpaper to cover the wall in the downstairs bathroom, and we hung the paper. Now we can paint the walls tomorrow. 
+## [[2026-05-05 Rörmokaren kommer tillbaka!|2026-05-05]]
 - Niklas came back to install the attic toilet and sink
 before fika progress:
 ![[2026-05-05 before fika.jpg|500]]

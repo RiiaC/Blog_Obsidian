@@ -1,6 +1,6 @@
-I rarely make these the same way twice, and tend to just toss whatever sounds good in a bowl, without looking at a recipe first, but I keep coming back to them as they are yummy. Once in a while I write down what I put in them, and these will be recorded here.
+Or, as we say in English, crumble. I rarely make these the same way twice, and tend to just toss whatever sounds good in a bowl, without looking at a recipe first, but I keep coming back to them as they are yummy. Once in a while I write down what I put in them, and these will be recorded here.
 
-Sometimes I use no sugar at all, others, I add a little, but way, way less than most recipes call for.
+Sometimes I use no sugar or honey at all, others, I add a little, but way, way less than most recipes call for.
 # An apple-rhubarb-walnut-cimmamon smulpaj for [[2026-06-15 Keldor's birthday week, day 1]]
 ## Filling
 - 3 apples
@@ -142,9 +142,9 @@ Topping:
 
 Filling made from just under half of the below, after it was mixed (I used the rest of the filling to make a non-gluten free version)
 - 3 c black currants (frozen and chopped in a food processor)
-- 2 c apple
+- - 2 c apple
 - 2 c pear 
-- 1.5 c kiwi
+- - 1.5 c kiwi
 # there are many more in the recipe section of my logs on the phone that can be copied over another day
 
 

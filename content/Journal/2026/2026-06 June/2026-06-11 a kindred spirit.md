@@ -34,7 +34,7 @@ But as soon as that was accomplished he went to make some popcorn, the perfect s
 
 He popped a big batch, and I took some in a smaller bowl with some nutritional yeast, and he took the rest in the huge bowl, with some spices, and we happily read for a while.
 # Home improvements 
-Evenually, he got sleepy and curled up on the couch for a nap, and I got up, washed the dishes, and went downstairs to paint a coat of wetroom primer paint over the wetroom wallpaper on the new wall in the bathroom. 
+Eventually, he got sleepy and curled up on the couch for a nap, and I got up, washed the dishes, and went downstairs to paint a coat of wet room primer paint over the wet room wallpaper on the new wall in the bathroom. 
 # Change in plans
 We had planned to head to Luleå tomorrow directly after work for the first night of Spelmansstämman. This would have meant my heading in with him in the morning, and working at his dad's till he was done.
 

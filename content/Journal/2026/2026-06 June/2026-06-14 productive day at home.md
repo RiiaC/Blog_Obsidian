@@ -18,27 +18,27 @@ projects:
 tags:
 ---
 # attempt at removing concrete slabs from the lawn
-One if the things that needs doing before we can install the hotbtub and build the deck ([[Deck, door, ramp, and hot tub]]) is removing the concrete slabs that serveds as garden frames that the first owner installed to surround the flower beds. I imagine these once stood up above the adjacent lawn and made a lovely frame. (The neighbours who remember that first owner tell me that this yard had the prettiest garden in Lövånger.) Today, however, the grass/soil goes all the way to the tops of the concrete on both sides.
+One if the things that needs doing before we can install the hot tub and build the deck ([[Deck, door, ramp, and hot tub]]) is removing the concrete slabs that served as garden frames that the first owner installed to surround the flower beds. I imagine these once stood up above the adjacent lawn and made a lovely frame. (The neighbours who remember that first owner tell me that this yard had the prettiest garden in Lövånger.) Today, however, the grass/soil goes all the way to the tops of the concrete on both sides.
 
 When I woke up this morning at 06:30 or so, I decided that it would make sense to get up and try dealing with pulling them out of the lawn, while it was early enough that part of the lawn would be in shade, and the temperature still reasonable. 
 
-This was a good plan, but that first owner of the house did a very good job at installing them, butted together end to end so tightly that even removing a row of grass/soil along the full efge of one slab wasn't enough to get it free.
+This was a good plan, but that first owner of the house did a very good job at installing them, butted together end to end so tightly that even removing a row of grass/soil along the full edge of one slab wasn't enough to get it free.
 
 I was felling hungry, so I gave up, went in, and had breakfast and read a book for a while.
 # work smarter  not harder 
 By the time I put the book down and washed my bowl, Keldor had woken. When I tolk him og my failure to excavate even one slab, he gave me a valuable tip: further along the row of slabs there is one which sticks up further than the others (and which he always need to be careful to avoid when mowing the lawn there).
 
-So I put on my hat, gloves, rain boots, and sweater (it was raining gently, so even though it was later in the morning, the temperature was still pkeasant), and went looking for that block  
+So I put on my hat, gloves, rain boots, and sweater (it was raining gently, so even though it was later in the morning, the temperature was still pleasant), and went looking for that block  
 
 Sure enough, one of the slabs was broken, and the shorter end was tilted a bit ro stick up. How easily that section lifted out of the lawn! And the ones next to it weren't much harder, now that one end had been freed from pressure from their neighbours. 
 
 ![[2026-06-14 betong plattor.jpg|500]]
 
-I had enough energy to remove 11 of them (all of ne row, and half of the other before going in for a nap. 
+I had enough energy to remove 11 of them (all of one row, and half of the other before going in for a nap. 
 
 The hardest part was where they went under the clump of mixed bushes, which will need to be removed  before we build the deck. It was necessary to braid the various branches on each side of the slab to keep them out of the way.
 
-Some of those plsnts are raspberries, which already have tiny green berries started. I wonder it it will be possible to transplant them to the other corner of the yard without harming the growing fruit?
+Some of those plants are raspberries, which already have tiny green berries started. I wonder it it will be possible to transplant them to the other corner of the yard without harming the growing fruit?
 # tool repair
 When I got up after my nap, I found Keldor in the cellar, happily testing his new Tormek knife sharpening tool to fix some old chissels that had gotten in very bad shape over the years.
 
