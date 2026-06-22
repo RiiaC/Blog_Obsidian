@@ -20,4 +20,4 @@ A busy day, after work a little packing,  then we drove into town to drop off st
 
 I had hoped to do more packing thereafter, but it was late, so I baked some [[Hallon eld småkakor]], did my yoga and went to bed. 
 
-Previous post: [[2026-05-05 Rörmokaren kommer tillbaka! 1]]
+Previous post: [[2026-05-05 Rörmokaren kommer tillbaka!]]

@@ -4,6 +4,10 @@ catagory: Mending
 A list of mending projects that aren't getting their own notes.
 - [ ] add an entry for the reengarda banners pole channel done in Ireland, and the one done on the ride to Double Wars
 - [ ] is there an entry for our silk banners, which got their channels the week before Double Wars?
+# [[2026-06-21 the neighbour's garage sale|2026-06-21]] blue t-shirt 
+I bought a robin's egg blue t-shirt at a second had store in 2018 while in Durham, thinking one paöe coloured shirt would be smart to have in hot, sunny, weather. And then almost never wore it, as it was too tight on my hips and the sleeves felt funny.
+Since we planned to be outside today, and it was sunny, it felt like a good time to solve that. I cut off the sleeves, cut them into triangles, opened the side seams ay the hips, inserted the triangles, and suddenly I have a loos, comfy shirt for sunny days.
+![[2026-06-21 shirt.jpg|500]]
 # [[2026-05-20 first day Ireland visit]]
 Mended my [[Blue thick short nålbinded socks]]. I had sewed the toe shut, rather than spiraling from the toe, and that seam failed. Since I was out of the blue yarn, I used some black and added one more row to that toe and then sewed it shut.
 - [x] make them a card if they haven't one

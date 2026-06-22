@@ -33,7 +33,11 @@ After filming that, and chatting with a few people, I joined the people in Dansk
 
 ![[2026-06-13 dancing.jpg|500]]
 
-Then I chatted with a few more people, till the series of dance workshops started. They were all at beginner level, but all dancing is fun, so I joined them for every set. Each workshop was 30 minutes, and had a different teacher. 
+Then I chatted with a few more people, and bought the Herrskapsdans books
+
+![[2026-06-18 herskappdansbok.jpg|500]]
+
+till the series of dance workshops started. They were all at beginner level, but all dancing is fun, so I joined them for every set. Each workshop was 30 minutes, and had a different teacher. 
 
 First Helena ran a set of easy dances for children and adults, then Caroline taught basic Schottis, followed by Eva's Rundpolska set, David's Vals workshop, and finally Elisabet's Kadril course.
 
