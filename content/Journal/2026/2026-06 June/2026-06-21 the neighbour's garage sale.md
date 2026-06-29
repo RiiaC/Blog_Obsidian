@@ -14,7 +14,9 @@ training:
 projects:
 tags:
 ---
-I started the day by altering my [[Mending and altering#2026-06-21 the neighbour's garage sale 2026-06-21 blue t-shirt|blue t-shirt]]. It is amazing what a different in comfort one can get drom converting dleeves to hip gores.
+I started the day by altering my [[Mending and altering#2026-06-21 the neighbour's garage sale 2026-06-21 blue t-shirt|blue t-shirt]]. It is amazing what a difference in comfort one can get from converting sleeves to hip gores!
+
+![[2026-06-21 shirt.jpg|500]]
 
 While Keldor mowed the lawn this morning I went up to the store to buy some milk so I could make the eggnog I forgot to make yesterday (which, since we hadn't bought milk yesterday, I couldn't have done if I had remembered it).
 

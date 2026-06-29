@@ -28,6 +28,8 @@ Once it is all gone he will sandblast the stone clean, and fill in gaps between 
 # Adventures 
 After breakfast,  Keldor, Tania and I went out for adventures, driving over to the [Kells Priory](https://wheni.guide/IE/Kilkenny/en/KellsPriory/) (not the one from the book of Kells, that one is closer to Dublin, this one is in Kells, Co. Kilkenny)
 ## Kells Priory photos 
+![[2026-05-22 hug at Kells Priory.jpeg|500]]
+Tania took this one of us hugging, I really like it! We took the others.
 
 ![[2026-05-22 sign.jpg|500]]![[2026-05-22 Kells Priory 1.jpg|500]]
 ![[2026-05-22 Kells Priory 2.jpg|500]]

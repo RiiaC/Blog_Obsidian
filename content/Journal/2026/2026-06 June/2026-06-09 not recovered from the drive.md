@@ -29,6 +29,6 @@ Then I headed to the cellar and got out the roll of wet room wall paper to measu
 
 But then I couldn't find the folding measuring stick, and came up stairs to see if one was here. By then Keldor had finished the lawn and was relaxing on the couch,  and he said he has no idea where it was.
 
-So I sat down next to him and read a book before updating this. The wallpaper cam wait for tomorrow. 
+So I sat down next to him and read a book before updating this. The wallpaper can wait for tomorrow. 
 
 Previous post: [[2026-06-08 long drive, day two]]

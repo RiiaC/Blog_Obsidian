@@ -65,7 +65,12 @@ I was feeling pretty good about my luck with that start, till he lay two pieces 
 # the best part of the week
 As we finished the game and washed up the lunch dishes our housekeeper arrived. She didn't come last week due to the death of her husband’s mother, which is totally understandable. This was fine for us, as it took till today to finish putting away the piles of stuff that got unloaded from the car after the road trip. But boy did the house need cleaning now that the stuff is away.
 
-While she worked her magic we drove over to Angelika's to pick up the hot tub they are giving us. The next step in that project will be deciding exactly where we want it to live, removing the grass and preparing the ground.
+While she worked her magic we drove over to Angelika's to pick up the hot tub they are giving us. 
+
+![[2026-06-14 hot tub.jpg|500]]
+We left it in the side of the yard, not where it will sit, but out of the way till we build the deck it will integrate with.
+
+The next step in that project will be deciding exactly where we want it to live, removing the grass and preparing the ground.
 
 Oh, was it nice to go upstairs again after she had cleaned everything!
 # painting 
