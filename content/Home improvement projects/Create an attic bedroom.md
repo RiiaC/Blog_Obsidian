@@ -1,13 +1,20 @@
 # The vision/motivation
+## the initial reasons 
 Part of the reason to want to create a bedroom in the attic is to have another useable room on the main floor, but, since we are going to the effort of building walls and adding insulation, why not make it pretty too?
 
 I have wanted a “wall bed” since I was little and saw one in a drawing in a kids book. Just because I have a king sized bed is no reason not to have one! While I am at it, we can even make it a book nook.
-
+## initial vision
 So now I have a vision of the east wall of the room comprised of built in drawers for clothes across the width of the room, and up to about hip height. The framing around the drawers can be formed with steps to make climbing into bed easier.
 
 Above the drawers the bed would be centred in the space, with bookshelves on three sides surrounding the bed and framing the window. Perhaps some under bed storage behind the drawers, accessible through sloped and padded hatches. that double as backrests.
 
 The opening to the bed area could be framed by decorative wood carved like knotwork dragons or something, covering the sides of the bookshelves, and curtains (dark blue, of course) could hang down and soften the full effect. It will be interesting to see how near to this vision the project comes.
+## [[2026-07-05 leaving Ren fair and adventures]] inspiration thoughts
+- I woke up thinking of the attic bedroom, and suddenly thought that perhaps instead of decorating the asbestos pipe to be a fake chimney for an electric "fireplace", perhaps we can seal it in wetroom wallpaper, paint it, and wrap it in very thick roap to be a cat climbing and scratching post.
+- then we could build a pretty arch bridge between the various beams for them to have the run of up. We could then hang pretty things under the arch bridges that are still high enough to be out of the way.
+- the electric fireplace we could bild into a thin stone wall in front of the sliding door to the bathroom.
+- the new hat rack could go on the wall in the corner of stairs, infront of the door to the cold closet.
+- we should put a floor over the insulation in the cold closet, in case the cats ever get in. Then we could put a hanging rack and move the attic coat storage in there
 # progress notes
 - [[2026-03-08 lots of progress|2026-03-08]] we finally resumed adding insulation to the roof of the bedroom area, and got it mostly covered before we used up the last of the metal lists he had prepared to hold it in place.
 ![[2026-03-08 insulation.jpg|500]]

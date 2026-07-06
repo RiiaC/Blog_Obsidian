@@ -1,12 +1,12 @@
 ---
 also_on_Dreamwidth: Yes
-tags:
-  - houseguests
-  - re-arranging_furniture
 country: Sweden
 location:
   - Lövånger
   - Skellefteå
+tags:
+  - houseguests
+  - re-arranging_furniture
 ---
 Back in February I got a FB message from Martin, a guy in An Tir who wants to move to Sweden, and who had gotten my name from a mutual friend. I was, of course happy to answer all of his questions and enthusiastically encourage the idea.
 
@@ -16,7 +16,7 @@ At the same time, Keldor and I went to Umeå for a Midsummer bbq, and whilst in 
 
 On Saturday Martin and Molly started the long drive north to visit us, and we started a home improvement task. 
 
-The City Council recently decided to change how trash is collected. Instead of our needing to take away our recycling ourselves to a local collection station, they traded out our trash bins to new, larger bins with divided interiors, one for each catagory (compost, paper, cardboard, plastic, metal, coloured glass, clear glass, and everything else (unless it needs special treatment, such as  electronics, paint, etc)).
+The City Council recently decided to change how trash is collected. Instead of our needing to take away our recycling ourselves to a local collection station, they traded out our trash bins to new, larger bins with divided interiors, one for each category (compost, paper, cardboard, plastic, metal, coloured glass, clear glass, and everything else (unless it needs special treatment, such as  electronics, paint, etc)).
 
 With this change we realised that we no longer need the closet full of large plastic bins to sort recycling. So instead we emptied and cleaned the under sink area. Then we put a few small containers there to collect small piles of sorted glass  plastic and metal before we take them to the large bin in the yard. We left one large plastic bin in the old recycling closet in which to hold things like electronic scrap before we take it to the city dump, and we left the paper bag to collect cardboard scrap next to it. 
 
