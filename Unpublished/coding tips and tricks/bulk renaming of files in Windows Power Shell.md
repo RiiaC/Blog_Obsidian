@@ -1,4 +1,4 @@
-The following code was used in Windows Power Shell on [[2026-07-06]] on 26 photos taken yesterday. Their file name was in the format 20260705_163158. I first moved them to my content > images folder in obsidian, and I wanted their name to be 2026-07-05_Mårdselefors_163158 (and additional numbers for the other photos). So I spoke to CoPilot, and it gave me this code:
+The following code was used in Windows Power Shell on [[2026-07-06 the theme for the day is necklines]] on 26 photos taken yesterday. Their file name was in the format 20260705_163158. I first moved them to my content > images folder in obsidian, and I wanted their name to be 2026-07-05_Mårdselefors_163158 (and additional numbers for the other photos). So I spoke to CoPilot, and it gave me this code:
 ````
 Get-ChildItem 20260705_*.jpg | Rename-Item -NewName { $_.Name -replace '^(\d{4})(\d{2})(\d{2})_(\d+)', '$1-$2-$3_Mårdselefors_$4' }
 ````
@@ -18,5 +18,5 @@ saying that:
 
 # edit this one for next time:
 ````
-Get-ChildItem 20260704_*.jpg | Rename-Item -NewName { $_.Name -replace '^(\d{4})(\d{2})(\d{2})_(\d+)', '$1-$2-$3_Hembygdsgården_museum$4' }
+Get-ChildItem 20260707_*.jpg | Rename-Item -NewName { $_.Name -replace '^(\d{4})(\d{2})(\d{2})_(\d+)', '$1-$2-$3_loppis_$4' }
 ```
