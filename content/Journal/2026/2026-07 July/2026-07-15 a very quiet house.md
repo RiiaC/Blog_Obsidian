@@ -23,5 +23,8 @@ Then I went home to a house with no one in it save the cats and I. It feels quie
 This morning Keldor mentioned Bugs Bunny, and I remembered the comic hard-bound book I had when I was little, so I went looking for it, [and found it](https://www.mycomicshop.com/search?TID=626941). That shop even has a copy for sale for only $9, but they want another $29 to ship it to Sweden, so I didn't buy one. I did, however, share the link with Bryan, who will be here in mid-August, so perhaps he could get it and bring it here.
 ![[Pasted image 20260715093954.png|200]]
 
+I continued to take a lazy day, reading, and a long nap, and finally became more active after Keldor got home from work, cleaning the kitchen and doing some laundry as he mowed the lawn, and then helping him put stuff away that has been in his car since the event this weekend.
+
+Even that little bit got me to feeling tired and cranky by bed time.
 
 Previous post: [[2026-07-14 a saddle for a dragon]]
