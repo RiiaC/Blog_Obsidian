@@ -7,6 +7,13 @@ completed:
 # Plan: 
 Create a small room in the attic with a toilet and sink, running the plumbing down next to the ventilation that goes between the bathroom on the main floor and the linen closet. In the cellar, add an additional toilet in the laundry room, connecting with the same new plumbing. This will transform the house from having one toilet to having three!
 # Progress:
+## [[2026-07-17 progress on projects]]
+
+He'd picked  up some plywood sheets, which we carried to the attic, and made some plate metal U-shaped lists to cover the door opening in the cellar.
+We put the metal lists around the door, then I put the wooden trim along the edge of the wall, over the metal:
+
+![[2026-07-17 lists.jpg|500]]
+
 ## [[2026-06-19 another productive day at home|2026-06-19]]
 Painted ceiling and the windows frame h (and a temporary wall leaning over the window opening has been put up to keep animals and insects out till it is dry enough to put back the window).
 
