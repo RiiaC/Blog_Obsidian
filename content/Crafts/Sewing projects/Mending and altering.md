@@ -4,6 +4,8 @@ catagory: Mending
 A list of mending projects that aren't getting their own notes.
 - [ ] add an entry for the reengarda banners pole channel done in Ireland, and the one done on the ride to Double Wars
 - [ ] is there an entry for our silk banners, which got their channels the week before Double Wars?
+# [[2026-07-18 loppisrunda|2026-07-18]]
+Replaced the phone pocket on my rainbow phone belt, making a much better extra pocket for my passport this time.
 # [[2026-06-21 the neighbour's garage sale|2026-06-21]] blue t-shirt 
 I bought a robin's egg blue t-shirt at a second had store in 2018 while in Durham, thinking one paöe coloured shirt would be smart to have in hot, sunny, weather. And then almost never wore it, as it was too tight on my hips and the sleeves felt funny.
 Since we planned to be outside today, and it was sunny, it felt like a good time to solve that. I cut off the sleeves, cut them into triangles, opened the side seams ay the hips, inserted the triangles, and suddenly I have a loose, comfy shirt for sunny days.

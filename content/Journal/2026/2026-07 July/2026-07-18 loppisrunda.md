@@ -13,7 +13,12 @@ low_temp(°C):
 training:
   - Yoga
 projects:
+  - "[[Create extra bathrooms]]"
+  - "[[Create an attic bedroom]]"
+  - "[[Mending and altering]]"
 ---
+I got up early for a 06:00 zoom call with my sisters, and took the opportunity to  [[Mending and altering#2026-07-18 loppisrunda 2026-07-18|cut out a new pocket for my phone on my phone belt]]. It was good to hear about Amber's 10-day hike in the UK. Now that they have done it, they recommend having your luggage sent on to the place you sleep and carry only a light day pack.
+
 Today was the annual "Loppisrunda" (garage sale circuit) for the local villages. We left the house just after 10:00, and made it to 15 of the garage sales (at which we bought something at 14 of them), and then drove 20 minutes south to [Stenfors Gård Antiques and Second Hand Store](https://stenforsgard.se/). 
 
 ![[2026-07-18 22 Lopisrunda.png|500]]
