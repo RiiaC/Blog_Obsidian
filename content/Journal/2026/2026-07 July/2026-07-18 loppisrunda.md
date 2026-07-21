@@ -1,21 +1,21 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
   - "[[Create extra bathrooms]]"
   - "[[Create an attic bedroom]]"
   - "[[Mending and altering]]"
+tags:
 ---
 I got up early for a 06:00 zoom call with my sisters, and took the opportunity to  [[Mending and altering#2026-07-18 loppisrunda 2026-07-18|cut out a new pocket for my phone on my phone belt]]. It was good to hear about Amber's 10-day hike in the UK. Now that they have done it, they recommend having your luggage sent on to the place you sleep and carry only a light day pack.
 
@@ -82,6 +82,8 @@ This is the big antique/second hand store in the area. People leave things to be
 It was a fun day. I bought stuff myself at only half of the stops, and spent only 260 kr total, and most  of what I got was 30 kr or less. He bought more stuff, at more stops, and spent more than that.
 
 After we got home we curled up on the couch for a bit with a book and some food (he had videos and food) before heading upstairs to make more progress putting in walls and ceiling and insulation in the room in the attic. The goal is to have that part done before winter, so the pipes to my new toilet and sink don't freeze. He also installed the lamp he bought for the upstairs loo, so now we can see in there when the door is closed, which is nice.
+
+I think this was also the day that he put insulation over the old door between the guest room and the laundry room, and then covered it with some plywood, in hopes of cutting down on noise in that room when the door is shut.
 
 Now it is after midnight, and I am tired, so I should do some yoga and get to sleep.
 
