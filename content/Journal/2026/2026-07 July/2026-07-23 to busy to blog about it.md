@@ -18,6 +18,8 @@ tags:
 ---
 Lots of good progress with my work time, despite stopping to help Gilbert with his gambeson now and then.
 
+![[2026-07-23 BeReal.jpeg|500]]
+
 In the evening we made some progress on the attic room.
 
 

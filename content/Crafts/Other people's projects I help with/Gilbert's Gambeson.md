@@ -1,11 +1,11 @@
 ---
+image: "[[2026-07-23 gambeson pieces.jpg]]"
+catagory: Sewing
 date started: "[[2026-07-22 fitting Gilbert's gambeson]]"
+completed:
 materials used:
   - Linen 
   - Cotton_terrycloth
-image: "[[2026-07-23 gambeson pieces.jpg]]"
-catagory: Sewing
-completed:
 ---
 On [[2026-07-22 fitting Gilbert's gambeson|2026-07-22]] Gilbert came over and we started cutting a gambeson for him. Even though his "inspired by" Image is later period, we opted to use rectangular construction, because easier. 
 

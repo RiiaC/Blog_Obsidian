@@ -20,7 +20,6 @@ tags:
 Today we went out to the smithy at Vallen, to be part of  the entertainment at  Barnens Dag (Children's Day).
 
 This year we both worked in the smithy, as I had some old meat hooks that I have been using for years to hang stuff in the pavilion that I wanted to modify to something prettier and less stabby points. I was happy with the result.
-
 # working 
 
 ![[2026-07-25 fixing hooks.jpeg|500]]
