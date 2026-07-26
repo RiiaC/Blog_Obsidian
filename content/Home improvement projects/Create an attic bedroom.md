@@ -16,6 +16,9 @@ The opening to the bed area could be framed by decorative wood carved like knotw
 - the new hat rack could go on the wall in the corner of stairs, infront of the door to the cold closet.
 - we should put a floor over the insulation in the cold closet, in case the cats ever get in. Then we could put a hanging rack and move the attic coat storage in there
 # progress notes
+- [[2026-07-24 more attic progress]] putring up walls and window frame
+![[2026-07-24 cutting plywood.jpg|500]]
+![[2026-07-24 plywood on walls.jpg|500]]
 - [[2026-07-17 progress on projects]]
 I went upstairs and helped Keldor with the attic.
 We got most of the north wall of the room covered, and started putting up the celing in the entry area, and covering thst with insulation. 
