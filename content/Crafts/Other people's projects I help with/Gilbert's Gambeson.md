@@ -7,15 +7,16 @@ image: "[[2026-07-23 gambeson pieces.jpg]]"
 catagory: Sewing
 completed:
 ---
-On [[2026-07-22 fitting Gilbert's gambeson|Gilbert]] came over and we started cutting a gambeson for him. Even though his "inspired by" Image is later period, we opted to use rectangular construction, because easier. 
+On [[2026-07-22 fitting Gilbert's gambeson|2026-07-22]] Gilbert came over and we started cutting a gambeson for him. Even though his "inspired by" Image is later period, we opted to use rectangular construction, because easier. 
 
-He bought both black amd yellow linen for the shell and lining, andold terry cloth towels for the padding. 
+He bought both black and yellow linen for the shell and lining, and old terry cloth towels for the padding. 
 
 I opted to jump straight to using the towels as the patterning fabric, draping a large one over his back, marking the curve of his neck and slope of shoulders, and cutting away what wasn't needed.
 # lining pieces layout on fabric
 
 ![[2026-07-23 gambeson pieces.jpg|500]]
 # Diagram
+quick sketch, made on my phone, with my finger, gives a rough idea of the project layout
 ![[2026-07-25 gambeson.png|500]]
 ## in colour
 ![[2026-07-25 G gambeson.png|500]]
