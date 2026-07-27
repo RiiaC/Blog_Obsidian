@@ -1,18 +1,18 @@
 ---
 also_on_Dreamwidth: Not yet
-tags:
+photos_pubished:
+image:
 country:
   - Sweden
 location:
   - Lövånger
-image:
-photos_pubished:
-weight(kg):
 high_temp(°C):
 low_temp(°C):
+weight(kg):
 training:
   - Yoga
 projects:
+tags:
 ---
 
 Keldor’s alarm went off this morning at the wrong point in my sleep cycle, and I didn't want to get up. But I didn't want to miss our morning phone call as he drives to work, either, so I got up, and, as we chatted I put away a couple of things and dealt with the washer that I had started on an 8-hour delay before heading to bed.

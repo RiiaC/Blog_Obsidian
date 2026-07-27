@@ -25,6 +25,7 @@ tags:
   - lucky_find
   - second_hand_stores
 ---
+# roadtrip log
 I slept at Tönnebro till 02:15, did some yoga, and started driving again at 02:47.
 
 I stopped again at the 24 hour gas station just south of Sundsvall at 04:18, filled the tank, used the loo, bought a berry juice, naped for 20 minutes, and got back on the road.
@@ -42,14 +43,13 @@ The next stop was the has station in Umeå, where I bought a black current and v
 Keldor called me just as I bought the first, and when I told him what I was eating he commented that it had been made for me. It really was.
 
 I finally reached home at 16:50, unloaded only food, computer bag, and my pillows, and curled up with a book for a bit. The event stuff can wait for tomorrow. 
-
-Keldor came home from work a bit later, with his new purchace, a second hand EmcoStar all in one compact shop tool, [like the one in this blog](https://woodgears.ca/reader/paul/emcostar.html). He bought it from a retired guy who doesn't use it any more, who had inherited it from his dad. 
+# Home to find a new cool tool for the workshop
+Keldor came home from work a bit later, with his new purchase, a second hand EmcoStar all in one compact shop tool, [like the one in this blog](https://woodgears.ca/reader/paul/emcostar.html). He bought it from a retired guy who doesn't use it any more, who had inherited it from his dad. 
 
 ![[2026-06-08 emcostar.jpg|500]]
 
 He paid for it yesterday and picked it up today, and when there the guy asked him, would you also like a knife sharpening machine? Yes, yes he would.
 
 By 18:00 Keldor was feeling like a nap, and I was super tired, so we went to lay down for a bit, and woke more than two hours later. He got up and had dinner, I started adding recent photos to my blogs and replying to messages, and before I knew it, it was after midnight. oops. Road trips do weird things to one's sleep schedule.
-
 
 Previous post: [[2026-06-07 a travel day]]

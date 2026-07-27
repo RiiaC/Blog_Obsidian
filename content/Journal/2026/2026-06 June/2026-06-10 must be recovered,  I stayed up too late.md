@@ -27,13 +27,13 @@ https://bardictorch.miraheze.org/wiki/Get_Started_Contributing
 
 I have been thinking of adding a bardic section to this blog, and copying over my songs from Trello, but this really encourages me to do so, so I can link my stuff there, and make it available to others. Besides, there are no Swedish songs there, yet. (But no time to start thay today)
 # How's Hugo doing?
-On my walk home from the bus I went past Bryan's to see how Hugo wwas getting on. 
+On my walk home from the bus I went past Bryan's to see how Hugo was getting on. 
 
 ![[2026-06-10 Hugo.jpg|500]]
 
 Good little lawn mower! Having Hugo running daily has transformed the lawn into a groomed service. 
 # A yummy interlude 
-Then I went home, cooked my artichoke, and, as it cooked, made an experimental batch of [[Browned butter and roasted almond candy]], which I carefully didn't try until after eating my artichoke. I attemped to walk away from the candy four times. I finally succeded, but I think I ate about half the batch before I escaped to the cellar, far from temptation. 
+Then I went home, cooked my artichoke, and, as it cooked, made an experimental batch of [[Browned butter and roasted almond candy]], which I carefully didn't try until after eating my artichoke. I attempted to walk away from the candy four times. I finally succeed, but I think I ate about half the batch before I escaped to the cellar, far from temptation. 
 # Home improvements 
 While Keldor finished mowing our lawn I cut the fibreglass wallpaper to cover the wall in the downstairs bathroom.
 
@@ -43,7 +43,7 @@ After we finished the wallpaper I was inspired to put away the stuff in the lugg
 
 Having done that, I was inspired to start unloading the car, thinking that I would put away a couple of things, and save the rest for tomorrow. 
 
-But I was having so much fun putting things where they belong, that I just kept going. I didn't stop till the only things left in the van were the box that lives upstsirs in the entry way and Keldor’s new spit-roasting grill. We don't yet have an "away" for the grill yet, and the chest can sit there till tomorrow, when we can drive the car around to the front of the house.
+But I was having so much fun putting things where they belong, that I just kept going. I didn't stop till the only things left in the van were the box that lives upstairs in the entry way and Keldor’s new spit-roasting grill. We don't yet have an "away" for the grill yet, and the chest can sit there till tomorrow, when we can drive the car around to the front of the house.
 # Stayed up too late 
 Then I went upstairs, spent quite a while in various conversations on Messenger, did my yoga, and updated this. I would wonder how it is nearly midnight already, but I think I know.
 # Of course, I didn't go to sleep straight away
